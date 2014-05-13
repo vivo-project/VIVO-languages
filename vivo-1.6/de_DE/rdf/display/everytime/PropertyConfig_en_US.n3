@@ -90,14 +90,14 @@
 <http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/hasReviewerRoleConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Reviewer von"@de-DE .
 <http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/hasClinicalRoleConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "klinische Tätigkeiten"@de-DE .
 <http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/educationalTrainingConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Ausbildung und Schulung"@de-DE .
-<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/organizationForTrainingConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "organization for training"@en-US .
-<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/webpageInfoConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "webpage"@en-US .
-<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/hasLeaderRoleConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "head of"@en-US .
-<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/orgAdministersGrantConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "administers grant"@en-US .
-<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/webpageOrgConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "webpage"@en-US .
-<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/webpagePersonConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "webpage"@en-US .
-<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/hasTeacherRoleConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "teaching activities"@en-US .
-<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/awardReceiptsConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "receipt of"@en-US .
-<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/informationResourceInEditorshipConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "editors"@en-US .
-<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/organizationForPositionConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "people"@en-US .
-<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/primaryEmailConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "primary email"@en-US .
+<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/organizationForTrainingConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Bildungseinrichtung"@de-DE .
+<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/webpageInfoConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Webseite"@de-DE .
+<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/hasLeaderRoleConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Leitung von"@de-DE .
+<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/orgAdministersGrantConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "verwaltet Forschungsprojekt"@de-DE .
+<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/webpageOrgConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Webseite"@de-DE .
+<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/webpagePersonConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Webseite"@de-DE .
+<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/hasTeacherRoleConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Lehre"@de-DE .
+<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/awardReceiptsConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "receipt of"@de-DE .
+<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/informationResourceInEditorshipConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Herausgeber"@de-DE .
+<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/organizationForPositionConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Personen"@de-DE .
+<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/primaryEmailConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "primäre E-Mail-Adresse"@de-DE .
