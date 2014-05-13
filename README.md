@@ -1,34 +1,16 @@
-VIVO-languages
-==============
+German VIVO language project 
+============================
 
-Files that enable VIVO (supported by Vitro) to operate in languages beyond American English.
+Files that enable VIVO (supported by Vitro) to operate in German.
 
 The repository is structured this way
 * Each top-level directory represents a different release of VIVO.
 * Within these, each Second-level directory contains files for a specific langauge, for that release. 
 These directories are named for the "locale" of the language and region that they represent.
 
-For example, a directory of files for the French language (fr), as used in Belgium (BE), for VIVO release 1.6:
+For example, a directory of files for the German language (de), as used in Germany (DE), for VIVO release 1.6:
 
-    /vivo-1.6/fr_BE/
-
-Available language files
-------------------------
-
-All members of the core development team speak only American English, 
-so we have produced an example language set that holds the English-language strings
-in VIVO:
-
-    /vivo-1.6/en_US
-
-This set of files is provided as an example, so those who wish to produce a translation
-may have a template to copy.
-
-Our first translation is in Spanish, contributed by Federico Sancho, of IICA (http://iica.int),
-as part of a project with eScire (http://escire.mx/). We are very grateful to them for contributing 
-this translation to the VIVO community.
-
-    /vivo-1.6/es
+    /vivo-1.6/de_DE/
 
 Using the language files
 ------------------------
