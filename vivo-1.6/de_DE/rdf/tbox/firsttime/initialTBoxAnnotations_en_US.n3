@@ -131,7 +131,7 @@
 <http://vivoweb.org/ontology/core#overview> <http://www.w3.org/2000/01/rdf-schema#label> "Überblick"@de-DE .
 <http://vivoweb.org/ontology/core#FundingOrganization> <http://www.w3.org/2000/01/rdf-schema#label> "Förderorganisation"@de-DE .
 <http://vivoweb.org/ontology/core#assignedBy> <http://www.w3.org/2000/01/rdf-schema#label> "vergeben von"@de-DE .
-<http://vivoweb.org/ontology/core#DateTimeValue> <http://www.w3.org/2000/01/rdf-schema#label> "Datum/Zeit Wert"@de-DE .
+<http://vivoweb.org/ontology/core#DateTimeValue> <http://www.w3.org/2000/01/rdf-schema#label> "Datum/Uhrzeit Wert"@de-DE .
 <http://vivoweb.org/ontology/core#description> <http://www.w3.org/2000/01/rdf-schema#label> "Beschreibung"@de-DE .
 <http://vivoweb.org/ontology/core#distributesFundingFrom> <http://www.w3.org/2000/01/rdf-schema#label> "verteilt die Mittel von"@de-DE .
 <http://purl.org/ontology/bibo/prefixName> <http://www.w3.org/2000/01/rdf-schema#label> "Namenspräfix"@de-DE .
@@ -168,36 +168,36 @@
 <http://vivoweb.org/ontology/core#GovernmentAgency> <http://www.w3.org/2000/01/rdf-schema#label> "Behörde"@de-DE .
 <http://purl.org/ontology/bibo/published> <http://www.w3.org/2000/01/rdf-schema#label> "veröffentlicht"@de-DE .
 <http://vivoweb.org/ontology/core#hasValue> <http://www.w3.org/2000/01/rdf-schema#label> "hatden Wert"@de-DE .
-<http://vivoweb.org/ontology/core#EducationalProcess> <http://www.w3.org/2000/01/rdf-schema#label> "Educational Process"@en-US .
-<http://vivoweb.org/ontology/core#identifier> <http://www.w3.org/2000/01/rdf-schema#label> "identifier"@en-US .
-<http://vivoweb.org/ontology/core#Review> <http://www.w3.org/2000/01/rdf-schema#label> "Review"@en-US .
-<http://vivoweb.org/ontology/core#PostdocOrFellowAdvisingRelationship> <http://www.w3.org/2000/01/rdf-schema#label> "Postdoc or Fellow Advising Relationship"@en-US .
-<http://vivoweb.org/ontology/core#TeacherRole> <http://www.w3.org/2000/01/rdf-schema#label> "Teacher Role"@en-US .
-<http://vivoweb.org/ontology/core#outreachOverview> <http://www.w3.org/2000/01/rdf-schema#label> "outreach overview"@en-US .
-<http://vivoweb.org/ontology/core#informationResourceSupportedBy> <http://www.w3.org/2000/01/rdf-schema#label> "supported by"@en-US .
-<http://vivoweb.org/ontology/core#dateTimePrecision> <http://www.w3.org/2000/01/rdf-schema#label> "date/time precision"@en-US .
-<http://vivoweb.org/ontology/core#publisher> <http://www.w3.org/2000/01/rdf-schema#label> "publisher"@en-US .
-<http://vivoweb.org/ontology/core#OutreachProviderRole> <http://www.w3.org/2000/01/rdf-schema#label> "Outreach Provider Role"@en-US .
-<http://purl.org/ontology/bibo/Note> <http://www.w3.org/2000/01/rdf-schema#label> "Note"@en-US .
-<http://vivoweb.org/ontology/core#AdministratorRole> <http://www.w3.org/2000/01/rdf-schema#label> "Administrator Role"@en-US .
-<http://vivoweb.org/ontology/core#FacultyPosition> <http://www.w3.org/2000/01/rdf-schema#label> "Faculty Position"@en-US .
-<http://purl.org/ontology/bibo/isbn10> <http://www.w3.org/2000/01/rdf-schema#label> "International Standard Book Number (ISBN ) 10"@en-US .
-<http://purl.org/ontology/bibo/eanucc13> <http://www.w3.org/2000/01/rdf-schema#label> "EAN International- Uniform Code Council (EAN- UCC) 13"@en-US .
-<http://vitro.mannlib.cornell.edu/ns/vitro/public> <http://www.w3.org/2000/01/rdf-schema#label> "Vitro Public Ontology"@en-US.
-<http://vivoweb.org/ontology/core#Building> <http://www.w3.org/2000/01/rdf-schema#label> "Building"@en-US .
-<http://purl.org/ontology/bibo/Manual> <http://www.w3.org/2000/01/rdf-schema#label> "Manual"@en-US .
-<http://vivoweb.org/ontology/core#freetextKeyword> <http://www.w3.org/2000/01/rdf-schema#label> "keywords"@en-US .
-<http://purl.org/ontology/bibo/rejected> <http://www.w3.org/2000/01/rdf-schema#label> "rejected"@en-US .
-<http://purl.org/ontology/bibo/issn> <http://www.w3.org/2000/01/rdf-schema#label> "International Standard Serial Number (ISSN )"@en-US .
-<http://vivoweb.org/ontology/core#hasAssociatedConcept> <http://www.w3.org/2000/01/rdf-schema#label> "associated concept"@en-US .
-<http://vivoweb.org/ontology/core#yearPrecision> <http://www.w3.org/2000/01/rdf-schema#label> "year value"@en-US.
-<http://vivoweb.org/ontology/core#Continent> <http://www.w3.org/2000/01/rdf-schema#label> "Continent"@en-US .
-<http://vivoweb.org/ontology/core#ResearchProposal> <http://www.w3.org/2000/01/rdf-schema#label> "Research Proposal"@en-US .
-<http://vivoweb.org/ontology/core#preferredDisplayOrder> <http://www.w3.org/2000/01/rdf-schema#label> "preferred display order"@en-US .
-<http://vivoweb.org/ontology/core#Speech> <http://www.w3.org/2000/01/rdf-schema#label> "Speech"@en-US .
-<http://vivoweb.org/ontology/core#contactInformation> <http://www.w3.org/2000/01/rdf-schema#label> "contact information"@en-US .
-<http://vivoweb.org/ontology/core#Division> <http://www.w3.org/2000/01/rdf-schema#label> "Division"@en-US .
-<http://purl.org/ontology/bibo/director> <http://www.w3.org/2000/01/rdf-schema#label> "director"@en-US .
+<http://vivoweb.org/ontology/core#EducationalProcess> <http://www.w3.org/2000/01/rdf-schema#label> "Bildungsprozess"@de-DE .
+<http://vivoweb.org/ontology/core#identifier> <http://www.w3.org/2000/01/rdf-schema#label> "Identifier"@de-DE .
+<http://vivoweb.org/ontology/core#Review> <http://www.w3.org/2000/01/rdf-schema#label> "Review"@de-DE .
+<http://vivoweb.org/ontology/core#PostdocOrFellowAdvisingRelationship> <http://www.w3.org/2000/01/rdf-schema#label> "Postdoc or Fellow Advising Relationship????"@de-DE .
+<http://vivoweb.org/ontology/core#TeacherRole> <http://www.w3.org/2000/01/rdf-schema#label> "Rolle des Lehrenden"@de-DE .
+<http://vivoweb.org/ontology/core#outreachOverview> <http://www.w3.org/2000/01/rdf-schema#label> "alle Kontakte"@de-DE .
+<http://vivoweb.org/ontology/core#informationResourceSupportedBy> <http://www.w3.org/2000/01/rdf-schema#label> "unterstützt von"@de-DE .
+<http://vivoweb.org/ontology/core#dateTimePrecision> <http://www.w3.org/2000/01/rdf-schema#label> "Datum/Uhrzeit-Angabe"@de-DE .
+<http://vivoweb.org/ontology/core#publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Herausgeber"@de-DE .
+<http://vivoweb.org/ontology/core#OutreachProviderRole> <http://www.w3.org/2000/01/rdf-schema#label> "Rolle des Kontaktanbieters"@de-DE .
+<http://purl.org/ontology/bibo/Note> <http://www.w3.org/2000/01/rdf-schema#label> "Kommentar"@de-DE .
+<http://vivoweb.org/ontology/core#AdministratorRole> <http://www.w3.org/2000/01/rdf-schema#label> "Rolle des Administrators"@de-DE .
+<http://vivoweb.org/ontology/core#FacultyPosition> <http://www.w3.org/2000/01/rdf-schema#label> "Professorenstelle"@en-US .
+<http://purl.org/ontology/bibo/isbn10> <http://www.w3.org/2000/01/rdf-schema#label> "International Standard Book Number (ISBN ) 10"@de-DE .
+<http://purl.org/ontology/bibo/eanucc13> <http://www.w3.org/2000/01/rdf-schema#label> "EAN International- Uniform Code Council (EAN- UCC) 13"@de-DE .
+<http://vitro.mannlib.cornell.edu/ns/vitro/public> <http://www.w3.org/2000/01/rdf-schema#label> "Vitro Public Ontology"@de-DE.
+<http://vivoweb.org/ontology/core#Building> <http://www.w3.org/2000/01/rdf-schema#label> "Gebäude"@de-DE .
+<http://purl.org/ontology/bibo/Manual> <http://www.w3.org/2000/01/rdf-schema#label> "Handbuch"@de-DE .
+<http://vivoweb.org/ontology/core#freetextKeyword> <http://www.w3.org/2000/01/rdf-schema#label> "Stichwörter"@de-DE .
+<http://purl.org/ontology/bibo/rejected> <http://www.w3.org/2000/01/rdf-schema#label> "abgelehnt"@de-DE .
+<http://purl.org/ontology/bibo/issn> <http://www.w3.org/2000/01/rdf-schema#label> "International Standard Serial Number (ISSN )"@de-DE .
+<http://vivoweb.org/ontology/core#hasAssociatedConcept> <http://www.w3.org/2000/01/rdf-schema#label> "zugeordneter Begriff"@de-DE .
+<http://vivoweb.org/ontology/core#yearPrecision> <http://www.w3.org/2000/01/rdf-schema#label> "Jahr Wert"@de-DE.
+<http://vivoweb.org/ontology/core#Continent> <http://www.w3.org/2000/01/rdf-schema#label> "Kontinent"@de-DE .
+<http://vivoweb.org/ontology/core#ResearchProposal> <http://www.w3.org/2000/01/rdf-schema#label> "Forschungsantrag"@de-DE .
+<http://vivoweb.org/ontology/core#preferredDisplayOrder> <http://www.w3.org/2000/01/rdf-schema#label> "bevorzugte Anzeigesortierung"@de-DE .
+<http://vivoweb.org/ontology/core#Speech> <http://www.w3.org/2000/01/rdf-schema#label> "Vortrag"@de-DE .
+<http://vivoweb.org/ontology/core#contactInformation> <http://www.w3.org/2000/01/rdf-schema#label> "Kontaktinformationen"@de-DE .
+<http://vivoweb.org/ontology/core#Division> <http://www.w3.org/2000/01/rdf-schema#label> "Abteilung"@de-DE .
+<http://purl.org/ontology/bibo/director> <http://www.w3.org/2000/01/rdf-schema#label> "Direktor"@de-DE .
 <http://purl.org/ontology/bibo/Patent> <http://www.w3.org/2000/01/rdf-schema#label> "Patent"@en-US .
 <http://vivoweb.org/ontology/core#hasPrerequisite> <http://www.w3.org/2000/01/rdf-schema#label> "has prerequisite"@en-US .
 <http://purl.org/ontology/bibo/reviewOf> <http://www.w3.org/2000/01/rdf-schema#label> "review of"@en-US .
