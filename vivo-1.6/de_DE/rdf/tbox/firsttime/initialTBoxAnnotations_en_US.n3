@@ -140,34 +140,34 @@
 <http://vivoweb.org/ontology/core#LibrarianPosition> <http://www.w3.org/2000/01/rdf-schema#label> "Bibliothekar"@de-DE .
 <http://vivoweb.org/ontology/core#dateIssued> <http://www.w3.org/2000/01/rdf-schema#label> "Ausstellungsdatum"@de-DE .
 <http://purl.org/ontology/bibo/ThesisDegree> <http://www.w3.org/2000/01/rdf-schema#label> "Doktorand"@de-DE .
-<http://purl.org/ontology/bibo/BookSection> <http://www.w3.org/2000/01/rdf-schema#label> "Book Section"@en-US .
-<http://vivoweb.org/ontology/core#hasPredecessorOrganization> <http://www.w3.org/2000/01/rdf-schema#label> "predecessor organization"@en-US .
-<http://purl.org/ontology/bibo/Legislation> <http://www.w3.org/2000/01/rdf-schema#label> "Legislation"@en-US .
-<http://vivoweb.org/ontology/core#OrganizerRole> <http://www.w3.org/2000/01/rdf-schema#label> "Organizer Role"@en-US .
-<http://vivoweb.org/ontology/core#F1000Link> <http://www.w3.org/2000/01/rdf-schema#label> "F1000 Link"@en-US .
-<http://vivoweb.org/ontology/core#reproduces> <http://www.w3.org/2000/01/rdf-schema#label> "F1000 Link"@en-US .
-<http://vivoweb.org/ontology/core#NonAcademicPosition> <http://www.w3.org/2000/01/rdf-schema#label> "Non-Academic Position"@en-US .
-<http://purl.org/ontology/bibo/presentedAt> <http://www.w3.org/2000/01/rdf-schema#label> "presented at event"@en-US .
-<http://vivoweb.org/ontology/core#providesFundingThrough> <http://www.w3.org/2000/01/rdf-schema#label> "provides funding through"@en-US .
-<http://purl.org/ontology/bibo/reversedBy> <http://www.w3.org/2000/01/rdf-schema#label> "reversed by"@en-US .
-<http://vivoweb.org/ontology/core#WorkingPaper> <http://www.w3.org/2000/01/rdf-schema#label> "Working Paper"@en-US .
-<http://purl.org/ontology/bibo/Slideshow> <http://www.w3.org/2000/01/rdf-schema#label> "Slideshow"@en-US.
-<http://vivoweb.org/ontology/core#Award> <http://www.w3.org/2000/01/rdf-schema#label> "Award or Honor"@en-US .
-<http://purl.org/ontology/bibo/Website> <http://www.w3.org/2000/01/rdf-schema#label> "Website"@en-US .
-<http://vivoweb.org/ontology/core#EmeritusProfessor> <http://www.w3.org/2000/01/rdf-schema#label> "Professor Emeritus"@en-US .
-<http://vivoweb.org/ontology/core#Editorship> <http://www.w3.org/2000/01/rdf-schema#label> "Editorship"@en-US .
-<http://purl.org/ontology/bibo/annotates> <http://www.w3.org/2000/01/rdf-schema#label> "annotates"@en-US .
-<http://vivoweb.org/ontology/core#Committee> <http://www.w3.org/2000/01/rdf-schema#label> "Committee"@en-US .
-<http://vivoweb.org/ontology/core#EventSeries> <http://www.w3.org/2000/01/rdf-schema#label> "Event Series"@en-US .
-<http://purl.org/ontology/bibo/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "identifier"@en-US .
-<http://vivoweb.org/ontology/core#IssuedCredential> <http://www.w3.org/2000/01/rdf-schema#label> "Issued Credential"@en-US .
-<http://purl.org/NET/c4dm/event.owl#Event> <http://www.w3.org/2000/01/rdf-schema#label> "Event"@en-US .
-<http://vivoweb.org/ontology/core#eRACommonsId> <http://www.w3.org/2000/01/rdf-schema#label> "eRA Commons ID"@en-US .
-<http://vivoweb.org/ontology/core#License> <http://www.w3.org/2000/01/rdf-schema#label> "License"@en-US .
-<http://vivoweb.org/ontology/core#sponsoredBy> <http://www.w3.org/2000/01/rdf-schema#label> "award sponsored by"@en-US .
-<http://vivoweb.org/ontology/core#GovernmentAgency> <http://www.w3.org/2000/01/rdf-schema#label> "Government Agency"@en-US .
-<http://purl.org/ontology/bibo/published> <http://www.w3.org/2000/01/rdf-schema#label> "published"@en-US .
-<http://vivoweb.org/ontology/core#hasValue> <http://www.w3.org/2000/01/rdf-schema#label> "has value"@en-USO .
+<http://purl.org/ontology/bibo/BookSection> <http://www.w3.org/2000/01/rdf-schema#label> "Abschnitt eines Buches"@de-DE .
+<http://vivoweb.org/ontology/core#hasPredecessorOrganization> <http://www.w3.org/2000/01/rdf-schema#label> "Vorgängerorganisation"@de-DE .
+<http://purl.org/ontology/bibo/Legislation> <http://www.w3.org/2000/01/rdf-schema#label> "Gesetzgebung"@de-DE .
+<http://vivoweb.org/ontology/core#OrganizerRole> <http://www.w3.org/2000/01/rdf-schema#label> "Rolle des Organisators"@de-DE .
+<http://vivoweb.org/ontology/core#F1000Link> <http://www.w3.org/2000/01/rdf-schema#label> "F1000-Link"@de-DE .
+<http://vivoweb.org/ontology/core#reproduces> <http://www.w3.org/2000/01/rdf-schema#label> "F1000-Link"@de-DE .
+<http://vivoweb.org/ontology/core#NonAcademicPosition> <http://www.w3.org/2000/01/rdf-schema#label> "nicht-akademische Position"@de-DE .
+<http://purl.org/ontology/bibo/presentedAt> <http://www.w3.org/2000/01/rdf-schema#label> "präsentiert bei folgendem Event"@de-DE .
+<http://vivoweb.org/ontology/core#providesFundingThrough> <http://www.w3.org/2000/01/rdf-schema#label> "stellt Fördermittel zur Verfügung über"@de-DE .
+<http://purl.org/ontology/bibo/reversedBy> <http://www.w3.org/2000/01/rdf-schema#label> "aufgehoben durch"@de-DE .
+<http://vivoweb.org/ontology/core#WorkingPaper> <http://www.w3.org/2000/01/rdf-schema#label> "Arbeitspapier"@de-DE .
+<http://purl.org/ontology/bibo/Slideshow> <http://www.w3.org/2000/01/rdf-schema#label> "Slideshow"@de-DE.
+<http://vivoweb.org/ontology/core#Award> <http://www.w3.org/2000/01/rdf-schema#label> "Auszeichnung oder Preis"@de-DE .
+<http://purl.org/ontology/bibo/Website> <http://www.w3.org/2000/01/rdf-schema#label> "Webseite"@de-DE .
+<http://vivoweb.org/ontology/core#EmeritusProfessor> <http://www.w3.org/2000/01/rdf-schema#label> "emeritierter Professor"@de-DE .
+<http://vivoweb.org/ontology/core#Editorship> <http://www.w3.org/2000/01/rdf-schema#label> "Chefredaktion"@de-DE .
+<http://purl.org/ontology/bibo/annotates> <http://www.w3.org/2000/01/rdf-schema#label> "kommentiert"@de-DE .
+<http://vivoweb.org/ontology/core#Committee> <http://www.w3.org/2000/01/rdf-schema#label> "Komittee"@de-DE .
+<http://vivoweb.org/ontology/core#EventSeries> <http://www.w3.org/2000/01/rdf-schema#label> "Event-Reihe"@de-DE .
+<http://purl.org/ontology/bibo/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "Identifier"@de-DE .
+<http://vivoweb.org/ontology/core#IssuedCredential> <http://www.w3.org/2000/01/rdf-schema#label> "ausgestelltes Empfehlungsschreiben"@de-DE .
+<http://purl.org/NET/c4dm/event.owl#Event> <http://www.w3.org/2000/01/rdf-schema#label> "Event"@de-DE .
+<http://vivoweb.org/ontology/core#eRACommonsId> <http://www.w3.org/2000/01/rdf-schema#label> "eRA-Commons-ID"@de-DE .
+<http://vivoweb.org/ontology/core#License> <http://www.w3.org/2000/01/rdf-schema#label> "Lizenz"@de-DE .
+<http://vivoweb.org/ontology/core#sponsoredBy> <http://www.w3.org/2000/01/rdf-schema#label> "Auszeichung wird gefördert von"@de-DE .
+<http://vivoweb.org/ontology/core#GovernmentAgency> <http://www.w3.org/2000/01/rdf-schema#label> "Behörde"@de-DE .
+<http://purl.org/ontology/bibo/published> <http://www.w3.org/2000/01/rdf-schema#label> "veröffentlicht"@de-DE .
+<http://vivoweb.org/ontology/core#hasValue> <http://www.w3.org/2000/01/rdf-schema#label> "hatden Wert"@de-DE .
 <http://vivoweb.org/ontology/core#EducationalProcess> <http://www.w3.org/2000/01/rdf-schema#label> "Educational Process"@en-US .
 <http://vivoweb.org/ontology/core#identifier> <http://www.w3.org/2000/01/rdf-schema#label> "identifier"@en-US .
 <http://vivoweb.org/ontology/core#Review> <http://www.w3.org/2000/01/rdf-schema#label> "Review"@en-US .
