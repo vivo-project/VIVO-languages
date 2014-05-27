@@ -258,42 +258,42 @@
 <http://purl.org/ontology/bibo/peerReviewed> <http://www.w3.org/2000/01/rdf-schema#label> "begutachtet"@de-DE .
 <http://vivoweb.org/ontology/core#EditorialArticle> <http://www.w3.org/2000/01/rdf-schema#label> "Leitartikel"@de-DE .
 <http://vivoweb.org/ontology/core#Meeting> <http://www.w3.org/2000/01/rdf-schema#label> "Besprechung"@de-DE .
-<http://vivoweb.org/ontology/core#distributes> <http://www.w3.org/2000/01/rdf-schema#label> "distributes"@en-US .
-<http://vivoweb.org/ontology/core#hasSubjectArea> <http://www.w3.org/2000/01/rdf-schema#label> "has subject area"@en-US .
-<http://vivoweb.org/ontology/core#termLabel> <http://www.w3.org/2000/01/rdf-schema#label> "term label"@en-US .
-<http://purl.org/ontology/bibo/Performance> <http://www.w3.org/2000/01/rdf-schema#label> "Performance"@en-US .
-<http://vivoweb.org/ontology/core#PopulatedPlace> <http://www.w3.org/2000/01/rdf-schema#label> "Populated Place"@en-US .
-<http://vivoweb.org/ontology/core#rank> <http://www.w3.org/2000/01/rdf-schema#label> "rank"@en-US .
-<http://vivoweb.org/ontology/core#Credential> <http://www.w3.org/2000/01/rdf-schema#label> "Credential"@en-US .
-<http://vivoweb.org/ontology/core#County> <http://www.w3.org/2000/01/rdf-schema#label> "County"@en-US .
-<http://vivoweb.org/ontology/core#FacultyMentoringRelationship> <http://www.w3.org/2000/01/rdf-schema#label> "Faculty Mentoring Relationship"@en-US .
-<http://vivoweb.org/ontology/core#assigneeFor> <http://www.w3.org/2000/01/rdf-schema#label> "assignee for patent"@en-US .
-<http://vivoweb.org/ontology/core#Equipment> <http://www.w3.org/2000/01/rdf-schema#label> "Equipment"@en-US .
-<http://vivoweb.org/ontology/core#EmeritusFaculty> <http://www.w3.org/2000/01/rdf-schema#label> "Faculty Member Emeritus"@en-US .
-<http://vitro.mannlib.cornell.edu/ns/vitro/public#FileByteStream> <http://www.w3.org/2000/01/rdf-schema#label> "FileByteStream"@en-US .
-<http://vivoweb.org/ontology/core#Position> <http://www.w3.org/2000/01/rdf-schema#label> "Position"@en-US .
-<http://vivoweb.org/ontology/core#PresenterRole> <http://www.w3.org/2000/01/rdf-schema#label> "Presenter Role"@en-US .
-<http://vivoweb.org/ontology/core#Relationship> <http://www.w3.org/2000/01/rdf-schema#label> "Relationship"@en-US .
-<http://vivoweb.org/ontology/core#StateOrProvince> <http://www.w3.org/2000/01/rdf-schema#label> "State or Province"@en-US .
-<http://vivoweb.org/ontology/core#dateFiled> <http://www.w3.org/2000/01/rdf-schema#label> "date filed"@en-US .
-<http://purl.org/ontology/bibo/Standard> <http://www.w3.org/2000/01/rdf-schema#label> "Standard"@en-US .
-<http://purl.org/ontology/bibo/Series> <http://www.w3.org/2000/01/rdf-schema#label> "Series"@en-US .
-<http://purl.org/ontology/bibo/coden> <http://www.w3.org/2000/01/rdf-schema#label> "coden"@en-US .
-<http://purl.org/ontology/bibo/oclcnum> <http://www.w3.org/2000/01/rdf-schema#label> "Online Computer Library Center (OCLC) number"@en-US .
-<http://vivoweb.org/ontology/core#FacultyMember> <http://www.w3.org/2000/01/rdf-schema#label> "Faculty Member"@en-US .
-<http://vivoweb.org/ontology/core#Certificate> <http://www.w3.org/2000/01/rdf-schema#label> "Certificate"@en-US .
-<http://purl.org/ontology/bibo/pageStart> <http://www.w3.org/2000/01/rdf-schema#label> "start page"@en-US .
-<http://purl.org/ontology/bibo/Periodical> <http://www.w3.org/2000/01/rdf-schema#label> "Periodical"@en-US .
-<http://vivoweb.org/ontology/core#offers> <http://www.w3.org/2000/01/rdf-schema#label> "offers"@en-US .
-<http://vivoweb.org/ontology/core#supportedInformationResource> <http://www.w3.org/2000/01/rdf-schema#label> "supported publications or other works"@en-US .
-<http://vitro.mannlib.cornell.edu/ns/vitro/0.7> <http://www.w3.org/2000/01/rdf-schema#label> "Vitro Internals"@en-US .
-<http://purl.org/ontology/bibo/pmid> <http://www.w3.org/2000/01/rdf-schema#label> "PubMed ID"@en-US .
-<http://vivoweb.org/ontology/core#equipmentFor> <http://www.w3.org/2000/01/rdf-schema#label> "equipment for"@en-US .
-<http://vivoweb.org/ontology/core#expirationDate> <http://www.w3.org/2000/01/rdf-schema#label> "expiration date"@en-US .
-<http://vivoweb.org/ontology/core#hasPublicationVenue> <http://www.w3.org/2000/01/rdf-schema#label> "published in"@en-US .
-<http://vivoweb.org/ontology/core#researchAreaOf> <http://www.w3.org/2000/01/rdf-schema#label> "research area of"@en-US .
-<http://vivoweb.org/ontology/core#Librarian> <http://www.w3.org/2000/01/rdf-schema#label> "Librarian"@en-US .
-<http://vivoweb.org/ontology/core#InvestigatorRole> <http://www.w3.org/2000/01/rdf-schema#label> "Principal Investigator Role"@en-US .
+<http://vivoweb.org/ontology/core#distributes> <http://www.w3.org/2000/01/rdf-schema#label> "verteilt"@de-DE .
+<http://vivoweb.org/ontology/core#hasSubjectArea> <http://www.w3.org/2000/01/rdf-schema#label> "hat Fachgebiet"@de-DE .
+<http://vivoweb.org/ontology/core#termLabel> <http://www.w3.org/2000/01/rdf-schema#label> "term label"@de-DE .
+<http://purl.org/ontology/bibo/Performance> <http://www.w3.org/2000/01/rdf-schema#label> "Leistung"@de-DE .
+<http://vivoweb.org/ontology/core#PopulatedPlace> <http://www.w3.org/2000/01/rdf-schema#label> "dicht besiedelter Ort"@de-DE .
+<http://vivoweb.org/ontology/core#rank> <http://www.w3.org/2000/01/rdf-schema#label> "Stellung"@de-DE .
+<http://vivoweb.org/ontology/core#Credential> <http://www.w3.org/2000/01/rdf-schema#label> "Empfehlungsschreiben"@de-DE .
+<http://vivoweb.org/ontology/core#County> <http://www.w3.org/2000/01/rdf-schema#label> "Landkreis"@de-DE .
+<http://vivoweb.org/ontology/core#FacultyMentoringRelationship> <http://www.w3.org/2000/01/rdf-schema#label> "Faculty Mentoring Relationship"@de-DE .
+<http://vivoweb.org/ontology/core#assigneeFor> <http://www.w3.org/2000/01/rdf-schema#label> "Anmelder eines Patents"@de-DE .
+<http://vivoweb.org/ontology/core#Equipment> <http://www.w3.org/2000/01/rdf-schema#label> "Equipment"@de-DE .
+<http://vivoweb.org/ontology/core#EmeritusFaculty> <http://www.w3.org/2000/01/rdf-schema#label> "emeritierter Professor"@de-DE .
+<http://vitro.mannlib.cornell.edu/ns/vitro/public#FileByteStream> <http://www.w3.org/2000/01/rdf-schema#label> "FileByteStream"@de-DE .
+<http://vivoweb.org/ontology/core#Position> <http://www.w3.org/2000/01/rdf-schema#label> "Rang"@de-DE .
+<http://vivoweb.org/ontology/core#PresenterRole> <http://www.w3.org/2000/01/rdf-schema#label> "Moderator"@de-DE .
+<http://vivoweb.org/ontology/core#Relationship> <http://www.w3.org/2000/01/rdf-schema#label> "Beziehung"@de-DE .
+<http://vivoweb.org/ontology/core#StateOrProvince> <http://www.w3.org/2000/01/rdf-schema#label> "Land oder Bundesland"@de-DE .
+<http://vivoweb.org/ontology/core#dateFiled> <http://www.w3.org/2000/01/rdf-schema#label> "Ablagedatum"@de-DE .
+<http://purl.org/ontology/bibo/Standard> <http://www.w3.org/2000/01/rdf-schema#label> "Standard"@de-DE .
+<http://purl.org/ontology/bibo/Series> <http://www.w3.org/2000/01/rdf-schema#label> "Reihe"@de-DE .
+<http://purl.org/ontology/bibo/coden> <http://www.w3.org/2000/01/rdf-schema#label> "coden"@de-DE .
+<http://purl.org/ontology/bibo/oclcnum> <http://www.w3.org/2000/01/rdf-schema#label> "Online Computer Library Center (OCLC) Nummer"@de-DE .
+<http://vivoweb.org/ontology/core#FacultyMember> <http://www.w3.org/2000/01/rdf-schema#label> "Professor"@de-DE .
+<http://vivoweb.org/ontology/core#Certificate> <http://www.w3.org/2000/01/rdf-schema#label> "Zertifikat"@de-DE .
+<http://purl.org/ontology/bibo/pageStart> <http://www.w3.org/2000/01/rdf-schema#label> "Startseite"@de-DE .
+<http://purl.org/ontology/bibo/Periodical> <http://www.w3.org/2000/01/rdf-schema#label> "Periodikum"@de-DE .
+<http://vivoweb.org/ontology/core#offers> <http://www.w3.org/2000/01/rdf-schema#label> "Angebote"@de-DE .
+<http://vivoweb.org/ontology/core#supportedInformationResource> <http://www.w3.org/2000/01/rdf-schema#label> "geförderte Publikationen oder andere Arbeiten"@de-DE .
+<http://vitro.mannlib.cornell.edu/ns/vitro/0.7> <http://www.w3.org/2000/01/rdf-schema#label> "Vitro Internals"@de-DE .
+<http://purl.org/ontology/bibo/pmid> <http://www.w3.org/2000/01/rdf-schema#label> "PubMed ID"@de-DE .
+<http://vivoweb.org/ontology/core#equipmentFor> <http://www.w3.org/2000/01/rdf-schema#label> "Equipment für"@de-DE .
+<http://vivoweb.org/ontology/core#expirationDate> <http://www.w3.org/2000/01/rdf-schema#label> "Fälligkeitsdatum"@de-DE .
+<http://vivoweb.org/ontology/core#hasPublicationVenue> <http://www.w3.org/2000/01/rdf-schema#label> "veröffentlicht in"@de-DE .
+<http://vivoweb.org/ontology/core#researchAreaOf> <http://www.w3.org/2000/01/rdf-schema#label> "Forschungsgebiet von"@de-DE .
+<http://vivoweb.org/ontology/core#Librarian> <http://www.w3.org/2000/01/rdf-schema#label> "Bibliothekar"@de-DE .
+<http://vivoweb.org/ontology/core#InvestigatorRole> <http://www.w3.org/2000/01/rdf-schema#label> "Rolle der Ko-Projektleitung"@de-DE .
 <http://vivoweb.org/ontology/core#OrganizingProcess> <http://www.w3.org/2000/01/rdf-schema#label> "Organizing Process"@en-US .
 <http://vivoweb.org/ontology/core#PresentingProcess> <http://www.w3.org/2000/01/rdf-schema#label> "Presenting Process"@en-US .
 <http://purl.org/ontology/bibo/status> <http://www.w3.org/2000/01/rdf-schema#label> "status"@en-US .
