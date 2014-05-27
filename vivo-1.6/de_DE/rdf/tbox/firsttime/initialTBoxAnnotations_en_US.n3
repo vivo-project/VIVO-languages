@@ -210,54 +210,54 @@
 <http://purl.org/ontology/bibo/distributor> <http://www.w3.org/2000/01/rdf-schema#label> "Distributor"@de-DE .
 <http://vivoweb.org/ontology/core#SubnationalRegion> <http://www.w3.org/2000/01/rdf-schema#label> "innerstaatliche Gebietskörperschaft"@de-DE .
 <http://vivoweb.org/ontology/core#Association> <http://www.w3.org/2000/01/rdf-schema#label> "Interessenverband"@de-DE .
-<http://purl.org/ontology/bibo/Manuscript> <http://www.w3.org/2000/01/rdf-schema#label> "manuscript"@en-US , "Manuscript"@en-US .
-<http://vivoweb.org/ontology/core#NonFacultyAcademicPosition> <http://www.w3.org/2000/01/rdf-schema#label> "Non-Faculty Academic Position"@en-US .
-<http://vivoweb.org/ontology/core#AttendingProcess> <http://www.w3.org/2000/01/rdf-schema#label> "Attending Process"@en-US .
-<http://vivoweb.org/ontology/core#reportId> <http://www.w3.org/2000/01/rdf-schema#label> "report identifier"@en-US .
-<http://purl.org/ontology/bibo/Slide> <http://www.w3.org/2000/01/rdf-schema#label> "Slide"@en-US .
-<http://vivoweb.org/ontology/core#ConferencePaper> <http://www.w3.org/2000/01/rdf-schema#label> "Conference Paper"@en-US .
-<http://vivoweb.org/ontology/core#PeerReviewerRole> <http://www.w3.org/2000/01/rdf-schema#label> "Peer Reviewer Role"@en-US .
-<http://vivoweb.org/ontology/core#patentNumber> <http://www.w3.org/2000/01/rdf-schema#label> "patent number"@en-US .
-<http://purl.org/ontology/bibo/AudioDocument> <http://www.w3.org/2000/01/rdf-schema#label> "Audio Document"@en-US .
-<http://purl.org/ontology/bibo/chapter> <http://www.w3.org/2000/01/rdf-schema#label> "chapter number"@en-US .
-<http://vivoweb.org/ontology/core#InvitedTalk> <http://www.w3.org/2000/01/rdf-schema#label> "Invited Talk"@en-US .
-<http://purl.org/ontology/bibo/accepted> <http://www.w3.org/2000/01/rdf-schema#label> "accepted"@en-US .
-<http://vivoweb.org/ontology/core#Internship> <http://www.w3.org/2000/01/rdf-schema#label> "Internship"@en-US .
-<http://vivoweb.org/ontology/core#PrivateCompany> <http://www.w3.org/2000/01/rdf-schema#label> "Private Company"@en-US .
-<http://vivoweb.org/ontology/core#hasMonetaryAmount> <http://www.w3.org/2000/01/rdf-schema#label> "has monetary amount"@en-US .
-<http://vivoweb.org/ontology/core#reviewedIn> <http://www.w3.org/2000/01/rdf-schema#label> "reviewed in"@en-US .
-<http://vivoweb.org/ontology/core#supports> <http://www.w3.org/2000/01/rdf-schema#label> "supports"@en-US .
-<http://xmlns.com/foaf/0.1/Agent> <http://www.w3.org/2000/01/rdf-schema#label> "Agent"@en-US .
-<http://vivoweb.org/ontology/core#Contract> <http://www.w3.org/2000/01/rdf-schema#label> "Contract"@en-US .
-<http://purl.org/ontology/bibo/LegalDocument> <http://www.w3.org/2000/01/rdf-schema#label> "Legal Document"@en-US .
-<http://vivoweb.org/ontology/core#MemberRole> <http://www.w3.org/2000/01/rdf-schema#label> "Member Role"@en-US .
-<http://purl.org/ontology/bibo/ReferenceSource> <http://www.w3.org/2000/01/rdf-schema#label> "Reference Source"@en-US .
-<http://vivoweb.org/ontology/core#Catalog> <http://www.w3.org/2000/01/rdf-schema#label> "Catalog"@en-US .
-<http://purl.org/ontology/bibo/subsequentLegalDecision> <http://www.w3.org/2000/01/rdf-schema#label> "subsequent legal decision"@en-US .
-<http://vivoweb.org/ontology/core#Team> <http://www.w3.org/2000/01/rdf-schema#label> "Team"@en-US .
-<http://vivoweb.org/ontology/core#hasProceedings> <http://www.w3.org/2000/01/rdf-schema#label> "proceedings"@en-US .
-<http://vivoweb.org/ontology/core#hasTranslation> <http://www.w3.org/2000/01/rdf-schema#label> "has translation"@en-US .
-<http://vivoweb.org/ontology/core#subcontractsGrant> <http://www.w3.org/2000/01/rdf-schema#label> "subcontracts grant"@en-US .
-<http://vivoweb.org/ontology/core#Laboratory> <http://www.w3.org/2000/01/rdf-schema#label> "Laboratory"@en-US .
-<http://vivoweb.org/ontology/core#AwardReceipt> <http://www.w3.org/2000/01/rdf-schema#label> "Award or Honor Receipt"@en-US .
-<http://purl.org/ontology/bibo/Magazine> <http://www.w3.org/2000/01/rdf-schema#label> "Magazine"@en-US .
-<http://vivoweb.org/ontology/core#ConferencePoster> <http://www.w3.org/2000/01/rdf-schema#label> "Conference Poster"@en-US .
-<http://purl.org/ontology/bibo/Brief> <http://www.w3.org/2000/01/rdf-schema#label> "Brief"@en-US .
-<http://vivoweb.org/ontology/core#Company> <http://www.w3.org/2000/01/rdf-schema#label> "Company"@en-US .
-<http://purl.org/ontology/bibo/Workshop> <http://www.w3.org/2000/01/rdf-schema#label> "Workshop"@en-US .
-<http://vivoweb.org/ontology/core#PostdocPosition> <http://www.w3.org/2000/01/rdf-schema#label> "Postdoctoral Position"@en-US .
-<http://vivoweb.org/ontology/core#translatorOf> <http://www.w3.org/2000/01/rdf-schema#label> "translator of"@en-US .
-<http://xmlns.com/foaf/0.1/Organization> <http://www.w3.org/2000/01/rdf-schema#label> "Organization"@en-US .
-<http://vivoweb.org/ontology/core#Course> <http://www.w3.org/2000/01/rdf-schema#label> "Course"@en-US .
-<http://purl.org/ontology/bibo/CollectedDocument> <http://www.w3.org/2000/01/rdf-schema#label> "Collected Document"@en-US .
-<http://vivoweb.org/ontology/core#Newsletter> <http://www.w3.org/2000/01/rdf-schema#label> "Newsletter"@en-US .
-<http://vivoweb.org/ontology/core#AdviseeRole> <http://www.w3.org/2000/01/rdf-schema#label> "Advisee Role"@en-US .
-<http://vivoweb.org/ontology/core#proceedingsOf> <http://www.w3.org/2000/01/rdf-schema#label> "proceedings of"@en-US .
-<http://vivoweb.org/ontology/core#researchOverview> <http://www.w3.org/2000/01/rdf-schema#label> "research overview"@en-US .
-<http://vivoweb.org/ontology/core#supplementalInformation> <http://www.w3.org/2000/01/rdf-schema#label> "supplemental information"@en-US .
-<http://purl.org/ontology/bibo/peerReviewed> <http://www.w3.org/2000/01/rdf-schema#label> "peer reviewed"@en-US .
-<http://vivoweb.org/ontology/core#EditorialArticle> <http://www.w3.org/2000/01/rdf-schema#label> "Editorial Article"@en-US .
-<http://vivoweb.org/ontology/core#Meeting> <http://www.w3.org/2000/01/rdf-schema#label> "Meeting"@en-US .
+<http://purl.org/ontology/bibo/Manuscript> <http://www.w3.org/2000/01/rdf-schema#label> "manuscript"@en-US , "Manuskript"@de-DE .
+<http://vivoweb.org/ontology/core#NonFacultyAcademicPosition> <http://www.w3.org/2000/01/rdf-schema#label> "wissenschaftlicher Mitarbeiter"@de-DE .
+<http://vivoweb.org/ontology/core#AttendingProcess> <http://www.w3.org/2000/01/rdf-schema#label> "Teilnahme"@de-DE .
+<http://vivoweb.org/ontology/core#reportId> <http://www.w3.org/2000/01/rdf-schema#label> "Gutachten-Identifier"@de-DE .
+<http://purl.org/ontology/bibo/Slide> <http://www.w3.org/2000/01/rdf-schema#label> "Folie"@de-DE .
+<http://vivoweb.org/ontology/core#ConferencePaper> <http://www.w3.org/2000/01/rdf-schema#label> "Tagungsberichte"@de-DE .
+<http://vivoweb.org/ontology/core#PeerReviewerRole> <http://www.w3.org/2000/01/rdf-schema#label> "Rolle des Gutachters"@de-DE .
+<http://vivoweb.org/ontology/core#patentNumber> <http://www.w3.org/2000/01/rdf-schema#label> "Patentnummer"@de-DE .
+<http://purl.org/ontology/bibo/AudioDocument> <http://www.w3.org/2000/01/rdf-schema#label> "Tondokument"@de-DE .
+<http://purl.org/ontology/bibo/chapter> <http://www.w3.org/2000/01/rdf-schema#label> "Kapitelnummer"@de-DE .
+<http://vivoweb.org/ontology/core#InvitedTalk> <http://www.w3.org/2000/01/rdf-schema#label> "Gastvortrag"@de-DE .
+<http://purl.org/ontology/bibo/accepted> <http://www.w3.org/2000/01/rdf-schema#label> "angenommen"@de-DE .
+<http://vivoweb.org/ontology/core#Internship> <http://www.w3.org/2000/01/rdf-schema#label> "Praktikum"@de-DE .
+<http://vivoweb.org/ontology/core#PrivateCompany> <http://www.w3.org/2000/01/rdf-schema#label> "Privatunternehmen"@de-DE .
+<http://vivoweb.org/ontology/core#hasMonetaryAmount> <http://www.w3.org/2000/01/rdf-schema#label> "verfügt über einen Kapitalbetrag"@de-DE .
+<http://vivoweb.org/ontology/core#reviewedIn> <http://www.w3.org/2000/01/rdf-schema#label> "rezensiert in"@de-DE .
+<http://vivoweb.org/ontology/core#supports> <http://www.w3.org/2000/01/rdf-schema#label> "Förderungen"@de-DE .
+<http://xmlns.com/foaf/0.1/Agent> <http://www.w3.org/2000/01/rdf-schema#label> "Akteur"@de-DE .
+<http://vivoweb.org/ontology/core#Contract> <http://www.w3.org/2000/01/rdf-schema#label> "Vertrag"@de-DE .
+<http://purl.org/ontology/bibo/LegalDocument> <http://www.w3.org/2000/01/rdf-schema#label> "Rechtsdokument"@de-DE .
+<http://vivoweb.org/ontology/core#MemberRole> <http://www.w3.org/2000/01/rdf-schema#label> "Mitglied"@de-DE .
+<http://purl.org/ontology/bibo/ReferenceSource> <http://www.w3.org/2000/01/rdf-schema#label> "Referenzquelle"@de-DE .
+<http://vivoweb.org/ontology/core#Catalog> <http://www.w3.org/2000/01/rdf-schema#label> "Katalog"@de-DE .
+<http://purl.org/ontology/bibo/subsequentLegalDecision> <http://www.w3.org/2000/01/rdf-schema#label> "späterer Rechtsspruch"@de-DE .
+<http://vivoweb.org/ontology/core#Team> <http://www.w3.org/2000/01/rdf-schema#label> "Team"@de-DE .
+<http://vivoweb.org/ontology/core#hasProceedings> <http://www.w3.org/2000/01/rdf-schema#label> "Tagungsberichte"@de-DE .
+<http://vivoweb.org/ontology/core#hasTranslation> <http://www.w3.org/2000/01/rdf-schema#label> "hat Übersetzung"@de-DE .
+<http://vivoweb.org/ontology/core#subcontractsGrant> <http://www.w3.org/2000/01/rdf-schema#label> "Teil eines übergeordneten Forschungsprojektes"@de-DE .
+<http://vivoweb.org/ontology/core#Laboratory> <http://www.w3.org/2000/01/rdf-schema#label> "Labor"@de-DE .
+<http://vivoweb.org/ontology/core#AwardReceipt> <http://www.w3.org/2000/01/rdf-schema#label> "Auszeichnung oder Preis erhalten"@de-DE .
+<http://purl.org/ontology/bibo/Magazine> <http://www.w3.org/2000/01/rdf-schema#label> "Magazin"@de-DE .
+<http://vivoweb.org/ontology/core#ConferencePoster> <http://www.w3.org/2000/01/rdf-schema#label> "Tagungsbeitrag als Poster"@de-DE .
+<http://purl.org/ontology/bibo/Brief> <http://www.w3.org/2000/01/rdf-schema#label> "Kurzdarstellung"@de-DE .
+<http://vivoweb.org/ontology/core#Company> <http://www.w3.org/2000/01/rdf-schema#label> "Unternehmen"@de-DE .
+<http://purl.org/ontology/bibo/Workshop> <http://www.w3.org/2000/01/rdf-schema#label> "Workshop"@de-DE .
+<http://vivoweb.org/ontology/core#PostdocPosition> <http://www.w3.org/2000/01/rdf-schema#label> "Postdoc-Stelle"@de-DE .
+<http://vivoweb.org/ontology/core#translatorOf> <http://www.w3.org/2000/01/rdf-schema#label> "Übersetzer von"@de-DE .
+<http://xmlns.com/foaf/0.1/Organization> <http://www.w3.org/2000/01/rdf-schema#label> "Organisation"@de-DE .
+<http://vivoweb.org/ontology/core#Course> <http://www.w3.org/2000/01/rdf-schema#label> "Lehrveranstaltung"@de-DE .
+<http://purl.org/ontology/bibo/CollectedDocument> <http://www.w3.org/2000/01/rdf-schema#label> "erfasstes Dokument"@de-DE .
+<http://vivoweb.org/ontology/core#Newsletter> <http://www.w3.org/2000/01/rdf-schema#label> "Newsletter"@de-DE .
+<http://vivoweb.org/ontology/core#AdviseeRole> <http://www.w3.org/2000/01/rdf-schema#label> "Kunde"@de-DE .
+<http://vivoweb.org/ontology/core#proceedingsOf> <http://www.w3.org/2000/01/rdf-schema#label> "Tagungsbericht von"@de-DE .
+<http://vivoweb.org/ontology/core#researchOverview> <http://www.w3.org/2000/01/rdf-schema#label> "Übersicht der Forschungsbereiche"@de-DE .
+<http://vivoweb.org/ontology/core#supplementalInformation> <http://www.w3.org/2000/01/rdf-schema#label> "ergänzende Informationen"@de-DE .
+<http://purl.org/ontology/bibo/peerReviewed> <http://www.w3.org/2000/01/rdf-schema#label> "begutachtet"@de-DE .
+<http://vivoweb.org/ontology/core#EditorialArticle> <http://www.w3.org/2000/01/rdf-schema#label> "Leitartikel"@de-DE .
+<http://vivoweb.org/ontology/core#Meeting> <http://www.w3.org/2000/01/rdf-schema#label> "Besprechung"@de-DE .
 <http://vivoweb.org/ontology/core#distributes> <http://www.w3.org/2000/01/rdf-schema#label> "distributes"@en-US .
 <http://vivoweb.org/ontology/core#hasSubjectArea> <http://www.w3.org/2000/01/rdf-schema#label> "has subject area"@en-US .
 <http://vivoweb.org/ontology/core#termLabel> <http://www.w3.org/2000/01/rdf-schema#label> "term label"@en-US .
