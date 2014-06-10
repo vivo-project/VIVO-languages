@@ -1,7 +1,7 @@
 <http://purl.org/ontology/bibo/section> <http://www.w3.org/2000/01/rdf-schema#label> "Abschnitt"@de-DE .
-<http://vivoweb.org/ontology/core#dateTime> <http://www.w3.org/2000/01/rdf-schema#label> "Datum/Zeit"@de-DE .
+<http://vivoweb.org/ontology/core#dateTime> <http://www.w3.org/2000/01/rdf-schema#label> "Datum/Uhrzeit"@de-DE .
 <http://purl.org/ontology/bibo/Webpage> <http://www.w3.org/2000/01/rdf-schema#label> "Webseite"@de-DE .
-<http://vivoweb.org/ontology/core#yearMonthDayTimePrecision> <http://www.w3.org/2000/01/rdf-schema#label> "Jahr-Monat-Tag-Zeit Wert"@de-DE .
+<http://vivoweb.org/ontology/core#yearMonthDayTimePrecision> <http://www.w3.org/2000/01/rdf-schema#label> "Jahr-Monat-Tag-Uhrzeit-Wert"@de-DE .
 <http://vivoweb.org/ontology/core#relates> <http://www.w3.org/2000/01/rdf-schema#label> "bezieht sich auf"@de-DE .
 <http://purl.org/ontology/bibo/Hearing> <http://www.w3.org/2000/01/rdf-schema#label> "Kolloquium"@de-DE .
 <http://vivoweb.org/ontology/core#invited> <http://www.w3.org/2000/01/rdf-schema#label> "eingeladen"@de-DE .
@@ -13,16 +13,16 @@
 <http://purl.org/ontology/bibo/numPages> <http://www.w3.org/2000/01/rdf-schema#label> "Seitenzahl"@de-DE .
 <http://vivoweb.org/ontology/core#iclCode> <http://www.w3.org/2000/01/rdf-schema#label> "International Classification (ICL) Code"@de-DE .
 <http://purl.org/ontology/bibo/Book> <http://www.w3.org/2000/01/rdf-schema#label> "Buch"@de-DE .
-<http://vivoweb.org/ontology/core#AcademicDegree> <http://www.w3.org/2000/01/rdf-schema#label> "Academic Degree"@de-DE .
+<http://vivoweb.org/ontology/core#AcademicDegree> <http://www.w3.org/2000/01/rdf-schema#label> "akademischer Grad"@de-DE .
 <http://purl.org/ontology/bibo/asin> <http://www.w3.org/2000/01/rdf-schema#label> "Amazon Standard Identification Number (ASIN)"@de-DE .
-<http://vivoweb.org/ontology/core#isCorrespondingAuthor> <http://www.w3.org/2000/01/rdf-schema#label> "Ist diese Person ein einschlägiger Autor?"@de-DE .
-<http://vivoweb.org/ontology/core#PostdoctoralTraining> <http://www.w3.org/2000/01/rdf-schema#label> "Postdoktoranden-Training"@de-DE .
+<http://vivoweb.org/ontology/core#isCorrespondingAuthor> <http://www.w3.org/2000/01/rdf-schema#label> "Ist diese/r AutorIn eine Kontaktperson?"@de-DE .
+<http://vivoweb.org/ontology/core#PostdoctoralTraining> <http://www.w3.org/2000/01/rdf-schema#label> "Postdoc-Training"@de-DE .
 <http://purl.org/ontology/bibo/EditedBook> <http://www.w3.org/2000/01/rdf-schema#label> "Herausgeberwerk"@de-DE .
 <http://purl.org/ontology/bibo/Excerpt> <http://www.w3.org/2000/01/rdf-schema#label> "Exzerpt"@de-DE .
-<http://vivoweb.org/ontology/core#entryTerm> <http://www.w3.org/2000/01/rdf-schema#label> "Eintrag"@de-DE .
-<http://vivoweb.org/ontology/core#DateTimeInterval> <http://www.w3.org/2000/01/rdf-schema#label> "Datum/Zeit Intervall"@de-DE .
+<http://vivoweb.org/ontology/core#entryTerm> <http://www.w3.org/2000/01/rdf-schema#label> "Studienbeginn"@de-DE .
+<http://vivoweb.org/ontology/core#DateTimeInterval> <http://www.w3.org/2000/01/rdf-schema#label> "Datum/Uhrzeit-Intervall"@de-DE .
 <http://vivoweb.org/ontology/core#Screenplay> <http://www.w3.org/2000/01/rdf-schema#label> "Screenplay"@de-DE .
-<http://purl.org/ontology/bibo/performer> <http://www.w3.org/2000/01/rdf-schema#label> "Ausführender"@de-DE .
+<http://purl.org/ontology/bibo/performer> <http://www.w3.org/2000/01/rdf-schema#label> "Ausführende"@de-DE .
 <http://vivoweb.org/ontology/core#Exhibit> <http://www.w3.org/2000/01/rdf-schema#label> "Exponat"@de-DE .
 <http://vivoweb.org/ontology/core#prerequisiteFor> <http://www.w3.org/2000/01/rdf-schema#label> "Voraussetzung für"@de-DE .
 <http://vivoweb.org/ontology/core#WorkshopSeries> <http://www.w3.org/2000/01/rdf-schema#label> "Workshop-Reihe"@de-DE .
@@ -33,13 +33,13 @@
 <http://purl.org/ontology/bibo/PersonalCommunicationDocument> <http://www.w3.org/2000/01/rdf-schema#label> "Personal Communication Document"@de-DE .
 <http://purl.org/ontology/bibo/Map> <http://www.w3.org/2000/01/rdf-schema#label> "Landkarte"@de-DE .
 <http://vivoweb.org/ontology/core#nihmsid> <http://www.w3.org/2000/01/rdf-schema#label> "NIH Manuscript Submission System ID"@de-DE .
-<http://vivoweb.org/ontology/core#geographicFocusOf> <http://www.w3.org/2000/01/rdf-schema#label> "geografischer Schwerpunkg von"@de-DE .
+<http://vivoweb.org/ontology/core#geographicFocusOf> <http://www.w3.org/2000/01/rdf-schema#label> "geografischer Schwerpunkt von"@de-DE .
 <http://vivoweb.org/ontology/core#licenseNumber> <http://www.w3.org/2000/01/rdf-schema#label> "Lizenznummer"@de-DE .
 <http://purl.org/ontology/bibo/citedBy> <http://www.w3.org/2000/01/rdf-schema#label> "zitiert von"@de-DE .
 <http://vivoweb.org/ontology/core#CoPrincipalInvestigatorRole> <http://www.w3.org/2000/01/rdf-schema#label> "Rolle der Ko-Projektleitung"@de-DE .
 <http://vivoweb.org/ontology/core#placeOfPublication> <http://www.w3.org/2000/01/rdf-schema#label> "Erscheinungsort"@de-DE .
-<http://purl.org/ontology/bibo/AcademicArticle> <http://www.w3.org/2000/01/rdf-schema#label> "wissenschaftlicher Aufsatz"@de-DE .
-<http://vivoweb.org/ontology/core#middleName> <http://www.w3.org/2000/01/rdf-schema#label> "zweiter Vorname oder Anfangsbuchstabe"@de-DE .
+<http://purl.org/ontology/bibo/AcademicArticle> <http://www.w3.org/2000/01/rdf-schema#label> "wissenschaftlicher Artikel"@de-DE .
+<http://vivoweb.org/ontology/core#middleName> <http://www.w3.org/2000/01/rdf-schema#label> "zweiter Vorname oder dessen Anfangsbuchstabe"@de-DE .
 <http://vivoweb.org/ontology/core#Institute> <http://www.w3.org/2000/01/rdf-schema#label> "Institut"@de-DE .
 <http://purl.org/ontology/bibo/court> <http://www.w3.org/2000/01/rdf-schema#label> "Gericht"@de-DE .
 <http://vivoweb.org/ontology/core#Database> <http://www.w3.org/2000/01/rdf-schema#label> "Datenbank"@de-DE .
