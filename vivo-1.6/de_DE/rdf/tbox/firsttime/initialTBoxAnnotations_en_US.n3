@@ -48,16 +48,16 @@
 <http://purl.org/ontology/bibo/Statute> <http://www.w3.org/2000/01/rdf-schema#label> "Gesetz"@de-DE .
 <http://vivoweb.org/ontology/core#BlogPosting> <http://www.w3.org/2000/01/rdf-schema#label> "Weblogeintrag"@de-DE .
 <http://purl.org/ontology/bibo/Issue> <http://www.w3.org/2000/01/rdf-schema#label> "Ausgabe"@de-DE .
-<http://vivoweb.org/ontology/core#Student> <http://www.w3.org/2000/01/rdf-schema#label> "Student"@de-DE .
-<http://purl.org/ontology/bibo/issuer> <http://www.w3.org/2000/01/rdf-schema#label> "Herausgeber"@de-DE .
+<http://vivoweb.org/ontology/core#Student> <http://www.w3.org/2000/01/rdf-schema#label> "StudentIn"@de-DE .
+<http://purl.org/ontology/bibo/issuer> <http://www.w3.org/2000/01/rdf-schema#label> "HerausgeberIn"@de-DE .
 <http://vivoweb.org/ontology/core#Country> <http://www.w3.org/2000/01/rdf-schema#label> "Land"@de-DE .
 <http://purl.org/ontology/bibo/transcriptOf> <http://www.w3.org/2000/01/rdf-schema#label> "Protokoll von"@de-DE .
 <http://vitro.mannlib.cornell.edu/ns/vitro/0.7#moniker> <http://www.w3.org/2000/01/rdf-schema#label> "Name (veraltet)"@de-DE .
 <http://purl.org/ontology/bibo/presents> <http://www.w3.org/2000/01/rdf-schema#label> "verwandte Dokumente"@de-DE .
 <http://vivoweb.org/ontology/core#majorField> <http://www.w3.org/2000/01/rdf-schema#label> "Hauptfach des Hochschul- oder Universitätsabschlusses"@de-DE .
-<http://vivoweb.org/ontology/core#EditorRole> <http://www.w3.org/2000/01/rdf-schema#label> "Rolle des Herausgebers"@de-DE .
+<http://vivoweb.org/ontology/core#EditorRole> <http://www.w3.org/2000/01/rdf-schema#label> "Rolle des/der HerausgeberIn"@de-DE .
 <http://purl.org/ontology/bibo/Image> <http://www.w3.org/2000/01/rdf-schema#label> "Bild"@de-DE .
-<http://vivoweb.org/ontology/core#fundingVehicleFor> <http://www.w3.org/2000/01/rdf-schema#label> "stellt Fördermittel bereit für"@de-DE .
+<http://vivoweb.org/ontology/core#fundingVehicleFor> <http://www.w3.org/2000/01/rdf-schema#label> "stellt Fördermittel zur Verfügung für"@de-DE .
 <http://vivoweb.org/ontology/core#GeopoliticalEntity> <http://www.w3.org/2000/01/rdf-schema#label> "geopolitisches Umfeld"@de-DE .
 <http://purl.org/ontology/bibo/issue> <http://www.w3.org/2000/01/rdf-schema#label> "Ausgabe"@en-US .
 <http://purl.org/ontology/bibo/Proceedings> <http://www.w3.org/2000/01/rdf-schema#label> "Tagungsberichte"@de-DE .
