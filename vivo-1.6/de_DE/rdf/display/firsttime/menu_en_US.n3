@@ -12,9 +12,9 @@ display:People display:title "Personen"@de-DE .
 display:Research display:title "Forschung"@de-DE .
 display:pageListPage display:title "Seiten"@de-DE .
 
-<java:edu.cornell.mannlib.vitro.webapp.utils.dataGetter.SparqlQueryDataGetter> <http://www.w3.org/2000/01/rdf-schema#label> "SPARQL Abfrageergebnisse"@de-DE .
+<java:edu.cornell.mannlib.vitro.webapp.utils.dataGetter.SparqlQueryDataGetter> <http://www.w3.org/2000/01/rdf-schema#label> "SPARQL-Abfrageergebnisse"@de-DE .
 <java:edu.cornell.mannlib.vitro.webapp.utils.dataGetter.BrowseDataGetter> <http://www.w3.org/2000/01/rdf-schema#label> "Navigationsseite"@de-DE .
-<java:edu.cornell.mannlib.vitro.webapp.utils.dataGetter.InternalClassesDataGetter> <http://www.w3.org/2000/01/rdf-schema#label> "Group Page Group - Internal Institutional Class"@en-US .
-<java:edu.cornell.mannlib.vitro.webapp.utils.dataGetter.ClassGroupPageData> <http://www.w3.org/2000/01/rdf-schema#label> "Group Class Page"@en-US .
-<http://vitro.mannlib.cornell.edu/ontologies/display/1.1#DefaultMenu> <http://www.w3.org/2000/01/rdf-schema#label> "Default Menu"@en-US .
-<java:edu.cornell.mannlib.vitro.webapp.utils.dataGetter.IndividualsForClassesDataGetter> <http://www.w3.org/2000/01/rdf-schema#label> "Group Page Group - selected classes"@en-US .
+<java:edu.cornell.mannlib.vitro.webapp.utils.dataGetter.InternalClassesDataGetter> <http://www.w3.org/2000/01/rdf-schema#label> "Group Page Group - Internal Institutional Class"@de-DE .
+<java:edu.cornell.mannlib.vitro.webapp.utils.dataGetter.ClassGroupPageData> <http://www.w3.org/2000/01/rdf-schema#label> "Group Class Page"@de-DE .
+<http://vitro.mannlib.cornell.edu/ontologies/display/1.1#DefaultMenu> <http://www.w3.org/2000/01/rdf-schema#label> "Standardmenu"@de-DE .
+<java:edu.cornell.mannlib.vitro.webapp.utils.dataGetter.IndividualsForClassesDataGetter> <http://www.w3.org/2000/01/rdf-schema#label> "Group Page Group - selected classes"@de-DE .
