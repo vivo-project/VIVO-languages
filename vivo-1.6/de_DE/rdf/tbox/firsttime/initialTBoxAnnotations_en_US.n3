@@ -278,7 +278,7 @@
 <http://vivoweb.org/ontology/core#dateFiled> <http://www.w3.org/2000/01/rdf-schema#label> "Ablagedatum"@de-DE .
 <http://purl.org/ontology/bibo/Standard> <http://www.w3.org/2000/01/rdf-schema#label> "Standard"@de-DE .
 <http://purl.org/ontology/bibo/Series> <http://www.w3.org/2000/01/rdf-schema#label> "Reihe"@de-DE .
-<http://purl.org/ontology/bibo/coden> <http://www.w3.org/2000/01/rdf-schema#label> "coden"@de-DE .
+<http://purl.org/ontology/bibo/coden> <http://www.w3.org/2000/01/rdf-schema#label> "CODEN"@de-DE .
 <http://purl.org/ontology/bibo/oclcnum> <http://www.w3.org/2000/01/rdf-schema#label> "Online Computer Library Center (OCLC) Nummer"@de-DE .
 <http://vivoweb.org/ontology/core#FacultyMember> <http://www.w3.org/2000/01/rdf-schema#label> "ProfessorIn"@de-DE .
 <http://vivoweb.org/ontology/core#Certificate> <http://www.w3.org/2000/01/rdf-schema#label> "Zertifikat"@de-DE .
