@@ -110,7 +110,7 @@
 <http://purl.org/ontology/bibo/LegalCaseDocument> <http://www.w3.org/2000/01/rdf-schema#label> "Rechtsdokument"@de-DE .
 <http://xmlns.com/foaf/0.1/Person> <http://www.w3.org/2000/01/rdf-schema#label> "Person"@de-DE .
 <http://purl.org/ontology/bibo/abstract> <http://www.w3.org/2000/01/rdf-schema#label> "Abstract"@de-DE .
-<http://vivoweb.org/ontology/core#Authorship> <http://www.w3.org/2000/01/rdf-schema#label> "Autorschaft"@de-DE .
+<http://vivoweb.org/ontology/core#Authorship> <http://www.w3.org/2000/01/rdf-schema#label> "Autorenschaft"@de-DE .
 <http://vivoweb.org/ontology/core#Competition> <http://www.w3.org/2000/01/rdf-schema#label> "Wettbewerb"@de-DE .
 <http://purl.org/dc/terms/relation> <http://www.w3.org/2000/01/rdf-schema#label> "Beziehung"@de-DE .
 <http://vivoweb.org/ontology/core#AcademicYear> <http://www.w3.org/2000/01/rdf-schema#label> "akademisches Jahr"@de-DE .
