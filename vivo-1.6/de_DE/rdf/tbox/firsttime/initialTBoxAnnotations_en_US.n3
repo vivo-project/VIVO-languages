@@ -155,7 +155,7 @@
 <http://vivoweb.org/ontology/core#Award> <http://www.w3.org/2000/01/rdf-schema#label> "Auszeichnung oder Preis"@de-DE .
 <http://purl.org/ontology/bibo/Website> <http://www.w3.org/2000/01/rdf-schema#label> "Webseite"@de-DE .
 <http://vivoweb.org/ontology/core#EmeritusProfessor> <http://www.w3.org/2000/01/rdf-schema#label> "emeritierte/r ProfessorIn"@de-DE .
-<http://vivoweb.org/ontology/core#Editorship> <http://www.w3.org/2000/01/rdf-schema#label> "Chefredaktion"@de-DE .
+<http://vivoweb.org/ontology/core#Editorship> <http://www.w3.org/2000/01/rdf-schema#label> "Herausgeberschaft"@de-DE .
 <http://purl.org/ontology/bibo/annotates> <http://www.w3.org/2000/01/rdf-schema#label> "kommentiert"@de-DE .
 <http://vivoweb.org/ontology/core#Committee> <http://www.w3.org/2000/01/rdf-schema#label> "Komittee"@de-DE .
 <http://vivoweb.org/ontology/core#EventSeries> <http://www.w3.org/2000/01/rdf-schema#label> "Event-Reihe"@de-DE .
