@@ -227,7 +227,7 @@
 <http://vivoweb.org/ontology/core#hasMonetaryAmount> <http://www.w3.org/2000/01/rdf-schema#label> "verfügt über einen Kapitalbetrag"@de-DE .
 <http://vivoweb.org/ontology/core#reviewedIn> <http://www.w3.org/2000/01/rdf-schema#label> "rezensiert in"@de-DE .
 <http://vivoweb.org/ontology/core#supports> <http://www.w3.org/2000/01/rdf-schema#label> "Förderungen"@de-DE .
-<http://xmlns.com/foaf/0.1/Agent> <http://www.w3.org/2000/01/rdf-schema#label> "StellvertreterIn"@de-DE .
+<http://xmlns.com/foaf/0.1/Agent> <http://www.w3.org/2000/01/rdf-schema#label> "Akteur"@de-DE .
 <http://vivoweb.org/ontology/core#Contract> <http://www.w3.org/2000/01/rdf-schema#label> "Vertrag"@de-DE .
 <http://purl.org/ontology/bibo/LegalDocument> <http://www.w3.org/2000/01/rdf-schema#label> "Rechtsdokument"@de-DE .
 <http://vivoweb.org/ontology/core#MemberRole> <http://www.w3.org/2000/01/rdf-schema#label> "Mitglied"@de-DE .
