@@ -79,11 +79,11 @@
 <http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/orgHasCollaboratorConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Zusammenarbeit mit einer Organisation oder Gruppe"@de-DE .
 <http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/bfo_0000055Config> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "TeilnehmerIn"@de-DE .
 <http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/grantRelatesConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "MitarbeiterIn"@de-DE .
-<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/eventsForSeriesConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Events in dieser Reihe"@de-DE .
+<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/eventsForSeriesConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Veranstaltungen in dieser Reihe"@de-DE .
 <http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/personTelephoneConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Telefon"@de-DE .
 <http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/hasAttendeeRoleConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "besuchtes Event"@de-DE .
 <http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/hasInvestigatorRoleConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Leitung von"@de-DE .
-<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/inEventSeriesConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "in der Event-Reihe"@de-DE .
+<http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/inEventSeriesConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "in der Veranstaltungsreihe"@de-DE .
 <http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/orgHasMemberRoleConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Mitglied bei"@de-DE .
 <http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/yearAwardedConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Jahr der Auszeichnung"@de-DE .
 <http://vitro.mannlib.cornell.edu/ns/vitro/siteConfig/documentPartOfConfig> <http://vitro.mannlib.cornell.edu/ns/vitro/ApplicationConfiguration#displayName> "Teil eines anderen Dokumentes"@de-DE .
