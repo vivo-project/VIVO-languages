@@ -82,7 +82,7 @@
 <http://purl.org/ontology/bibo/isbn13> <http://www.w3.org/2000/01/rdf-schema#label> "International Standard Book Number (ISBN ) 13"@de-DE .
 <http://vivoweb.org/ontology/core#Location> <http://www.w3.org/2000/01/rdf-schema#label> "Ort"@de-DE .
 <http://vivoweb.org/ontology/core#seatingCapacity> <http://www.w3.org/2000/01/rdf-schema#label> "Sitzplatzkapazität"@de-DE .
-<http://purl.org/ontology/bibo/DocumentStatus> <http://www.w3.org/2000/01/rdf-schema#label> "Dokumentstatus"@de-DE .
+<http://purl.org/ontology/bibo/DocumentStatus> <http://www.w3.org/2000/01/rdf-schema#label> "Dokumentenstatus"@de-DE .
 <http://purl.org/ontology/bibo/LegalDecision> <http://www.w3.org/2000/01/rdf-schema#label> "Entscheidung"@de-DE .
 <http://vivoweb.org/ontology/core#Library> <http://www.w3.org/2000/01/rdf-schema#label> "Bibliothek"@de-DE .
 <http://vivoweb.org/ontology/core#GeographicLocation> <http://www.w3.org/2000/01/rdf-schema#label> "geographischer Standort"@de-DE .
