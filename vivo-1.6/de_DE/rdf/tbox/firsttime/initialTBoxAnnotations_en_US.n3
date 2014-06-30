@@ -186,7 +186,7 @@
 <http://vitro.mannlib.cornell.edu/ns/vitro/public> <http://www.w3.org/2000/01/rdf-schema#label> "Vitro Public Ontology"@de-DE.
 <http://vivoweb.org/ontology/core#Building> <http://www.w3.org/2000/01/rdf-schema#label> "Gebäude"@de-DE .
 <http://purl.org/ontology/bibo/Manual> <http://www.w3.org/2000/01/rdf-schema#label> "Handbuch"@de-DE .
-<http://vivoweb.org/ontology/core#freetextKeyword> <http://www.w3.org/2000/01/rdf-schema#label> "Stichwörter"@de-DE .
+<http://vivoweb.org/ontology/core#freetextKeyword> <http://www.w3.org/2000/01/rdf-schema#label> "Schlagwörter"@de-DE .
 <http://purl.org/ontology/bibo/rejected> <http://www.w3.org/2000/01/rdf-schema#label> "abgelehnt"@de-DE .
 <http://purl.org/ontology/bibo/issn> <http://www.w3.org/2000/01/rdf-schema#label> "International Standard Serial Number (ISSN )"@de-DE .
 <http://vivoweb.org/ontology/core#hasAssociatedConcept> <http://www.w3.org/2000/01/rdf-schema#label> "zugeordneter Begriff"@de-DE .
