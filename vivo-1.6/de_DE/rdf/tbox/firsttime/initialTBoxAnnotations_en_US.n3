@@ -158,7 +158,7 @@
 <http://vivoweb.org/ontology/core#Editorship> <http://www.w3.org/2000/01/rdf-schema#label> "Herausgeberschaft"@de-DE .
 <http://purl.org/ontology/bibo/annotates> <http://www.w3.org/2000/01/rdf-schema#label> "kommentiert"@de-DE .
 <http://vivoweb.org/ontology/core#Committee> <http://www.w3.org/2000/01/rdf-schema#label> "Komittee"@de-DE .
-<http://vivoweb.org/ontology/core#EventSeries> <http://www.w3.org/2000/01/rdf-schema#label> "Event-Reihe"@de-DE .
+<http://vivoweb.org/ontology/core#EventSeries> <http://www.w3.org/2000/01/rdf-schema#label> "Veranstaltungsreihe"@de-DE .
 <http://purl.org/ontology/bibo/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "Identifier"@de-DE .
 <http://vivoweb.org/ontology/core#IssuedCredential> <http://www.w3.org/2000/01/rdf-schema#label> "ausgestelltes Empfehlungsschreiben"@de-DE .
 <http://purl.org/NET/c4dm/event.owl#Event> <http://www.w3.org/2000/01/rdf-schema#label> "Event"@de-DE .
