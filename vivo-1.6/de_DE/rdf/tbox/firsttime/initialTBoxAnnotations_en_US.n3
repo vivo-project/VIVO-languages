@@ -337,7 +337,7 @@
 <http://vivoweb.org/ontology/core#Postdoc> <http://www.w3.org/2000/01/rdf-schema#label> "Postdoc"@de-DE .
 <http://vivoweb.org/ontology/core#PrimaryPosition> <http://www.w3.org/2000/01/rdf-schema#label> "Zentrale Position"@de-DE .
 <http://vivoweb.org/ontology/core#conceptAssociatedWith> <http://www.w3.org/2000/01/rdf-schema#label> "Konzept für"@de-DE .
-<http://vivoweb.org/ontology/core#inPress> <http://www.w3.org/2000/01/rdf-schema#label> "im Erscheinen"@de-DE .
+<http://vivoweb.org/ontology/core#inPress> <http://www.w3.org/2000/01/rdf-schema#label> "im Druck"@de-DE .
 <http://purl.org/ontology/bibo/locator> <http://www.w3.org/2000/01/rdf-schema#label> "Locator"@de-DE .
 <http://vivoweb.org/ontology/core#Blog> <http://www.w3.org/2000/01/rdf-schema#label> "Blog"@de-DE .
 <http://vivoweb.org/ontology/core#ResearcherRole> <http://www.w3.org/2000/01/rdf-schema#label> "Rolle des Forschenden"@de-DE .
