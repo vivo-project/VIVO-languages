@@ -353,7 +353,7 @@
 <http://vivoweb.org/ontology/core#University> <http://www.w3.org/2000/01/rdf-schema#label> "Universary"@de-DE .
 <http://vivoweb.org/ontology/core#assignee> <http://www.w3.org/2000/01/rdf-schema#label> "Bevollmächtigte/ Bevollmächtigter"@de-DE .
 <http://vivoweb.org/ontology/core#courseCredits> <http://www.w3.org/2000/01/rdf-schema#label> "Credits"@de-DE .
-<http://vivoweb.org/ontology/core#validIn> <http://www.w3.org/2000/01/rdf-schema#label> "gültig in"@de-DE .
+<http://vivoweb.org/ontology/core#validIn> <http://www.w3.org/2000/01/rdf-schema#label> "gültig innerhalb"@de-DE .
 <http://vivoweb.org/ontology/core#yearMonthDayPrecision> <http://www.w3.org/2000/01/rdf-schema#label> "Jahr-Monat-Tag Wert"@de-DE .
 <http://purl.org/dc/terms/contributor> <http://www.w3.org/2000/01/rdf-schema#label> "MitarbeiterIn"@de-DE .
 <http://vivoweb.org/ontology/core#StudentOrganization> <http://www.w3.org/2000/01/rdf-schema#label> "Studentenorganisation"@de-DE .
