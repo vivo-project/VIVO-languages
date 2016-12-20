@@ -1,0 +1,13 @@
+# $This file is distributed under the terms of the license in /doc/license.txt$ 
+
+@prefix about: <http://vitro.mannlib.cornell.edu/ns/default/about#> .
+
+about:ABOUTDG
+    <http://vitro.mannlib.cornell.edu/ontologies/display/1.1#htmlValue>
+        """<h2>关于 VIVO</h2>
+        <div class=\"pageGroupBody\" id=\"aboutText\"><p>vivo应用使得跨机构的研究发现成为可能.在线参与者包括vivo本地安装机构或者可以提供语义Web兼容数据的应用程序和研究发现。因此， 通过VIVO访问的信息搜索和探索可以在本地控制，通过在线机构或其他兼容的应用程序语义网。</p>
+
+        <p>VIVO是一个最初由康奈尔开发和执行的开源语义web应用。它可以通过安装和填充内容来对这个机构的所有学科进行研究发现。VIVO支持浏览和搜索功能，返回对想要搜索的信息的快速获取信息。本地安装的VIVO可以通过本地的注册系统进行内容的维护或者数据库的自动导入。</p>
+
+        <p>查看更多信息<a href=\"http://vivoweb.org\">VIVO 项目</a>.</p></div>
+        """@zh_CN .
