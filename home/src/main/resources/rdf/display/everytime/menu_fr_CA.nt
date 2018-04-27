@@ -1,0 +1,16 @@
+<http://vitro.mannlib.cornell.edu/ontologies/display/1.1#DefaultMenu> <http://www.w3.org/2000/01/rdf-schema#label> "menu par défaut"@fr-CA .
+<http://vitro.mannlib.cornell.edu/ontologies/display/1.1#HomeMenuItem> <http://vitro.mannlib.cornell.edu/ontologies/display/1.1#linkText> "Accueil"@fr-CA .
+<http://vitro.mannlib.cornell.edu/ontologies/display/1.1#PeopleMenuItem> <http://vitro.mannlib.cornell.edu/ontologies/display/1.1#linkText> "Personnes"@fr-CA .
+<http://vitro.mannlib.cornell.edu/ontologies/display/1.1#OrganizationsMenuItem> <http://vitro.mannlib.cornell.edu/ontologies/display/1.1#linkText> "Organisations"@fr-CA .
+<http://vitro.mannlib.cornell.edu/ontologies/display/1.1#ResearchMenuItem> <http://vitro.mannlib.cornell.edu/ontologies/display/1.1#linkText> "Recherche"@fr-CA .
+<http://vitro.mannlib.cornell.edu/ontologies/display/1.1#EventsMenuItem> <http://vitro.mannlib.cornell.edu/ontologies/display/1.1#linkText> "Évènements"@fr-CA .
+<http://vitro.mannlib.cornell.edu/ontologies/display/1.1#CapabilityMapMenuItem> <http://vitro.mannlib.cornell.edu/ontologies/display/1.1#linkText> "Cartographie des expertises"@fr-CA .
+
+<http://vitro.mannlib.cornell.edu/ontologies/display/1.1#Home> <http://vitro.mannlib.cornell.edu/ontologies/display/1.1#title> "Accueil"@fr-CA .
+<http://vitro.mannlib.cornell.edu/ontologies/display/1.1#Events> <http://vitro.mannlib.cornell.edu/ontologies/display/1.1#title> "Évènements"@fr-CA .
+<http://vitro.mannlib.cornell.edu/ontologies/display/1.1#Organizations> <http://vitro.mannlib.cornell.edu/ontologies/display/1.1#title> "Organisations"@fr-CA .
+<http://vitro.mannlib.cornell.edu/ontologies/display/1.1#People> <http://vitro.mannlib.cornell.edu/ontologies/display/1.1#title> "Personnes"@fr-CA .
+<http://vitro.mannlib.cornell.edu/ontologies/display/1.1#Research> <http://vitro.mannlib.cornell.edu/ontologies/display/1.1#title> "Recherche"@fr-CA .
+<http://vitro.mannlib.cornell.edu/ontologies/display/1.1#CapabilityMap> <http://vitro.mannlib.cornell.edu/ontologies/display/1.1#title> "Cartographie des expertises"@fr-CA .
+
+<http://vitro.mannlib.cornell.edu/ontologies/display/1.1#capabilityMapDataGetter> <http://vitro.mannlib.cornell.edu/ontologies/display/1.1#htmlValue> "Cartographie des expertises"@fr-CA .

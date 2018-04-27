@@ -1,0 +1,16 @@
+<http://vivoweb.org/ontology#vitroPropertyGroupaffiliation> <http://www.w3.org/2000/01/rdf-schema#label> "affiliation"@fr-CA .
+<http://vivoweb.org/ontology#vitroPropertyGroupidentifiers> <http://www.w3.org/2000/01/rdf-schema#label> "identité"@fr-CA .
+<http://vivoweb.org/ontology#vitroPropertyGroupaddress> <http://www.w3.org/2000/01/rdf-schema#label> "contact"@fr-CA .
+<http://vivoweb.org/ontology#vitroPropertyGrouplinks> <http://www.w3.org/2000/01/rdf-schema#label> "liens"@fr-CA .
+<http://vivoweb.org/ontology#vitroPropertyGroupbibliographic> <http://www.w3.org/2000/01/rdf-schema#label> "publications"@fr-CA .
+<http://vivoweb.org/ontology#vitroPropertyGroupteaching> <http://www.w3.org/2000/01/rdf-schema#label> "enseignement"@fr-CA .
+<http://vivoweb.org/ontology#vitroPropertyGroupresearch> <http://www.w3.org/2000/01/rdf-schema#label> "recherche"@fr-CA .
+<http://vivoweb.org/ontology#vitroPropertyGroupoutreach> <http://www.w3.org/2000/01/rdf-schema#label> "service"@fr-CA .
+<http://vivoweb.org/ontology#vitroPropertyGroupoverview> <http://www.w3.org/2000/01/rdf-schema#label> "vue d'ensemble"@fr-CA .
+<http://vivoweb.org/ontology#vitroPropertyGroupbibliographiconline> <http://www.w3.org/2000/01/rdf-schema#label> "documents liés"@fr-CA .
+<http://vivoweb.org/ontology#vitroPropertyGroupbiography> <http://www.w3.org/2000/01/rdf-schema#label> "background"@fr-CA .
+<http://vivoweb.org/ontology#vitroPropertyGroupbibmapping> <http://www.w3.org/2000/01/rdf-schema#label> "bib mapping"@fr-CA .
+<http://vivoweb.org/ontology#vitroPropertyGroupmapping> <http://www.w3.org/2000/01/rdf-schema#label> "mapping"@fr-CA .
+<http://vivoweb.org/ontology#vitroPropertyGrouptime> <http://www.w3.org/2000/01/rdf-schema#label> "temps"@fr-CA .
+<http://vivoweb.org/ontology#vitroPropertyGroupbibobscure> <http://www.w3.org/2000/01/rdf-schema#label> "additional document info"@fr-CA .
+<http://vivoweb.org/ontology#vitroPropertyGrouplocation> <http://www.w3.org/2000/01/rdf-schema#label>  "lieu"@fr-CA .
