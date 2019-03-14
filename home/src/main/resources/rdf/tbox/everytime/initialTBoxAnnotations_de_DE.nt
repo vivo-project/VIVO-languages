@@ -518,7 +518,7 @@
 <http://www.w3.org/2006/vcard/ns#Type> <http://www.w3.org/2000/01/rdf-schema#label> "Typ"@de-DE .
 <http://aims.fao.org/aos/geopolitical.owl#codeFAOTERM> <http://www.w3.org/2000/01/rdf-schema#label> "codeFAOTERM"@de-DE .
 <http://www.w3.org/2006/vcard/ns#note> <http://www.w3.org/2000/01/rdf-schema#label> "Kommentar"@de-DE .
-<http://purl.obolibrary.org/obo/ERO_0000779> <http://www.w3.org/2000/01/rdf-schema#label> "Rolle des/der Gesandten"@de-DE .
+<http://purl.obolibrary.org/obo/ERO_0000779> <http://www.w3.org/2000/01/rdf-schema#label> "Rolle des/der nicht dauerhaften Einwohners/in"@de-DE .
 <http://purl.obolibrary.org/obo/ARG_2000069> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Emergency Medicine"@de-DE .
 <http://purl.obolibrary.org/obo/RO_0001025> <http://www.w3.org/2000/01/rdf-schema#label> "gelegen in"@de-DE .
 <http://aims.fao.org/aos/geopolitical.owl#hasStatistics> <http://www.w3.org/2000/01/rdf-schema#label> "hat Statistiken"@de-DE .
@@ -708,7 +708,7 @@
 <http://www.w3.org/2006/vcard/ns#Crush> <http://www.w3.org/2000/01/rdf-schema#label> "Schwarm"@de-DE .
 <http://www.w3.org/2006/vcard/ns#Work> <http://www.w3.org/2000/01/rdf-schema#label> "Beruflich"@de-DE .
 <http://purl.obolibrary.org/obo/ARG_2000012> <http://www.w3.org/2000/01/rdf-schema#label> "Bezeichnung der Messung"@de-DE .
-<http://purl.obolibrary.org/obo/ERO_0000780> <http://www.w3.org/2000/01/rdf-schema#label> "Rolle des/der nicht dauerhaft Gesandten"@de-DE .
+<http://purl.obolibrary.org/obo/ERO_0000780> <http://www.w3.org/2000/01/rdf-schema#label> "Rolle des/der nicht dauerhaften Einwohners/in"@de-DE .
 <http://aims.fao.org/aos/geopolitical.owl#special_group> <http://www.w3.org/2000/01/rdf-schema#label> "spezielle Gruppierung"@de-DE .
 <http://aims.fao.org/aos/geopolitical.owl#countryAreaUnit> <http://www.w3.org/2000/01/rdf-schema#label> "Flächeneinheit"@de-DE .
 <http://www.w3.org/2006/vcard/ns#geo> <http://www.w3.org/2000/01/rdf-schema#label> "Koordinaten"@de-DE .
