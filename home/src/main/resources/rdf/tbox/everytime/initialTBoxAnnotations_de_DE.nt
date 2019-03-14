@@ -401,7 +401,6 @@
 <http://purl.obolibrary.org/obo/ERO_0000595> <http://www.w3.org/2000/01/rdf-schema#label> "Forschungsmöglichkeit"@de-DE .
 <http://purl.obolibrary.org/obo/ERO_0000071> <http://www.w3.org/2000/01/rdf-schema#label> "Software"@de-DE .
 <http://purl.obolibrary.org/obo/ERO_0000007> <http://www.w3.org/2000/01/rdf-schema#label> "Technik"@de-DE .
-<http://vivoweb.org/ontology/core#Librarian> <http://www.w3.org/2000/01/rdf-schema#label> "emeritierte/r BibliothekarIn"@de-DE .
 <http://vivoweb.org/ontology/core#Consortium> <http://www.w3.org/2000/01/rdf-schema#label> "Konsortium"@de-DE .
 <http://purl.obolibrary.org/obo/ERO_0000391> <http://www.w3.org/2000/01/rdf-schema#label> "Zugangsservice"@de-DE .
 <http://purl.obolibrary.org/obo/ERO_0001261> <http://www.w3.org/2000/01/rdf-schema#label> "Analyse-Service"@de-DE .
@@ -518,7 +517,7 @@
 <http://www.w3.org/2006/vcard/ns#Type> <http://www.w3.org/2000/01/rdf-schema#label> "Typ"@de-DE .
 <http://aims.fao.org/aos/geopolitical.owl#codeFAOTERM> <http://www.w3.org/2000/01/rdf-schema#label> "codeFAOTERM"@de-DE .
 <http://www.w3.org/2006/vcard/ns#note> <http://www.w3.org/2000/01/rdf-schema#label> "Kommentar"@de-DE .
-<http://purl.obolibrary.org/obo/ERO_0000779> <http://www.w3.org/2000/01/rdf-schema#label> "Rolle des/der nicht dauerhaften Einwohners/in"@de-DE .
+<http://purl.obolibrary.org/obo/ERO_0000779> <http://www.w3.org/2000/01/rdf-schema#label> "Rolle des/der dauerhaften Einwohners/in"@de-DE .
 <http://purl.obolibrary.org/obo/ARG_2000069> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Emergency Medicine"@de-DE .
 <http://purl.obolibrary.org/obo/RO_0001025> <http://www.w3.org/2000/01/rdf-schema#label> "gelegen in"@de-DE .
 <http://aims.fao.org/aos/geopolitical.owl#hasStatistics> <http://www.w3.org/2000/01/rdf-schema#label> "hat Statistiken"@de-DE .
