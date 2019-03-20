@@ -261,6 +261,7 @@
 <http://vivoweb.org/ontology/core#distributes> <http://www.w3.org/2000/01/rdf-schema#label> "verteilt"@de-DE .
 <http://vivoweb.org/ontology/core#hasSubjectArea> <http://www.w3.org/2000/01/rdf-schema#label> "hat Fachgebiet"@de-DE .
 <http://vivoweb.org/ontology/core#termLabel> <http://www.w3.org/2000/01/rdf-schema#label> "Begriffslabel"@de-DE .
+<http://www.w3.org/2004/02/skos/core#related> <http://www.w3.org/2000/01/rdf-schema#label> "Verwandtes Konzept"@de-DE .
 <http://purl.org/ontology/bibo/Performance> <http://www.w3.org/2000/01/rdf-schema#label> "Aufführung"@de-DE .
 <http://vivoweb.org/ontology/core#PopulatedPlace> <http://www.w3.org/2000/01/rdf-schema#label> "Ort"@de-DE .
 <http://vivoweb.org/ontology/core#rank> <http://www.w3.org/2000/01/rdf-schema#label> "Stellung"@de-DE .
@@ -426,6 +427,7 @@
 <http://aims.fao.org/aos/geopolitical.owl#GDPTotalInCurrentPrices> <http://www.w3.org/2000/01/rdf-schema#label> "BIP in laufenden Preisen"@de-DE .
 <http://www.w3.org/2006/vcard/ns#hasOrganizationalUnitName> <http://www.w3.org/2000/01/rdf-schema#label> "hat Name der Organisationseinheit"@de-DE .
 <http://aims.fao.org/aos/geopolitical.owl#other> <http://www.w3.org/2000/01/rdf-schema#label> "Andere"@de-DE .
+<http://www.w3.org/2004/02/skos/core#broader> <http://www.w3.org/2000/01/rdf-schema#label> "Breiteres Konzept"@de-DE .
 <http://www.w3.org/2004/02/skos/core#narrower> <http://www.w3.org/2000/01/rdf-schema#label> "Unterbegriff"@de-DE .
 <http://purl.obolibrary.org/obo/OBI_0000643> <http://www.w3.org/2000/01/rdf-schema#label> "hat Körnung"@de-DE .
 <http://www.w3.org/2006/vcard/ns#Identification> <http://www.w3.org/2000/01/rdf-schema#label> "Identifikation"@de-DE .
