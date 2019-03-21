@@ -552,7 +552,7 @@
 <http://purl.obolibrary.org/obo/ERO_0000775> <http://www.w3.org/2000/01/rdf-schema#label> "hat Wohnsitzerfordernis"@de-DE .
 <http://purl.obolibrary.org/obo/ERO_0001263> <http://www.w3.org/2000/01/rdf-schema#label> "Dienstleistung für Materialmodifikation"@de-DE .
 <http://aims.fao.org/aos/geopolitical.owl#landAreaYear> <http://www.w3.org/2000/01/rdf-schema#label> "Jahr"@de-DE .
-<http://purl.obolibrary.org/obo/BFO_0000003> <http://www.w3.org/2000/01/rdf-schema#label> "tatsächlich auftretende Sache"@de-DE .
+<http://purl.obolibrary.org/obo/BFO_0000003> <http://www.w3.org/2000/01/rdf-schema#label> "Okkurent"@de-DE .
 <http://aims.fao.org/aos/geopolitical.owl#nationalityIT> <http://www.w3.org/2000/01/rdf-schema#label> "Nationalität in Italienisch"@de-DE .
 <http://purl.obolibrary.org/obo/ERO_0000776> <http://www.w3.org/2000/01/rdf-schema#label> "Rolle des US-Einwohners"@de-DE .
 <http://purl.obolibrary.org/obo/ARG_2000066> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Anesthesiology"@de-DE .
