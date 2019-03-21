@@ -544,7 +544,7 @@
 <http://purl.obolibrary.org/obo/ERO_0000398> <http://www.w3.org/2000/01/rdf-schema#label> "durchgeführt von"@de-DE .
 <http://www.w3.org/2006/vcard/ns#hasCalenderBusy> <http://www.w3.org/2000/01/rdf-schema#label> "hat belegte Zeit"@de-DE .
 <http://www.w3.org/2006/vcard/ns#hasCategory> <http://www.w3.org/2000/01/rdf-schema#label> "hat Kategorie"@de-DE .
-<http://purl.obolibrary.org/obo/BFO_0000004> <http://www.w3.org/2000/01/rdf-schema#label> "Unabhängiger Charakter"@de-DE .
+<http://purl.obolibrary.org/obo/BFO_0000004> <http://www.w3.org/2000/01/rdf-schema#label> "Unabhängiger Kontinuant"@de-DE .
 <http://purl.obolibrary.org/obo/ARG_2000086> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Radiology"@de-DE .
 <http://purl.obolibrary.org/obo/ARG_2000399> <http://www.w3.org/2000/01/rdf-schema#label> "hat Kontaktperson"@de-DE .
 <http://purl.obolibrary.org/obo/ERO_0000044> <http://www.w3.org/2000/01/rdf-schema#label> "Inventarnummer"@de-DE .
@@ -564,7 +564,7 @@
 <http://www.w3.org/2006/vcard/ns#hasKey> <http://www.w3.org/2000/01/rdf-schema#label> "hat Schlüssel"@de-DE .
 <http://purl.obolibrary.org/obo/ERO_0000396> <http://www.w3.org/2000/01/rdf-schema#label> "Dienstleistung für Materialproduktion"@de-DE .
 <http://www.w3.org/2006/vcard/ns#TimeZone> <http://www.w3.org/2000/01/rdf-schema#label> "Zeitzone"@de-DE .
-<http://purl.obolibrary.org/obo/BFO_0000002> <http://www.w3.org/2000/01/rdf-schema#label> "Charakter"@de-DE .
+<http://purl.obolibrary.org/obo/BFO_0000002> <http://www.w3.org/2000/01/rdf-schema#label> "Kontinuant"@de-DE .
 <http://aims.fao.org/aos/geopolitical.owl#countryArea> <http://www.w3.org/2000/01/rdf-schema#label> "Landfläche"@de-DE .
 <http://purl.obolibrary.org/obo/RO_0000052> <http://www.w3.org/2000/01/rdf-schema#label> "anhaftend an"@de-DE .
 <http://purl.obolibrary.org/obo/OBI_0000299> <http://www.w3.org/2000/01/rdf-schema#label> "hat spezifiziertes Ergebnis"@de-DE .
@@ -582,7 +582,7 @@
 <http://purl.obolibrary.org/obo/IAO_0000221> <http://www.w3.org/2000/01/rdf-schema#label> "ist Qualitätsmaßstab für"@de-DE .
 <http://www.w3.org/2006/vcard/ns#Calendar> <http://www.w3.org/2000/01/rdf-schema#label> "Kalender"@de-DE .
 <http://purl.obolibrary.org/obo/RO_0002234> <http://www.w3.org/2000/01/rdf-schema#label> "hat Ergebnis"@de-DE .
-<http://purl.obolibrary.org/obo/BFO_0000020> <http://www.w3.org/2000/01/rdf-schema#label> "Spezifisch Bedingter Charakter"@de-DE .
+<http://purl.obolibrary.org/obo/BFO_0000020> <http://www.w3.org/2000/01/rdf-schema#label> "Spezifisch Bedingter Kontinuant"@de-DE .
 <http://purl.obolibrary.org/obo/ERO_0001520> <http://www.w3.org/2000/01/rdf-schema#label> "führt Studie am Menschen durch"@de-DE .
 <http://purl.obolibrary.org/obo/IAO_0000032> <http://www.w3.org/2000/01/rdf-schema#label> "skalares Messdatum"@de-DE .
 <http://purl.obolibrary.org/obo/ARG_2000089> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Urology"@de-DE .
@@ -775,7 +775,7 @@
 <http://purl.obolibrary.org/obo/BFO_0000051> <http://www.w3.org/2000/01/rdf-schema#label> "besteht aus"@de-DE .
 <http://purl.obolibrary.org/obo/ARG_2000008> <http://www.w3.org/2000/01/rdf-schema#label> "Messung von Themenschwerpunkten"@de-DE .
 <http://www.w3.org/2006/vcard/ns#logo> <http://www.w3.org/2000/01/rdf-schema#label> "Logo"@de-DE .
-<http://purl.obolibrary.org/obo/BFO_0000031> <http://www.w3.org/2000/01/rdf-schema#label> "Bedingter Charakter"@de-DE .
+<http://purl.obolibrary.org/obo/BFO_0000031> <http://www.w3.org/2000/01/rdf-schema#label> "Bedingter Kontinuant"@de-DE .
 <http://purl.obolibrary.org/obo/ARG_2000077> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Orthopaedic Surgery"@de-DE .
 <http://purl.obolibrary.org/obo/ERO_0000787> <http://www.w3.org/2000/01/rdf-schema#label> "Rolle des/der MitarbeiterIn"@de-DE .
 <http://purl.org/net/OCRe/study_design.owl#Phase_0> <http://www.w3.org/2000/01/rdf-schema#label> "Phase 0"@de-DE .
