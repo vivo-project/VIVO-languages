@@ -33,7 +33,7 @@
 <http://purl.org/ontology/bibo/PersonalCommunicationDocument> <http://www.w3.org/2000/01/rdf-schema#label> "Personal Communication Document"@de-DE .
 <http://purl.org/ontology/bibo/Map> <http://www.w3.org/2000/01/rdf-schema#label> "Karte"@de-DE .
 <http://vivoweb.org/ontology/core#nihmsid> <http://www.w3.org/2000/01/rdf-schema#label> "NIH Manuscript Submission System ID"@de-DE .
-<http://vivoweb.org/ontology/core#geographicFocusOf> <http://www.w3.org/2000/01/rdf-schema#label> "Ort von"@de-DE .
+<http://vivoweb.org/ontology/core#geographicFocusOf> <http://www.w3.org/2000/01/rdf-schema#label> "geographischer Fokus"@de-DE .
 <http://vivoweb.org/ontology/core#licenseNumber> <http://www.w3.org/2000/01/rdf-schema#label> "Lizenznummer"@de-DE .
 <http://purl.org/ontology/bibo/citedBy> <http://www.w3.org/2000/01/rdf-schema#label> "zitiert von"@de-DE .
 <http://vivoweb.org/ontology/core#CoPrincipalInvestigatorRole> <http://www.w3.org/2000/01/rdf-schema#label> "Ko-Projektleitung für"@de-DE .
