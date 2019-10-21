@@ -100,7 +100,7 @@
 <http://purl.org/ontology/bibo/cites> <http://www.w3.org/2000/01/rdf-schema#label> "zitiert"@de-DE .
 <http://purl.org/ontology/bibo/pageEnd> <http://www.w3.org/2000/01/rdf-schema#label> "letzte Seite"@de-DE .
 <http://vivoweb.org/ontology/core#hasEquipment> <http://www.w3.org/2000/01/rdf-schema#label> "hat Equipment"@de-DE .
-<http://vivoweb.org/ontology/core#localAwardId> <http://www.w3.org/2000/01/rdf-schema#label> "ID für die Auszeichnung"@de-DE .
+<http://vivoweb.org/ontology/core#localAwardId> <http://www.w3.org/2000/01/rdf-schema#label> "internes Förderkennzeichen"@de-DE .
 <http://vivoweb.org/ontology/core#Room> <http://www.w3.org/2000/01/rdf-schema#label> "Raum"@de-DE .
 <http://purl.org/ontology/bibo/draft> <http://www.w3.org/2000/01/rdf-schema#label> "Entwurf"@de-DE .
 <http://purl.org/ontology/bibo/CourtReporter> <http://www.w3.org/2000/01/rdf-schema#label> "Court Reporter"@de-DE .
