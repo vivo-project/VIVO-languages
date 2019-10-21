@@ -314,7 +314,7 @@
 <http://vivoweb.org/ontology/core#LeaderRole> <http://www.w3.org/2000/01/rdf-schema#label> "Rolle als Leitung"@de-DE .
 <http://purl.org/ontology/bibo/shortDescription> <http://www.w3.org/2000/01/rdf-schema#label> "Kurzbeschreibung"@de-DE .
 <http://purl.org/ontology/bibo/edition> <http://www.w3.org/2000/01/rdf-schema#label> "Ausgabe"@de-DE .
-<http://vivoweb.org/ontology/core#sponsorAwardId> <http://www.w3.org/2000/01/rdf-schema#label> "ID für den Sponsor der Auszeichnung"@de-DE .
+<http://vivoweb.org/ontology/core#sponsorAwardId> <http://www.w3.org/2000/01/rdf-schema#label> "Förderkennzeichen"@de-DE .
 <http://vivoweb.org/ontology/core#AdvisingRelationship> <http://www.w3.org/2000/01/rdf-schema#label> "Betreuungsverhältnis"@de-DE .
 <http://purl.org/ontology/bibo/DocumentPart> <http://www.w3.org/2000/01/rdf-schema#label> "Teil des Dokumentes"@de-DE .
 <http://vivoweb.org/ontology/core#PrincipalInvestigatorRole> <http://www.w3.org/2000/01/rdf-schema#label> "Projektleitung für"@de-DE .
