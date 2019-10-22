@@ -11,6 +11,7 @@ display:Events display:title "Events"@de-DE .
 display:Organizations display:title "Organisationen"@de-DE .
 display:People display:title "Personen"@de-DE .
 display:Research display:title "Forschung"@de-DE .
+
 display:CapabilityMap display:title "Forschungsnetz"@de-DE .
 display:pageListPage display:title "Seiten"@de-DE .
 
