@@ -179,7 +179,7 @@ vivo:isCorrespondingAuthor
               <http://vitro.mannlib.cornell.edu/ns/vitro/role#public> ;
       vitro:publicDescriptionAnnot
               "Indicates whether the author handles correspondence about the work and is in effect the guarantor of the published work.  The response is either 'true' or 'false' (without the quotes)."@en-US ,
-	          "Gibt an, ob der Autor die Korrespondenz über das Werk führt und tatsächlich für das veröffentlichte Werk verantwortlich ist.  Die Antwort ist entweder "wahr" oder "falsch" (ohne die Anführungszeichen)."@de-DE .		
+	          "Gibt an, ob der Autor die Korrespondenz über das Werk führt und tatsächlich für das veröffentlichte Werk verantwortlich ist.  Die Antwort ist entweder \"wahr\" oder \"falsch\" (ohne die Anführungszeichen)."@de-DE .		
 
 vivo:SeminarSeries
       vitro:displayLimitAnnot
