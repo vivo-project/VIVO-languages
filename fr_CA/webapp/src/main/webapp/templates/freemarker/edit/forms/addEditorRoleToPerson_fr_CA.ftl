@@ -1,4 +1,4 @@
-	<#-- $This file is distributed under the terms of the license in LICENSE$ -->
+<#-- $This file is distributed under the terms of the license in LICENSE$ -->
 <#--Two stage form for service provider role-->
 
 <#--
@@ -24,7 +24,6 @@ roleExamples-->
 <#assign typeSelectorLabel = "${i18n().editor_role_in}" />
 <#assign roleAndGenericLabel_i18n =   "${i18n().role_and_collection_or_series}" />
 <#assign nameAndGenericLabel_i18n =   "${i18n().name_and_collection_or_series}" />
-
 
 <#assign acTypes = "{activity: 'http://purl.org/ontology/bibo/Collection'}" />
 
