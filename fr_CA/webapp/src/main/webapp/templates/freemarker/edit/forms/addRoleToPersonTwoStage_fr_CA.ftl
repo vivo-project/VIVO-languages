@@ -163,7 +163,7 @@ Set this flag on the input acUriReceiver where you would like this behavior to o
 		Adaptation of structure for french 
  -->
             <p>
-                <label for="activity">${i18n().name_of?cap_first} l'${genericLabel?lower_case}  ${requiredHint}</label>
+                <label for="activity">${nameAndGenericLabel_i18n?cap_first}  ${requiredHint}</label>
                 <input class="acSelector" size="50"  type="text" id="activity" name="activityLabel"  acGroupName="activity" value="${activityLabelValue}" />
                 <input class="display" type="hidden" id="activityDisplay" acGroupName="activity" name="activityLabelDisplay" value="${activityLabelDisplayValue}">
             </p>
@@ -184,8 +184,8 @@ Set this flag on the input acUriReceiver where you would like this behavior to o
             </div>
 
             <#if showRoleLabelField = true>
-            <p><label for="roleLabel">${i18n().role_in} l'${genericLabel?lower_case} ${roleExamples}</label>
-                <input  size="50"  type="text" id="roleLabel" name="roleLabel" value="${roleLabel}" />
+            <p><label for="roleLabel">${roleAndGenericLabel_i18n?cap_first} ${roleExamples}</label>
+                    <input  size="50"  type="text" id="roleLabel" name="roleLabel" value="${roleLabel}" />
             </p>
         	</#if>
 

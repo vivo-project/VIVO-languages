@@ -1,0 +1,34 @@
+<#-- $This file is distributed under the terms of the license in LICENSE$ -->
+<#--Two stage form for service provider role-->
+
+<#--
+Required Values to be set for each form that includes addRoleToPersonTwoStage.ftl are:
+roleDescriptor.
+The other required values (roleType, optionsType, objectClassUri, and literalOptions are
+set in the JAVA class corresponding to the form, e.g. AddMemberRoleToPersonGenerator.java.
+
+Optional values can be set, but each of these has default values
+set in addRoleToPersonTwoStage.ftl:
+
+buttonText
+typeSelectorLabel
+numDateFields
+showRoleLAbelField
+roleExamples-->
+
+
+<#--Variable assignments for Add Member Role To Person-->
+<#assign roleDescriptor = "${i18n().membership}" />
+<#assign typeSelectorLabel = "${i18n().membership_in}" />
+<#assign roleActivityVClass = "${i18n().organizations}" />
+<#assign nameAndGenericLabel_i18n = "${i18n().name_and_organization}" />
+<#assign roleAndGenericLabel_i18n = "${i18n().role_and_organization}" />
+<#assign acMultipleTypes = "'true'" />
+<#assign acTypes = "{activity: 'http://xmlns.com/foaf/0.1/Organization,http://xmlns.com/foaf/0.1/Group,http://purl.obolibrary.org/obo/OBI_0000835'}" />
+
+<#assign editTitle = "${i18n().edit_entry_for_member_role}"/>
+
+<#assign createTitle = "${i18n().create_entry_for_member_role}"/>
+
+<#--Each of the two stage forms will include the form below-->
+<#include "addRoleToPersonTwoStage.ftl">
