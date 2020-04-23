@@ -185,7 +185,7 @@ Set this flag on the input acUriReceiver where you would like this behavior to o
 
             <#if showRoleLabelField = true>
             <p><label for="roleLabel">${roleAndGenericLabel_i18n?cap_first} ${roleExamples}</label>
-                    <input  size="50"  type="text" id="roleLabel" name="roleLabel" value="${roleLabel}" />
+                <input  size="50"  type="text" id="roleLabel" name="roleLabel" value="${roleLabel}" />
             </p>
         	</#if>
 
