@@ -98,8 +98,8 @@ Set this flag on the input acUriReceiver where you would like this behavior to o
 <section id="addPresenterRoleToPerson" role="region">
 
     <form id="addPresenterRoleToPerson" class="customForm noIE67" action="${submitUrl}"  role="add/edit Presentation">
-    <p class="inline">
-      <label for="presentationType">${i18n().presentation_type}<#if editMode != "edit"> ${requiredHint}<#else>:</#if></label>
+    <p>
+      <label for="presentationType" class="inline">${i18n().presentation_type}<#if editMode != "edit"> ${requiredHint}<#else>:</#if></label>
       <#assign presentationTypeOpts = editConfiguration.pageData.presentationType />
       <select id="typeSelector" name="presentationType" acGroupName="presentation">
         <option value="" selected="selected">${i18n().select_one}</option>
@@ -110,14 +110,14 @@ Set this flag on the input acUriReceiver where you would like this behavior to o
     </p>
 
     <p>
-        <label for="presentation">${i18n().presentation_name_capitalized} ${requiredHint}</label>
+        <label for="presentation" class="inline">${i18n().presentation_name_capitalized} ${requiredHint}</label>
             <input class="acSelector" size="50"  type="text" id="presentation" acGroupName="presentation" name="presentationLabel" value="${presentationLabelValue}">
             <input class="display" type="hidden" id="presentationDisplay" acGroupName="presentation" name="presentationLabelDisplay" value="${presentationLabelDisplayValue}">
     </p>
 
     <div class="acSelection" acGroupName="presentation">
-        <p class="inline">
-            <label>${i18n().selected}:</label>
+        <p>
+            <label class="inline">${i18n().selected_presentation}:</label>
             <span class="acSelectionInfo"></span>
             <a href="" class="verifyMatch"  title="${i18n().verify_match_capitalized}">(${i18n().verify_match_capitalized}</a> ${i18n().or}
             <a href="#" class="changeSelection" id="changeSelection">${i18n().change_selection})</a>
@@ -134,8 +134,8 @@ Set this flag on the input acUriReceiver where you would like this behavior to o
       <input  class="display" acGroupName="conference" type="hidden" id="conferenceDisplay" name="conferenceLabelDisplay" value="${conferenceLabelDisplayValue}" />
   </p>
   <div class="acSelection" acGroupName="conference">
-      <p class="inline">
-          <label>${i18n().selected_conference}:</label>
+      <p>
+          <label  class="inline">${i18n().selected_conference}:</label>
           <span class="acSelectionInfo"></span>
           <a href="" class="verifyMatch"  title="${i18n().verify_match_capitalized}">(${i18n().verify_match_capitalized}</a> ${i18n().or}
           <a href="#" class="changeSelection" id="changeSelection">${i18n().change_selection})</a>
@@ -143,7 +143,7 @@ Set this flag on the input acUriReceiver where you would like this behavior to o
       <input class="acUriReceiver" type="hidden" id="conferenceUri" name="existingConference" value="${conferenceValue}" ${flagClearLabelForExisting}="true" />
   </div>
     <p>
-        <h4 class="label">${i18n().years_participating}</h4>
+        <h3 class="label">${i18n().years_participating}</h3>
     </p>
     <#--Need to draw edit elements for dates here-->
     <#assign htmlForElements = editConfiguration.pageData.htmlForElements />

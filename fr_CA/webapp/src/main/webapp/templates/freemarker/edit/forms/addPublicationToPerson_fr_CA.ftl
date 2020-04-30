@@ -130,7 +130,7 @@ Set this flag on the input acUriReceiver where you would like this behavior to o
 <form id="addpublicationToPerson" class="customForm noIE67" action="${submitUrl}"  role="add/edit publication">
 
         <#--TODO: Check if possible to have existing publication options here in order to select-->
-    <p class="inline"><label for="typeSelector">${i18n().publication_type}<#if editMode != "edit"> ${requiredHint}<#else>:</#if></label>
+    <p><label for="typeSelector" class="inline">${i18n().publication_type}<#if editMode != "edit"> ${requiredHint}<#else>:</#if></label>
         <select id="typeSelector" name="pubType" acGroupName="publication" >
              <option value="" <#if (publicationTypeValue?length = 0)>selected="selected"</#if>>${i18n().select_one}</option>
              <#list pubTypeLiteralOptions?keys as key>
@@ -139,7 +139,7 @@ Set this flag on the input acUriReceiver where you would like this behavior to o
         </select>
     </p>
         <p>
-            <label for="title">${i18n().title_capitalized} ${requiredHint}</label>
+            <label for="title"  class="inline">${i18n().title_capitalized} ${requiredHint}</label>
             <input class="acSelector" size="60"  type="text" id="title" name="title" acGroupName="publication"  value="${titleValue}" />
         </p>
 

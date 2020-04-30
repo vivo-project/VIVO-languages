@@ -110,9 +110,9 @@ Set this flag on the input acUriReceiver where you would like this behavior to o
 
     <form id="personHasEducationalTraining" class="customForm noIE67" action="${submitUrl}"  role="add/edit educational training">
 
-
-    <p class="inline">
-        <label for="orgType">${i18n().org_type_capitalized} ${requiredHint}</label>
+	<h3>${i18n().organization_capitalized}</h3>
+    <p>
+        <label for="orgType"  class="inline">${i18n().type_capitalized?cap_first} ${requiredHint}</label>
         <#assign orgTypeOpts = editConfiguration.pageData.orgType />
         <select id="typeSelector" name="orgType" acGroupName="organization">
             <option value="" selected="selected">${i18n().select_one}</option>
@@ -127,14 +127,14 @@ Set this flag on the input acUriReceiver where you would like this behavior to o
     </p>
 
     <p>
-        <label for="relatedIndLabel">${i18n().organization_capitalized} ${i18n().name_capitalized} ${requiredHint}</label>
+        <label for="relatedIndLabel" class="inline">${i18n().name_capitalized} ${requiredHint}</label>
         <input class="acSelector" size="50"  type="text" id="relatedIndLabel" name="orgLabel" acGroupName="organization" value="${orgLabelValue}"  />
         <input class="display" type="hidden" id="orgDisplay" acGroupName="organization" name="orgLabelDisplay" value="${orgLabelDisplayValue}">
     </p>
 
     <div class="acSelection" acGroupName="organization">
-        <p class="inline">
-            <label>${i18n().selected_organization}:</label>
+        <p>
+            <label class="inline">${i18n().selected_organization}:</label>
             <span class="acSelectionInfo"></span>
             <a href="" class="verifyMatch"  title="${i18n().verify_match_capitalized}">(${i18n().verify_match_capitalized}</a> ${i18n().or}
             <a href="#" class="changeSelection" id="changeSelection">${i18n().change_selection})</a>
@@ -142,7 +142,13 @@ Set this flag on the input acUriReceiver where you would like this behavior to o
         <input class="acUriReceiver" type="hidden" id="orgUri" name="existingOrg" value="${existingOrgValue}" ${flagClearLabelForExisting}="true" />
     </div>
 
-    <label for="positionType">${i18n().educational_training_type} ${requiredHint}</label>
+    <p>
+        <label for="dept"  class="inline">${i18n().dept_or_school_name} ${i18n().organization_capitalized}</label>
+        <input  size="50"  type="text" id="dept" name="dept" value="${deptValue}" />
+    </p>
+    
+    <h3>${i18n().educational_training?cap_first}</h3>
+    <label for="positionType" class="inline">${i18n().type_capitalized?cap_first} ${requiredHint}</label>
     <#assign trainingTypeOpts = editConfiguration.pageData.trainingType />
     <select name="trainingType" style="margin-top:-2px" >
         <option value="" <#if trainingTypeValue == "">selected</#if>>${i18n().select_one}</option>
@@ -150,13 +156,9 @@ Set this flag on the input acUriReceiver where you would like this behavior to o
             <option value="${key}"  <#if trainingTypeValue == key>selected</#if>><#if trainingTypeOpts[key] == "Other">${i18n().academic_studies_or_other}<#else>${trainingTypeOpts[key]}</#if></option>
         </#list>
     </select>
-    <p>
-        <label for="dept">${i18n().dept_or_school_name} ${i18n().organization_capitalized}</label>
-        <input  size="50"  type="text" id="dept" name="dept" value="${deptValue}" />
-    </p>
 
     <div class="entry">
-      <label for="degreeUri">${i18n().degree}</label>
+      <label for="degreeUri" class="inline">${i18n().degree}</label>
 
       <#assign degreeOpts = editConfiguration.pageData.degreeType />
       <select name="degreeType" id="degreeUri" >
@@ -177,24 +179,24 @@ Set this flag on the input acUriReceiver where you would like this behavior to o
     </div>
 
     <p>
-        <label for="majorField">${i18n().major_field}</label>
+        <label for="majorField" class="inline">${i18n().major_field}</label>
         <input type="text" id="majorField" name="majorField" size="30" value="${majorFieldValue}"/>
     </p>
 
     <p>
-        <label for="info">${i18n().supplemental_information}
+        <label for="info" class="inline">${i18n().supplemental_information}
             <span class="hint">&nbsp;${i18n().supplemental_information_hint}</span>
         </label>
         <input  size="60"  type="text" id="info" name="info" value="${infoValue}" />
 
     </p>
-    <p></p>
+    <br/>
     <#--Need to draw edit elements for dates here-->
      <#if htmlForElements?keys?seq_contains("startField")>
 			<label class="dateTime" for="startField">${i18n().start_capitalized}</label>
 			${htmlForElements["startField"]} ${yearHint}
      </#if>
-     <p></p>
+     <br/>
      <#if htmlForElements?keys?seq_contains("endField")>
 			<label class="dateTime" for="endField">${i18n().end_capitalized}</label>
 		 	${htmlForElements["endField"]} ${yearHint}

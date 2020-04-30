@@ -80,8 +80,8 @@ Set this flag on the input acUriReceiver where you would like this behavior to o
     <form id="addEditorshipToPerson" class="customForm noIE67" action="${submitUrl}"  role="add/edit editorship">
 
 
-    <p class="inline">
-        <label for="orgType">${i18n().document_type_capitalized} ${requiredHint}</label>
+    <p>
+        <label for="orgType" class="inline">${i18n().document_type_capitalized} ${requiredHint}</label>
         <#assign docTypeOpts = editConfiguration.pageData.documentType />
         <select id="typeSelector" name="documentType" acGroupName="document">
             <option value="" selected="selected">${i18n().select_one}</option>
@@ -96,7 +96,7 @@ Set this flag on the input acUriReceiver where you would like this behavior to o
     </p>
 
     <p>
-        <label for="relatedIndLabel">${i18n().document_name_capitalized} ${requiredHint}</label>
+        <label for="relatedIndLabel" class="inline">${i18n().document_name_capitalized} ${requiredHint}</label>
         <input class="acSelector" size="50"  type="text" id="relatedIndLabel" name="documentLabel" acGroupName="document" value="${documentLabelValue}"  />
         <input class="display" type="hidden" id="documentDisplay" acGroupName="document" name="documentLabelDisplay" value="${documentLabelDisplayValue}">
     </p>
