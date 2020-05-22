@@ -218,7 +218,7 @@ vitro-config:hasResearcherRoleConfig
   vitro-appconf:displayName "Autres activités de recherche"@fr-CA ;
 .
 vitro-config:hasReviewerRoleConfig
-  vitro-appconf:displayName "Évaluateur(-trice))"@fr-CA ;
+  vitro-appconf:displayName "Évaluateur(-trice)"@fr-CA ;
 .
 vitro-config:hasRoomConfig
   vitro-appconf:displayName "salles"@fr-CA ;
