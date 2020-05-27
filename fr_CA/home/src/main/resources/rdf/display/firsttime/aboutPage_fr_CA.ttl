@@ -1,6 +1,4 @@
 # baseURI: http://vivoweb.org/ontology/aboutPage_fr_CA
-# imports: http://vivoweb.org/ontology/core
-# imports: http://vivoweb.org/ontology/vitroAnnotations.n3
 
 @prefix : <http://vivoweb.org/ontology/aboutPage_fr_CA#> .
 @prefix about: <http://vitro.mannlib.cornell.edu/ns/default/about#> .
@@ -14,16 +12,14 @@
 about:ABOUTDG
   a <java:edu.cornell.mannlib.vitro.webapp.utils.dataGetter.FixedHTMLDataGetter> ;
   <http://vitro.mannlib.cornell.edu/ontologies/display/1.1#htmlValue> """<h2>À propos de VIVO</h2>
-        <div class=\"pageGroupBody\" id=\"aboutText\"><p>L'application VIVO permet la découverte de chercheurs dans toutes les institutions. Les participants au réseau comprennent les institutions disposant d'installations locales de VIVO ou celles qui ont des applications de découverte et de profilage de la recherche pouvant fournir des données conformes au web sémantique. Les informations accessibles grâce à la capacité de recherche et de navigation de VIVO résideront et seront donc contrôlées localement, dans les VIVO institutionnels ou d'autres applications conformes au web sémantique.</p>
+        <div class=\\\"pageGroupBody\\\" id=\\\"aboutText\\\"><p>L'application VIVO permet la découverte de chercheurs dans toutes les institutions. Les participants au réseau comprennent les institutions disposant d'installations locales de VIVO ou celles qui ont des applications de découverte et de profilage de la recherche pouvant fournir des données conformes au web sémantique. Les informations accessibles grâce à la capacité de recherche et de navigation de VIVO résideront et seront donc contrôlées localement, dans les VIVO institutionnels ou d'autres applications conformes au web sémantique.</p>
 
         <p>VIVO est une application web sémantique open source développée et mise en œuvre à l'origine à Cornell. Lorsqu'elle est installée et alimentée en contenu dans une institution, elle permet la découverte de la recherche et de la recherche universitaire dans toutes les disciplines de cette institution. VIVO prend en charge la navigation et une fonction de recherche qui renvoie des résultats à multiples facettes pour une récupération rapide des informations souhaitées. Le contenu de toute installation locale de VIVO peut être maintenu manuellement ou introduit dans la base de données de manière automatisée à partir des systèmes d'enregistrement locaux, tels que les bases de données des ressources humaines, des bourses, des subventions, des cours et des activités des facultés.
 
-        <p>Voir plus d'informations sur le <a href=\"http://vivoweb.org\">projet VIVO</a>.</p><</div>"""@fr_CA ;
+        <p>Voir plus d'informations sur le <a href=\\\"http://vivoweb.org\\\">projet VIVO</a>.</p></div>"""@fr-CA ;
 .
 <http://vivoweb.org/ontology/aboutPage_fr_CA>
   a owl:Ontology ;
-  owl:imports <http://vivoweb.org/ontology/core> ;
-  owl:imports <http://vivoweb.org/ontology/vitroAnnotations.n3> ;
   owl:versionInfo "Adapted by Michel Héon, 2020, for Université de Québec à Montréal, http://uqam.ca" ;
   owl:versionInfo "Translated by Pierre Roberge, 2020,  for Université de Québec à Montréal, http://uqam.ca" ;
 .
