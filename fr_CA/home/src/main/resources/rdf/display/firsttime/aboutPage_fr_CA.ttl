@@ -18,7 +18,7 @@ about:ABOUTDG
 
         <p>VIVO est une application web sémantique open source développée et mise en œuvre à l'origine à Cornell. Lorsqu'elle est installée et alimentée en contenu dans une institution, elle permet la découverte de la recherche et de la recherche universitaire dans toutes les disciplines de cette institution. VIVO prend en charge la navigation et une fonction de recherche qui renvoie des résultats à multiples facettes pour une récupération rapide des informations souhaitées. Le contenu de toute installation locale de VIVO peut être maintenu manuellement ou introduit dans la base de données de manière automatisée à partir des systèmes d'enregistrement locaux, tels que les bases de données des ressources humaines, des bourses, des subventions, des cours et des activités des facultés.
 
-        <p>Voir plus d'informations sur le <a href=\"http://vivoweb.org\">projet VIVO</a>.</p><</div>"""@en ;
+        <p>Voir plus d'informations sur le <a href=\"http://vivoweb.org\">projet VIVO</a>.</p><</div>"""@fr_CA ;
 .
 <http://vivoweb.org/ontology/aboutPage_fr_CA>
   a owl:Ontology ;
