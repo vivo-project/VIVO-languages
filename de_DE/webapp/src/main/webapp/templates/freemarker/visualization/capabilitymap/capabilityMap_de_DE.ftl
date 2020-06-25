@@ -38,7 +38,7 @@ ${stylesheets.add(
 </script>
 <div class="main" id="main-content" role="main">
     <div class="col-8">
-        <h2>Capability Map</h2>
+        <h2>Forschungsnetz</h2>
 		<p>Erstellen Sie eine Capability Map durch Eingabe von Suchbegriffen.</p>       
     </div>
 
