@@ -1,6 +1,6 @@
-# baseURI: http://vivoweb.org/ontology/classgroups_fr_CA
+# baseURI: http://vivoweb.org/ontology/classgroups_labels_fr_CA
 
-@prefix : <http://vivoweb.org/ontology/classgroups_fr_CA#> .
+@prefix : <http://vivoweb.org/ontology/classgroups_labels_fr_CA#> .
 @prefix bibo: <http://purl.org/ontology/bibo/> .
 @prefix core: <http://vivoweb.org/ontology/core#> .
 @prefix dcelem: <http://purl.org/dc/elements/1.1/> .
@@ -43,4 +43,7 @@ vivo:vitroClassGrouppeople
 .
 vivo:vitroClassGrouppublications
   rdfs:label "Recherche"@fr-CA ;
+.
+<http://vivoweb.org/ontology/classgroups_labels_fr_CA>
+  a owl:Ontology ;
 .
