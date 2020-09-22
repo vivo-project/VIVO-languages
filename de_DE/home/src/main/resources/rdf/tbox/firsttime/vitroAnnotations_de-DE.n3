@@ -4456,7 +4456,7 @@ vivo:researcherId
               <http://vitro.mannlib.cornell.edu/ns/vitro/role#public> ;
       vitro:publicDescriptionAnnot
               "The identification number given to the profile created by a researcher in ResearcherID (http://isiwebofknowledge.com/researcherid/)."@en-US ,
-	          "Die Identifikationsnummer des Profils in ResearcherID (http://isiwebofknowledge.com/researcherid/)."@de-DE .		  
+	          "Die Identifikationsnummer des Profils in ResearcherID (https://researcherid.com/)."@de-DE .		  
 
 vivo:hasPublicationVenue
       vitro:displayLimitAnnot
