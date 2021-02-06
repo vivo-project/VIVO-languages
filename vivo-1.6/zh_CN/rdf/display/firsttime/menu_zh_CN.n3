@@ -1,0 +1,20 @@
+@prefix display: <http://vitro.mannlib.cornell.edu/ontologies/display/1.1#> .
+
+display:HomeMenuItem display:linkText "首页"@zh-CN .
+display:PeopleMenuItem display:linkText "人"@zh-CN .
+display:OrganizationsMenuItem display:linkText "组织"@zh-CN .
+display:ResearchMenuItem display:linkText "研究"@zh-CN .
+display:EventsMenuItem display:linkText "事件"@zh-CN . 
+display:Home display:title "首页"@zh-CN .
+display:Events display:title "活动"@zh-CN .
+display:Organizations display:title "组织"@zh-CN .
+display:People display:title "人"@zh-CN .
+display:Research display:title "研究"@zh-CN .
+display:pageListPage display:title "页面"@zh-CN .
+
+<java:edu.cornell.mannlib.vitro.webapp.utils.dataGetter.SparqlQueryDataGetter> <http://www.w3.org/2000/01/rdf-schema#label> "SPARQL 查询结果"@zh-CN .
+<java:edu.cornell.mannlib.vitro.webapp.utils.dataGetter.BrowseDataGetter> <http://www.w3.org/2000/01/rdf-schema#label> "Navegar P\u00E1gina"@zh-CN .
+<java:edu.cornell.mannlib.vitro.webapp.utils.dataGetter.InternalClassesDataGetter> <http://www.w3.org/2000/01/rdf-schema#label> "页组- 内部机构类"@zh-CN .
+<java:edu.cornell.mannlib.vitro.webapp.utils.dataGetter.ClassGroupPageData> <http://www.w3.org/2000/01/rdf-schema#label> "组织类页面"@zh-CN .
+<http://vitro.mannlib.cornell.edu/ontologies/display/1.1#DefaultMenu> <http://www.w3.org/2000/01/rdf-schema#label> "默认菜单"@zh-CN .
+<java:edu.cornell.mannlib.vitro.webapp.utils.dataGetter.IndividualsForClassesDataGetter> <http://www.w3.org/2000/01/rdf-schema#label> "组织页面 - 选择类别"@zh-CN .
