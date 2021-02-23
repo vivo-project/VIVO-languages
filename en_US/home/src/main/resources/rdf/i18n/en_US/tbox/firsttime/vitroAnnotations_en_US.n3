@@ -25,66 +25,6 @@
 @prefix vivo:    <http://vivoweb.org/ontology/core#> .
 @prefix xsd:     <http://www.w3.org/2001/XMLSchema#> .
 
-<http://purl.org/ontology/bibo/>
-      rdfs:label "Bibliographic Ontology"@en-US .
-
-<http://www.w3.org/2004/02/skos/core>
-      rdfs:label "SKOS (Simple Knowledge Organization System)"@en-US .
-
-<http://vivoweb.org/ontology/core>
-      rdfs:label "VIVO Core Ontology"@en-US .
-
-<http://purl.org/net/OCRe/research.owl>
-      rdfs:label "OCRe Research"@en-US .
-
-<http://purl.org/net/OCRe/study_design.owl>
-      rdfs:label "OCRe Study Design"@en-US .
-
-<http://purl.org/net/OCRe/study_protocol.owl>
-      rdfs:label "OCRe Study Protocol"@en-US .
-
-<http://purl.org/net/OCRe/statistics.owl>
-      rdfs:label "OCRe Statistics"@en-US .
-
-<http://aims.fao.org/aos/geopolitical.owl>
-      rdfs:label "Geopolitical Ontology"@en-US .
-
-<http://purl.org/NET/c4dm/event.owl>
-      rdfs:label "Event Ontology"@en-US .
-
-<http://purl.obolibrary.org/obo/>
-      rdfs:label "OBO Foundry"@en-US .
-
-<http://www.w3.org/2006/vcard/ns>
-      rdfs:label "VCard"@en-US .
-
-<http://xmlns.com/foaf/0.1/>
-      rdfs:label "FOAF (Friend of a Friend)"@en-US .
-
-<http://vivoweb.org/ontology/scientific-research>
-      rdfs:label "VIVO Scientific Research Ontology"@en-US .
-
-<http://purl.org/spar/fabio/>
-      rdfs:label "FaBiO (FRBR-Aligned Bibliographic Ontology)"@en-US .
-
-<http://purl.org/spar/c4o/>
-      rdfs:label "Citation Counting and Context Characterization Ontology"@en-US .
-
-<http://purl.org/spar/cito/>
-      rdfs:label "CiTO (Citation Typing Ontology)"@en-US .
-
-<http://purl.org/dc/terms/>
-      rdfs:label "Dublin Core Terms"@en-US .
-
-<http://purl.org/vocab/vann/>
-      rdfs:label "Vocabulary for Annotating Vocabulary Descriptions"@en-US .
-
-<http://purl.obolibrary.org/obo/ro.owl>
-      rdfs:label "Relations Ontology"@en-US .
-
-<http://www.ebi.ac.uk/efo/swo/>
-      rdfs:label "Software Ontology"@en-US .
-
 vivo:isCorrespondingAuthor
       vitro:publicDescriptionAnnot
               "Indicates whether the author handles correspondence about the work and is in effect the guarantor of the published work.  The response is either 'true' or 'false' (without the quotes)."@en-US .
