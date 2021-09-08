@@ -609,7 +609,7 @@
 <http://www.w3.org/2006/vcard/ns#Title> <http://www.w3.org/2000/01/rdf-schema#label> "Titre"@fr-CA .
 <http://vivoweb.org/ontology/core#researchOverview> <http://www.w3.org/2000/01/rdf-schema#label> "Aperçu des recherches"@fr-CA .
 <http://purl.obolibrary.org/obo/ERO_0000390> <http://www.w3.org/2000/01/rdf-schema#label> "service fourni par"@fr-CA .
-<http://www.w3.org/2004/02/skos/core#Concept> <http://www.w3.org/2000/01/rdf-schema#label> "ExpertisesLivres"@fr-CA .
+<http://www.w3.org/2004/02/skos/core#Concept> <http://www.w3.org/2000/01/rdf-schema#label> "Expertises"@fr-CA .
 <http://vivoweb.org/ontology/core#ResearcherRole> <http://www.w3.org/2000/01/rdf-schema#label> "Rôle de chercheur"@fr-CA .
 <http://purl.org/ontology/bibo/transcriptOf> <http://www.w3.org/2000/01/rdf-schema#label> "transcription de"@fr-CA .
 <http://purl.org/ontology/bibo/issuer> <http://www.w3.org/2000/01/rdf-schema#label> "émetteur"@fr-CA .
