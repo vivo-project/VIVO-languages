@@ -1,0 +1,885 @@
+<http://vivoweb.org/ontology/core#pmcid> <http://www.w3.org/2000/01/rdf-schema#label> "Centralni PubMed ID"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000071> <http://www.w3.org/2000/01/rdf-schema#label> "Software"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Note> <http://www.w3.org/2000/01/rdf-schema#label> "Note"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#language> <http://www.w3.org/2000/01/rdf-schema#label> "has language"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#offeredBy> <http://www.w3.org/2000/01/rdf-schema#label> "offered by"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#dateTimeValue> <http://www.w3.org/2000/01/rdf-schema#label> "date/time value"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#isCorrespondingAuthor> <http://www.w3.org/2000/01/rdf-schema#label> "Is this person a corresponding author?"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#SeminarSeries> <http://www.w3.org/2000/01/rdf-schema#label> "Serijal seminara"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_0000172> <http://www.w3.org/2000/01/rdf-schema#label> "patient ID"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#supplementalInformation> <http://www.w3.org/2000/01/rdf-schema#label> "supplemental information"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Geo> <http://www.w3.org/2000/01/rdf-schema#label> "Geo"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/chapter> <http://www.w3.org/2000/01/rdf-schema#label> "chapter number"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#yearMonthDayTimePrecision> <http://www.w3.org/2000/01/rdf-schema#label> "year-month-day-time value"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/IAO_0000417> <http://www.w3.org/2000/01/rdf-schema#label> "is quality measured as"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Student> <http://www.w3.org/2000/01/rdf-schema#label> "Student"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000072> <http://www.w3.org/2000/01/rdf-schema#label> "version"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#non_self_governing> <http://www.w3.org/2000/01/rdf-schema#label> "Non Self Governing"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Female> <http://www.w3.org/2000/01/rdf-schema#label> "Female"@sr-Latn-RS .
+<http://vivoweb.org/ontology/scientific-research#Phase1ClinicalTrial> <http://www.w3.org/2000/01/rdf-schema#label> "Phase 1 Clinical Trial"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#yearPrecision> <http://www.w3.org/2000/01/rdf-schema#label> "year value"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#assigneeFor> <http://www.w3.org/2000/01/rdf-schema#label> "assignee for patent"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#organizationName> <http://www.w3.org/2000/01/rdf-schema#label> "organization name"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#GDPTotalInCurrentPrices> <http://www.w3.org/2000/01/rdf-schema#label> "GDP total in current prices"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Company> <http://www.w3.org/2000/01/rdf-schema#label> "Company"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#hasOrganizationalUnitName> <http://www.w3.org/2000/01/rdf-schema#label> "has organizational unit name"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#NonAcademicPosition> <http://www.w3.org/2000/01/rdf-schema#label> "Non-Academic Position"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#other> <http://www.w3.org/2000/01/rdf-schema#label> "Other"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/sici> <http://www.w3.org/2000/01/rdf-schema#label> "Serial Item and Contribution Identifier (SICI)"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Licensure> <http://www.w3.org/2000/01/rdf-schema#label> "Licensure"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#inPress> <http://www.w3.org/2000/01/rdf-schema#label> "in press"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#placeOfPublication> <http://www.w3.org/2000/01/rdf-schema#label> "place of publication"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#hasCollaborator> <http://www.w3.org/2000/01/rdf-schema#label> "has collaborator"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#GovernmentAgency> <http://www.w3.org/2000/01/rdf-schema#label> "Vladina organizacija"@sr-Latn-RS .
+<http://www.w3.org/2004/02/skos/core#narrower> <http://www.w3.org/2000/01/rdf-schema#label> "narrower concept"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#affiliatedOrganization> <http://www.w3.org/2000/01/rdf-schema#label> "has affiliated organization"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl> <http://www.w3.org/2000/01/rdf-schema#label> "Geopolitical Ontology"@sr-Latn-RS .
+<http://www.w3.org/2004/02/skos/core> <http://www.w3.org/2000/01/rdf-schema#label> "SKOS (Simple Knowledge Organization System)"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#License> <http://www.w3.org/2000/01/rdf-schema#label> "License"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#hasMonetaryAmount> <http://www.w3.org/2000/01/rdf-schema#label> "has monetary amount"@sr-Latn-RS .
+<http://xmlns.com/foaf/0.1/Person> <http://www.w3.org/2000/01/rdf-schema#label> "Osoba"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/OBI_0000643> <http://www.w3.org/2000/01/rdf-schema#label> "has grain"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/OBI_0000272> <http://www.w3.org/2000/01/rdf-schema#label> "Protocol"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Identification> <http://www.w3.org/2000/01/rdf-schema#label> "Identification"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/pageStart> <http://www.w3.org/2000/01/rdf-schema#label> "start page"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/IAO_0000124> <http://www.w3.org/2000/01/rdf-schema#label> "uncurated"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#countryAreaYear> <http://www.w3.org/2000/01/rdf-schema#label> "countryAreaYear"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#reportId> <http://www.w3.org/2000/01/rdf-schema#label> "report identifier"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Security> <http://www.w3.org/2000/01/rdf-schema#label> "Security"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#hasCalendarRequest> <http://www.w3.org/2000/01/rdf-schema#label> "has calendar request"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#hasMinLongitude> <http://www.w3.org/2000/01/rdf-schema#label> "has minimum longitude"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Manuscript> <http://www.w3.org/2000/01/rdf-schema#label> "manuscript"@sr-Latn-RS .
+<http://www.w3.org/2002/07/owl#sameAs> <http://www.w3.org/2000/01/rdf-schema#label> "isto kao"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#hasTimeZone> <http://www.w3.org/2000/01/rdf-schema#label> "has time zone"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Presentation> <http://www.w3.org/2000/01/rdf-schema#label> "Prezentacija"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Other> <http://www.w3.org/2000/01/rdf-schema#label> "Other"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#relates> <http://www.w3.org/2000/01/rdf-schema#label> "relates"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000007> <http://www.w3.org/2000/01/rdf-schema#label> "Technique"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#hasCalendarLink> <http://www.w3.org/2000/01/rdf-schema#label> "has calendar link"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#hasRole> <http://www.w3.org/2000/01/rdf-schema#label> "has role"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#SubnationalRegion> <http://www.w3.org/2000/01/rdf-schema#label> "Subnational Region"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/IAO_0000102> <http://www.w3.org/2000/01/rdf-schema#label> "Podaci o delu ontologije"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#territory> <http://www.w3.org/2000/01/rdf-schema#label> "Territory"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#OrganizationName> <http://www.w3.org/2000/01/rdf-schema#label> "Naziv organizacije"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#researchAreaOf> <http://www.w3.org/2000/01/rdf-schema#label> "research area of"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#subjectAreaOf> <http://www.w3.org/2000/01/rdf-schema#label> "subject area of"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#populationTotal> <http://www.w3.org/2000/01/rdf-schema#label> "total population"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nationalityFR> <http://www.w3.org/2000/01/rdf-schema#label> "nationalityFR"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000006> <http://www.w3.org/2000/01/rdf-schema#label> "Reagent"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#conceptAssociatedWith> <http://www.w3.org/2000/01/rdf-schema#label> "concept for"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameOfficialIT> <http://www.w3.org/2000/01/rdf-schema#label> "nameOfficialIT"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#reproduces> <http://www.w3.org/2000/01/rdf-schema#label> "reproduces"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/IAO_0000300> <http://www.w3.org/2000/01/rdf-schema#label> "Textual Entity"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#calendarRequest> <http://www.w3.org/2000/01/rdf-schema#label> "calendar request"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#EmeritusFaculty> <http://www.w3.org/2000/01/rdf-schema#label> "Osoblje Fakulteta - Emeritus"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#organizationalUnitName> <http://www.w3.org/2000/01/rdf-schema#label> "organizational unit name"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Video> <http://www.w3.org/2000/01/rdf-schema#label> "Video"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/IAO_0000142> <http://www.w3.org/2000/01/rdf-schema#label> "mentions"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#submitted> <http://www.w3.org/2000/01/rdf-schema#label> "submitted"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Issue> <http://www.w3.org/2000/01/rdf-schema#label> "Issue"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#uid> <http://www.w3.org/2000/01/rdf-schema#label> "uid"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000790> <http://www.w3.org/2000/01/rdf-schema#label> "Post-Baccalaureate Trainee"@sr-Latn-RS .
+<http://vitro.mannlib.cornell.edu/ns/vitro/public#File> <http://www.w3.org/2000/01/rdf-schema#label> "File"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#AcademicYear> <http://www.w3.org/2000/01/rdf-schema#label> "Academic Year"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#related> <http://www.w3.org/2000/01/rdf-schema#label> "povetzan"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameShortRU> <http://www.w3.org/2000/01/rdf-schema#label> "nameShortRU"@sr-Latn-RS .
+<http://purl.org/NET/c4dm/event.owl> <http://www.w3.org/2000/01/rdf-schema#label> "Ontologija događaja"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#codeISO3> <http://www.w3.org/2000/01/rdf-schema#label> "codeISO3"@sr-Latn-RS .
+<http://www.ebi.ac.uk/efo/swo/SWO_0000740> <http://www.w3.org/2000/01/rdf-schema#label> "implements"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#locality> <http://www.w3.org/2000/01/rdf-schema#label> "locality"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000005> <http://www.w3.org/2000/01/rdf-schema#label> "Usluga"@sr-Latn-RS .
+<http://vitro.mannlib.cornell.edu/ns/vitro/0.7#moniker> <http://www.w3.org/2000/01/rdf-schema#label> "moniker (deprecated)"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#codeFAOSTAT> <http://www.w3.org/2000/01/rdf-schema#label> "codeFAOSTAT"@sr-Latn-RS .
+<http://vivoweb.org/ontology/scientific-research#accessProvidedBy> <http://www.w3.org/2000/01/rdf-schema#label> "pristup pruža"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#AttendeeRole> <http://www.w3.org/2000/01/rdf-schema#label> "Attendee Role"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#invited> <http://www.w3.org/2000/01/rdf-schema#label> "invited"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#NewsRelease> <http://www.w3.org/2000/01/rdf-schema#label> "News Release"@sr-Latn-RS .
+<http://www.ebi.ac.uk/efo/swo/SWO_0000741> <http://www.w3.org/2000/01/rdf-schema#label> "is encoded in"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#codeISO2> <http://www.w3.org/2000/01/rdf-schema#label> "codeISO2"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameOfficialFR> <http://www.w3.org/2000/01/rdf-schema#label> "nameOfficialFR"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Authorship> <http://www.w3.org/2000/01/rdf-schema#label> "Authorship"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000004> <http://www.w3.org/2000/01/rdf-schema#label> "Instrument"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Workshop> <http://www.w3.org/2000/01/rdf-schema#label> "Radionica"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#roleContributesTo> <http://www.w3.org/2000/01/rdf-schema#label> "contributes to"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#gender> <http://www.w3.org/2000/01/rdf-schema#label> "gender"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/pmid> <http://www.w3.org/2000/01/rdf-schema#label> "PubMed ID"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Film> <http://www.w3.org/2000/01/rdf-schema#label> "Film"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Consortium> <http://www.w3.org/2000/01/rdf-schema#label> "Consortium"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Periodical> <http://www.w3.org/2000/01/rdf-schema#label> "Periodical"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#disputed> <http://www.w3.org/2000/01/rdf-schema#label> "Disputed"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#grantDirectCosts> <http://www.w3.org/2000/01/rdf-schema#label> "direct costs"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameListES> <http://www.w3.org/2000/01/rdf-schema#label> "nameListES"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Continent> <http://www.w3.org/2000/01/rdf-schema#label> "Kontinent"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameOfficialRU> <http://www.w3.org/2000/01/rdf-schema#label> "nameOfficialRU"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0001255> <http://www.w3.org/2000/01/rdf-schema#label> "Usluga podrške"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#features> <http://www.w3.org/2000/01/rdf-schema#label> "features"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#featuredIn> <http://www.w3.org/2000/01/rdf-schema#label> "featured in"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Certification> <http://www.w3.org/2000/01/rdf-schema#label> "Certification"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#ClinicalRole> <http://www.w3.org/2000/01/rdf-schema#label> "Clinical Role"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#hasCurrency> <http://www.w3.org/2000/01/rdf-schema#label> "has currency"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#landArea> <http://www.w3.org/2000/01/rdf-schema#label> "land area"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/IAO_0000009> <http://www.w3.org/2000/01/rdf-schema#label> "Datum Label"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#PeerReviewerRole> <http://www.w3.org/2000/01/rdf-schema#label> "Peer Reviewer Role"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#ExtensionUnit> <http://www.w3.org/2000/01/rdf-schema#label> "Extension Unit"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/distributor> <http://www.w3.org/2000/01/rdf-schema#label> "distributor"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#eligibleFor> <http://www.w3.org/2000/01/rdf-schema#label> "credential eligibility attained"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameCurrencyRU> <http://www.w3.org/2000/01/rdf-schema#label> "nameCurrencyRU"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0001254> <http://www.w3.org/2000/01/rdf-schema#label> "Usluge transporta"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Child> <http://www.w3.org/2000/01/rdf-schema#label> "Child"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/affirmedBy> <http://www.w3.org/2000/01/rdf-schema#label> "affirmed by"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Organizational> <http://www.w3.org/2000/01/rdf-schema#label> "Organizational"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000774> <http://www.w3.org/2000/01/rdf-schema#label> "has eligibility requirement"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#ServiceProvidingLaboratory> <http://www.w3.org/2000/01/rdf-schema#label> "Laboratorija koja pruža usluge"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#assignedBy> <http://www.w3.org/2000/01/rdf-schema#label> "assigned by"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Facility> <http://www.w3.org/2000/01/rdf-schema#label> "Facility"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/IAO_0000007> <http://www.w3.org/2000/01/rdf-schema#label> "Action Specification"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#expirationDate> <http://www.w3.org/2000/01/rdf-schema#label> "expiration date"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Video> <http://www.w3.org/2000/01/rdf-schema#label> "Video"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Meeting> <http://www.w3.org/2000/01/rdf-schema#label> "Sastanak"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#assignee> <http://www.w3.org/2000/01/rdf-schema#label> "assignee"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000022> <http://www.w3.org/2000/01/rdf-schema#label> "specialty"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Blog> <http://www.w3.org/2000/01/rdf-schema#label> "Blog"@sr-Latn-RS .
+<http://www.w3.org/2002/07/owl#DeprecatedProperty> <http://www.w3.org/2000/01/rdf-schema#label> "deprecated property"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0001257> <http://www.w3.org/2000/01/rdf-schema#label> "Usluga skladištenja podataka"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Kind> <http://www.w3.org/2000/01/rdf-schema#label> "VCard Kind"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/presents> <http://www.w3.org/2000/01/rdf-schema#label> "povezani dokumenti"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000054> <http://www.w3.org/2000/01/rdf-schema#label> "lab data format"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/IAO_0000144> <http://www.w3.org/2000/01/rdf-schema#label> "Conclusion Textual Entity"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#hasShortName> <http://www.w3.org/2000/01/rdf-schema#label> "has short name"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#hasTitle> <http://www.w3.org/2000/01/rdf-schema#label> "has title"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#PopulatedPlace> <http://www.w3.org/2000/01/rdf-schema#label> "Populated Place"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#FacultyAdministrativePosition> <http://www.w3.org/2000/01/rdf-schema#label> "Faculty Administrative Position"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Equipment> <http://www.w3.org/2000/01/rdf-schema#label> "Equipment"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000021> <http://www.w3.org/2000/01/rdf-schema#label> "Experience"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/locator> <http://www.w3.org/2000/01/rdf-schema#label> "locator"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Article> <http://www.w3.org/2000/01/rdf-schema#label> "Article"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Abstract> <http://www.w3.org/2000/01/rdf-schema#label> "Abstract"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Position> <http://www.w3.org/2000/01/rdf-schema#label> "Position"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0001256> <http://www.w3.org/2000/01/rdf-schema#label> "Usluga skladištenja materijala"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#GDPYear> <http://www.w3.org/2000/01/rdf-schema#label> "GDPYear"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/degree> <http://www.w3.org/2000/01/rdf-schema#label> "povezana zvanja"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Laboratory> <http://www.w3.org/2000/01/rdf-schema#label> "Laboratory"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#localAwardId> <http://www.w3.org/2000/01/rdf-schema#label> "local award ID"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#IssuedCredential> <http://www.w3.org/2000/01/rdf-schema#label> "Issued Credential"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_0000197> <http://www.w3.org/2000/01/rdf-schema#label> "health care provider ID"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#hasTelephone> <http://www.w3.org/2000/01/rdf-schema#label> "has telephone"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#iclCode> <http://www.w3.org/2000/01/rdf-schema#label> "International Classification (ICL) code"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/presentedAt> <http://www.w3.org/2000/01/rdf-schema#label> "presented at event"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#agriculturalArea> <http://www.w3.org/2000/01/rdf-schema#label> "agricultural area"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#publisherOf> <http://www.w3.org/2000/01/rdf-schema#label> "publisher of"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0001259> <http://www.w3.org/2000/01/rdf-schema#label> "Usluge održavanja materijala"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Home> <http://www.w3.org/2000/01/rdf-schema#label> "Home"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#TeacherRole> <http://www.w3.org/2000/01/rdf-schema#label> "Teacher Role"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#hasGeo> <http://www.w3.org/2000/01/rdf-schema#label> "has geo"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#url> <http://www.w3.org/2000/01/rdf-schema#label> "URL"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/BFO_0000019> <http://www.w3.org/2000/01/rdf-schema#label> "Quality"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#population> <http://www.w3.org/2000/01/rdf-schema#label> "population"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Geographical> <http://www.w3.org/2000/01/rdf-schema#label> "Geografski"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Dataset> <http://www.w3.org/2000/01/rdf-schema#label> "Set podataka"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Unknown> <http://www.w3.org/2000/01/rdf-schema#label> "Unknown"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Pager> <http://www.w3.org/2000/01/rdf-schema#label> "Pager"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Contract> <http://www.w3.org/2000/01/rdf-schema#label> "Contract"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Hearing> <http://www.w3.org/2000/01/rdf-schema#label> "Saslušanje"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0001258> <http://www.w3.org/2000/01/rdf-schema#label> "Usluge održavanja"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/UO_0000280> <http://www.w3.org/2000/01/rdf-schema#label> "Rate Unit"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Brief> <http://www.w3.org/2000/01/rdf-schema#label> "Brief"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#DateTimeValue> <http://www.w3.org/2000/01/rdf-schema#label> "Date/Time Value"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/reproducedIn> <http://www.w3.org/2000/01/rdf-schema#label> "reproduced in"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Voice> <http://www.w3.org/2000/01/rdf-schema#label> "Voice"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#hasListName> <http://www.w3.org/2000/01/rdf-schema#label> "has list name"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Emergency> <http://www.w3.org/2000/01/rdf-schema#label> "Emergency"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/asin> <http://www.w3.org/2000/01/rdf-schema#label> "Amazon Standard Identification Number (ASIN)"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#outreachOverview> <http://www.w3.org/2000/01/rdf-schema#label> "outreach overview"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Address> <http://www.w3.org/2000/01/rdf-schema#label> "Address"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000031> <http://www.w3.org/2000/01/rdf-schema#label> "uses"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Librarian> <http://www.w3.org/2000/01/rdf-schema#label> "Bibliotekar"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000050> <http://www.w3.org/2000/01/rdf-schema#label> "model number"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameCurrencyFR> <http://www.w3.org/2000/01/rdf-schema#label> "nameCurrencyFR"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/BFO_0000017> <http://www.w3.org/2000/01/rdf-schema#label> "Realizable Entity"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#hasGoverningAuthority> <http://www.w3.org/2000/01/rdf-schema#label> "governing authority"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#additionalName> <http://www.w3.org/2000/01/rdf-schema#label> "additional name"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000080> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Pediatrics"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/AcademicArticle> <http://www.w3.org/2000/01/rdf-schema#label> "Academic Article"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#geographical_region> <http://www.w3.org/2000/01/rdf-schema#label> "Međunarodna regija"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/doi> <http://www.w3.org/2000/01/rdf-schema#label> "Digital Object Identifier (DOI)"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/accepted> <http://www.w3.org/2000/01/rdf-schema#label> "accepted"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000070> <http://www.w3.org/2000/01/rdf-schema#label> "used by"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Email> <http://www.w3.org/2000/01/rdf-schema#label> "Email"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/shortDescription> <http://www.w3.org/2000/01/rdf-schema#label> "kratak opis"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#isAdministeredBy> <http://www.w3.org/2000/01/rdf-schema#label> "is administered by"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#hasLogo> <http://www.w3.org/2000/01/rdf-schema#label> "has logo"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Cell> <http://www.w3.org/2000/01/rdf-schema#label> "Cell"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/volume> <http://www.w3.org/2000/01/rdf-schema#label> "volume"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#key> <http://www.w3.org/2000/01/rdf-schema#label> "key"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/abstract> <http://www.w3.org/2000/01/rdf-schema#label> "abstract"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#PrincipalInvestigatorRole> <http://www.w3.org/2000/01/rdf-schema#label> "Principal Investigator Role"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#School> <http://www.w3.org/2000/01/rdf-schema#label> "School"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000020> <http://www.w3.org/2000/01/rdf-schema#label> "Biological Specimen"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameShortFR> <http://www.w3.org/2000/01/rdf-schema#label> "nameShortFR"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Type> <http://www.w3.org/2000/01/rdf-schema#label> "Type"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#codeFAOTERM> <http://www.w3.org/2000/01/rdf-schema#label> "codeFAOTERM"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#yearMonthDayPrecision> <http://www.w3.org/2000/01/rdf-schema#label> "year-month-day value"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#sponsoredBy> <http://www.w3.org/2000/01/rdf-schema#label> "award sponsored by"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Review> <http://www.w3.org/2000/01/rdf-schema#label> "Review"@sr-Latn-RS .
+<http://purl.org/spar/c4o/GlobalCitationCount> <http://www.w3.org/2000/01/rdf-schema#label> "Global Citation Count"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#courseCredits> <http://www.w3.org/2000/01/rdf-schema#label> "credits"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#note> <http://www.w3.org/2000/01/rdf-schema#label> "note"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000779> <http://www.w3.org/2000/01/rdf-schema#label> "Permanent Resident Role"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/issue> <http://www.w3.org/2000/01/rdf-schema#label> "issue"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000069> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Emergency Medicine"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#University> <http://www.w3.org/2000/01/rdf-schema#label> "Univerzitet"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/number> <http://www.w3.org/2000/01/rdf-schema#label> "number"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/RO_0001025> <http://www.w3.org/2000/01/rdf-schema#label> "lokacija"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Location> <http://www.w3.org/2000/01/rdf-schema#label> "Lokacija"@sr-Latn-RS .
+<http://purl.org/net/OCRe/study_design.owl> <http://www.w3.org/2000/01/rdf-schema#label> "OCRe study design"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#WorkingPaper> <http://www.w3.org/2000/01/rdf-schema#label> "Rad koji je u procesu pisanja"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#hasStatistics> <http://www.w3.org/2000/01/rdf-schema#label> "has statistics"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/IAO_0000013> <http://www.w3.org/2000/01/rdf-schema#label> "Journal Article"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000081> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Physical Medicine and Rehabilitation"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#populationUnit> <http://www.w3.org/2000/01/rdf-schema#label> "population unit"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#teachingOverview> <http://www.w3.org/2000/01/rdf-schema#label> "teaching overview"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/IAO_0000227> <http://www.w3.org/2000/01/rdf-schema#label> "terms merged"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#rank> <http://www.w3.org/2000/01/rdf-schema#label> "rank"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/draft> <http://www.w3.org/2000/01/rdf-schema#label> "draft"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/issn> <http://www.w3.org/2000/01/rdf-schema#label> "International Standard Serial Number (ISSN)"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#supports> <http://www.w3.org/2000/01/rdf-schema#label> "supports"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/RO_0000057> <http://www.w3.org/2000/01/rdf-schema#label> "ima učesnike"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#patentNumber> <http://www.w3.org/2000/01/rdf-schema#label> "patent number"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#FormattedName> <http://www.w3.org/2000/01/rdf-schema#label> "Formatted Name"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/BFO_0000040> <http://www.w3.org/2000/01/rdf-schema#label> "Material Entity"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#TelephoneType> <http://www.w3.org/2000/01/rdf-schema#label> "Telephone Type"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Journal> <http://www.w3.org/2000/01/rdf-schema#label> "Journal"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Newspaper> <http://www.w3.org/2000/01/rdf-schema#label> "Newspaper"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#source> <http://www.w3.org/2000/01/rdf-schema#label> "source"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#contactInformation> <http://www.w3.org/2000/01/rdf-schema#label> "kontakt informacije"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameListEN> <http://www.w3.org/2000/01/rdf-schema#label> "nameListEN"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#overview> <http://www.w3.org/2000/01/rdf-schema#label> "overview"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#description> <http://www.w3.org/2000/01/rdf-schema#label> "opis"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#hasCode> <http://www.w3.org/2000/01/rdf-schema#label> "has code"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000084> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Preventive Medicine"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/RO_0000056> <http://www.w3.org/2000/01/rdf-schema#label> "participates in"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#timeZone> <http://www.w3.org/2000/01/rdf-schema#label> "timezone"@sr-Latn-RS .
+<http://purl.org/spar/c4o/hasGlobalCountValue> <http://www.w3.org/2000/01/rdf-schema#label> "has global count value"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/IAO_0000039> <http://www.w3.org/2000/01/rdf-schema#label> "has measurement unit label"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Award> <http://www.w3.org/2000/01/rdf-schema#label> "Award or Honor"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#grantSubcontractedThrough> <http://www.w3.org/2000/01/rdf-schema#label> "subcontracted through"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0001260> <http://www.w3.org/2000/01/rdf-schema#label> "Usluge održavanja podataka"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#hasNickname> <http://www.w3.org/2000/01/rdf-schema#label> "has nickname"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/recipient> <http://www.w3.org/2000/01/rdf-schema#label> "recipient"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Building> <http://www.w3.org/2000/01/rdf-schema#label> "Building"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#EventSeries> <http://www.w3.org/2000/01/rdf-schema#label> "Niz događaja"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#hasSubjectArea> <http://www.w3.org/2000/01/rdf-schema#label> "sadrži objast predmeta"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000083> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Plastic Surgery"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000398> <http://www.w3.org/2000/01/rdf-schema#label> "is performed by"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#hasCalenderBusy> <http://www.w3.org/2000/01/rdf-schema#label> "has calendar busy"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#geographicFocusOf> <http://www.w3.org/2000/01/rdf-schema#label> "geografski fokus"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#hasCategory> <http://www.w3.org/2000/01/rdf-schema#label> "has category"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#freetextKeyword> <http://www.w3.org/2000/01/rdf-schema#label> "keywords"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/BFO_0000004> <http://www.w3.org/2000/01/rdf-schema#label> "Independent Continuant"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000086> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Radiology"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000399> <http://www.w3.org/2000/01/rdf-schema#label> "ima kontakt agenta"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/unpublished> <http://www.w3.org/2000/01/rdf-schema#label> "unpublished"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Credential> <http://www.w3.org/2000/01/rdf-schema#label> "Credential"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/identifier> <http://www.w3.org/2000/01/rdf-schema#label> "identifier"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000044> <http://www.w3.org/2000/01/rdf-schema#label> "inventory number"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0001261> <http://www.w3.org/2000/01/rdf-schema#label> "Analitičke usluge"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000065> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Allergy and Immunology"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000775> <http://www.w3.org/2000/01/rdf-schema#label> "has residency requirement"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/reviewOf> <http://www.w3.org/2000/01/rdf-schema#label> "review of"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0001263> <http://www.w3.org/2000/01/rdf-schema#label> "Usluge modifikacije materijala"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#informationResourceSupportedBy> <http://www.w3.org/2000/01/rdf-schema#label> "supported by"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#ConferencePaper> <http://www.w3.org/2000/01/rdf-schema#label> "Rad za konferenciju"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#landAreaYear> <http://www.w3.org/2000/01/rdf-schema#label> "landAreaYear"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Website> <http://www.w3.org/2000/01/rdf-schema#label> "Website"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/BFO_0000003> <http://www.w3.org/2000/01/rdf-schema#label> "Occurrent"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nationalityIT> <http://www.w3.org/2000/01/rdf-schema#label> "nationalityIT"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#EducationalProcess> <http://www.w3.org/2000/01/rdf-schema#label> "Educational Process"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000776> <http://www.w3.org/2000/01/rdf-schema#label> "US Resident Role"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000066> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Anesthesiology"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_0000001> <http://www.w3.org/2000/01/rdf-schema#label> "is template"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/RO_0000053> <http://www.w3.org/2000/01/rdf-schema#label> "bearer of"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/CollectedDocument> <http://www.w3.org/2000/01/rdf-schema#label> "Collected Document"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000085> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Psychiatry and Neurology"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Relationship> <http://www.w3.org/2000/01/rdf-schema#label> "Relationship"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/BFO_0000023> <http://www.w3.org/2000/01/rdf-schema#label> "Role"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000045> <http://www.w3.org/2000/01/rdf-schema#label> "has restriction"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Division> <http://www.w3.org/2000/01/rdf-schema#label> "Divizija"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Newsletter> <http://www.w3.org/2000/01/rdf-schema#label> "Newsletter"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0001262> <http://www.w3.org/2000/01/rdf-schema#label> "Usluge analize podataka"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#hasKey> <http://www.w3.org/2000/01/rdf-schema#label> "has key"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000396> <http://www.w3.org/2000/01/rdf-schema#label> "Usluge proizvodnje materijala"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#TimeZone> <http://www.w3.org/2000/01/rdf-schema#label> "Time Zone"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#reviewedIn> <http://www.w3.org/2000/01/rdf-schema#label> "reviewed in"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#contributingRole> <http://www.w3.org/2000/01/rdf-schema#label> "contributor"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Team> <http://www.w3.org/2000/01/rdf-schema#label> "Team"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/BFO_0000002> <http://www.w3.org/2000/01/rdf-schema#label> "Continuant"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#ClinicalOrganization> <http://www.w3.org/2000/01/rdf-schema#label> "Klinička organizacija"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Program> <http://www.w3.org/2000/01/rdf-schema#label> "Program"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Hospital> <http://www.w3.org/2000/01/rdf-schema#label> "Hospital"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/ThesisDegree> <http://www.w3.org/2000/01/rdf-schema#label> "Thesis Degree"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Center> <http://www.w3.org/2000/01/rdf-schema#label> "Centar"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#countryArea> <http://www.w3.org/2000/01/rdf-schema#label> "countryArea"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#DateTimeValuePrecision> <http://www.w3.org/2000/01/rdf-schema#label> "Date/Time Value Precision"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#GraduateAdvisingRelationship> <http://www.w3.org/2000/01/rdf-schema#label> "Graduate Advising Relationship"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/RO_0000052> <http://www.w3.org/2000/01/rdf-schema#label> "inheres in"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/OBI_0000299> <http://www.w3.org/2000/01/rdf-schema#label> "has specified output"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#proceedingsOf> <http://www.w3.org/2000/01/rdf-schema#label> "proceedings of"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000777> <http://www.w3.org/2000/01/rdf-schema#label> "US Citizen Role"@en .
+<http://purl.obolibrary.org/obo/ARG_2000067> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Colon and Rectal Surgery"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Thesis> <http://www.w3.org/2000/01/rdf-schema#label> "Thesis"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000046> <http://www.w3.org/2000/01/rdf-schema#label> "sadrži geografska ograničenja"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000088> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Thoracic Surgery"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000395> <http://www.w3.org/2000/01/rdf-schema#label> "Usluge analize materijala"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#isSuccessorOf> <http://www.w3.org/2000/01/rdf-schema#label> "is successor of"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#agriculturalAreaUnit> <http://www.w3.org/2000/01/rdf-schema#label> "agricultural area unit"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/BFO_0000001> <http://www.w3.org/2000/01/rdf-schema#label> "Entity"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#AdvisorRole> <http://www.w3.org/2000/01/rdf-schema#label> "Advisor Role"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#dateTimePrecision> <http://www.w3.org/2000/01/rdf-schema#label> "preciznost vremena"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Map> <http://www.w3.org/2000/01/rdf-schema#label> "Map"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000087> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Surgery"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#self_governing> <http://www.w3.org/2000/01/rdf-schema#label> "Self Governing"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#hasPrerequisite> <http://www.w3.org/2000/01/rdf-schema#label> "has prerequisite"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Database> <http://www.w3.org/2000/01/rdf-schema#label> "Baza podataka"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000778> <http://www.w3.org/2000/01/rdf-schema#label> "Non-US Citizen"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000068> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Dermatology"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#PresentingProcess> <http://www.w3.org/2000/01/rdf-schema#label> "Proces prezentovanja"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#validIn> <http://www.w3.org/2000/01/rdf-schema#label> "valid in"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/IAO_0000221> <http://www.w3.org/2000/01/rdf-schema#label> "is quality measurement of"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Conference> <http://www.w3.org/2000/01/rdf-schema#label> "Konferencija"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Calendar> <http://www.w3.org/2000/01/rdf-schema#label> "Calendar"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Department> <http://www.w3.org/2000/01/rdf-schema#label> "Department"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/RO_0002234> <http://www.w3.org/2000/01/rdf-schema#label> "sadrži izlaz"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/BFO_0000020> <http://www.w3.org/2000/01/rdf-schema#label> "Specifically Dependent Continuant"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#F1000Link> <http://www.w3.org/2000/01/rdf-schema#label> "F1000 Link"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#BlogPosting> <http://www.w3.org/2000/01/rdf-schema#label> "Blog Posting"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Collection> <http://www.w3.org/2000/01/rdf-schema#label> "Collection"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/DocumentStatus> <http://www.w3.org/2000/01/rdf-schema#label> "Document Status"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#PrivateCompany> <http://www.w3.org/2000/01/rdf-schema#label> "Private Company"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0001520> <http://www.w3.org/2000/01/rdf-schema#label> "performs human study"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#AcademicDegree> <http://www.w3.org/2000/01/rdf-schema#label> "Academic Degree"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Legislation> <http://www.w3.org/2000/01/rdf-schema#label> "Legislation"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/IAO_0000032> <http://www.w3.org/2000/01/rdf-schema#label> "Scalar Measurement Datum"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#ReviewerRole> <http://www.w3.org/2000/01/rdf-schema#label> "Reviewer Role"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#StateOrProvince> <http://www.w3.org/2000/01/rdf-schema#label> "Savezna država ili provincija"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/pageEnd> <http://www.w3.org/2000/01/rdf-schema#label> "end page"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000089> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Urology"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/AudioDocument> <http://www.w3.org/2000/01/rdf-schema#label> "Audio Document"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/RO_0002233> <http://www.w3.org/2000/01/rdf-schema#label> "sadrži ulaz"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#isPredecessorOf> <http://www.w3.org/2000/01/rdf-schema#label> "is predecessor of"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#EmeritusLibrarian> <http://www.w3.org/2000/01/rdf-schema#label> "Bibliotekar Emeritus"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/LegalDecision> <http://www.w3.org/2000/01/rdf-schema#label> "Decision"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Date> <http://www.w3.org/2000/01/rdf-schema#label> "Date"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Photo> <http://www.w3.org/2000/01/rdf-schema#label> "Photo"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000029> <http://www.w3.org/2000/01/rdf-schema#label> "pruža pristup"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#honorificSuffix> <http://www.w3.org/2000/01/rdf-schema#label> "honorific suffix"@sr-Latn-RS .
+<http://purl.org/spar/c4o/hasGlobalCitationFrequency> <http://www.w3.org/2000/01/rdf-schema#label> "has global citation frequency"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameListIT> <http://www.w3.org/2000/01/rdf-schema#label> "nameListIT"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/cites> <http://www.w3.org/2000/01/rdf-schema#label> "cites"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Explanatory> <http://www.w3.org/2000/01/rdf-schema#label> "Explanatory"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Parent> <http://www.w3.org/2000/01/rdf-schema#label> "Parent"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/AudioVisualDocument> <http://www.w3.org/2000/01/rdf-schema#label> "Audio-Visual Document"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#GeographicRegion> <http://www.w3.org/2000/01/rdf-schema#label> "Geografksa regija"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Country> <http://www.w3.org/2000/01/rdf-schema#label> "Država"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#hasEmail> <http://www.w3.org/2000/01/rdf-schema#label> "has email"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Speech> <http://www.w3.org/2000/01/rdf-schema#label> "Speech"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/translationOf> <http://www.w3.org/2000/01/rdf-schema#label> "translation of"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/IAO_0000033> <http://www.w3.org/2000/01/rdf-schema#label> "Directive Information Entity"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#InstantMessage> <http://www.w3.org/2000/01/rdf-schema#label> "Messaging"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#calendarBusy> <http://www.w3.org/2000/01/rdf-schema#label> "calendar busy"@sr-Latn-RS .
+<http://vitro.mannlib.cornell.edu/ns/vitro/public#FileByteStream> <http://www.w3.org/2000/01/rdf-schema#label> "FileByteStream"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#hasBorderWith> <http://www.w3.org/2000/01/rdf-schema#label> "has border with"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/performer> <http://www.w3.org/2000/01/rdf-schema#label> "performer"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/PersonalCommunicationDocument> <http://www.w3.org/2000/01/rdf-schema#label> "Personal Communication Document"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#FundingOrganization> <http://www.w3.org/2000/01/rdf-schema#label> "Organizacija za finansiranje"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#AwardedDegree> <http://www.w3.org/2000/01/rdf-schema#label> "Awarded Degree"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Publisher> <http://www.w3.org/2000/01/rdf-schema#label> "Izdavač"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/IAO_0000030> <http://www.w3.org/2000/01/rdf-schema#label> "Information Content Entity"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#StudentOrganization> <http://www.w3.org/2000/01/rdf-schema#label> "Studentska organizacija"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/OBI_0000312> <http://www.w3.org/2000/01/rdf-schema#label> "is specified output of"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#supportedInformationResource> <http://www.w3.org/2000/01/rdf-schema#label> "supported publications or other works"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameListRU> <http://www.w3.org/2000/01/rdf-schema#label> "nameListRU"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#validUntil> <http://www.w3.org/2000/01/rdf-schema#label> "valid until"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#hasMember> <http://www.w3.org/2000/01/rdf-schema#label> "has member country or territory"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/eissn> <http://www.w3.org/2000/01/rdf-schema#label> "Electronic International Standard Serial Number (EISSN)"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameOfficialEN> <http://www.w3.org/2000/01/rdf-schema#label> "nameOfficialEN"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Proceedings> <http://www.w3.org/2000/01/rdf-schema#label> "Proceedings"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/OBI_0000293> <http://www.w3.org/2000/01/rdf-schema#label> "has specified input"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#publisher> <http://www.w3.org/2000/01/rdf-schema#label> "publisher"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000391> <http://www.w3.org/2000/01/rdf-schema#label> "has context"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Institute> <http://www.w3.org/2000/01/rdf-schema#label> "Institute"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#hasAddress> <http://www.w3.org/2000/01/rdf-schema#label> "has address"@sr-Latn-RS .
+<http://xmlns.com/foaf/0.1/Organization> <http://www.w3.org/2000/01/rdf-schema#label> "Organizacija"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nationalityZH> <http://www.w3.org/2000/01/rdf-schema#label> "nationalityZH"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000224> <http://www.w3.org/2000/01/rdf-schema#label> "Funding Role"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Code> <http://www.w3.org/2000/01/rdf-schema#label> "Code"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Postdoc> <http://www.w3.org/2000/01/rdf-schema#label> "Postdoktorska pozicija"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#seatingCapacity> <http://www.w3.org/2000/01/rdf-schema#label> "seating capacity"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Sibling> <http://www.w3.org/2000/01/rdf-schema#label> "Sibling"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Sweetheart> <http://www.w3.org/2000/01/rdf-schema#label> "Sweetheart"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#ConferencePoster> <http://www.w3.org/2000/01/rdf-schema#label> "Poster za konferenciju"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000390> <http://www.w3.org/2000/01/rdf-schema#label> "context for"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#anniversary> <http://www.w3.org/2000/01/rdf-schema#label> "anniversary"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#middleName> <http://www.w3.org/2000/01/rdf-schema#label> "middle name or initial"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#WorkshopSeries> <http://www.w3.org/2000/01/rdf-schema#label> "Serija radionica"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000225> <http://www.w3.org/2000/01/rdf-schema#label> "Educator Role"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#agriculturalAreaTotal> <http://www.w3.org/2000/01/rdf-schema#label> "agriculturalAreaTotal"@sr-Latn-RS .
+<http://purl.org/NET/c4dm/event.owl#Event> <http://www.w3.org/2000/01/rdf-schema#label> "Događaj"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/rejected> <http://www.w3.org/2000/01/rdf-schema#label> "rejected"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#hasMaxLongitude> <http://www.w3.org/2000/01/rdf-schema#label> "has maximum longitude"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nationalityEN> <http://www.w3.org/2000/01/rdf-schema#label> "nationalityEN"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#URL> <http://www.w3.org/2000/01/rdf-schema#label> "URL"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#hasPredecessorOrganization> <http://www.w3.org/2000/01/rdf-schema#label> "predecessor organization"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#termType> <http://www.w3.org/2000/01/rdf-schema#label> "term type"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Image> <http://www.w3.org/2000/01/rdf-schema#label> "Image"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Kin> <http://www.w3.org/2000/01/rdf-schema#label> "Kin"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#AwardReceipt> <http://www.w3.org/2000/01/rdf-schema#label> "Award or Honor Receipt"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#FacultyMentoringRelationship> <http://www.w3.org/2000/01/rdf-schema#label> "Faculty Mentoring Relationship"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Bill> <http://www.w3.org/2000/01/rdf-schema#label> "Bill"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#birthdate> <http://www.w3.org/2000/01/rdf-schema#label> "datum rođenja"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#CoPrincipalInvestigatorRole> <http://www.w3.org/2000/01/rdf-schema#label> "Co-Principal Investigator Role"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#licenseNumber> <http://www.w3.org/2000/01/rdf-schema#label> "license number"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#FacultyPosition> <http://www.w3.org/2000/01/rdf-schema#label>  "Faculty Position"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Logo> <http://www.w3.org/2000/01/rdf-schema#label> "Logo"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000572> <http://www.w3.org/2000/01/rdf-schema#label> "used to study"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/RO_0001000> <http://www.w3.org/2000/01/rdf-schema#label> "derives from"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/gtin14> <http://www.w3.org/2000/01/rdf-schema#label> "Global Trade Item Number (GTIN-14)"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#AdvisingRelationship> <http://www.w3.org/2000/01/rdf-schema#label> "Advising Relationship"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#entryTerm> <http://www.w3.org/2000/01/rdf-schema#label> "entry term"@sr-Latn-RS .
+<http://purl.org/spar/fabio/ClinicalGuideline> <http://www.w3.org/2000/01/rdf-schema#label> "Clinical Guideline"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Fax> <http://www.w3.org/2000/01/rdf-schema#label> "Fax"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0001521> <http://www.w3.org/2000/01/rdf-schema#label> "performed by organization"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#nihmsid> <http://www.w3.org/2000/01/rdf-schema#label> "NIH Manuscript Submission System ID"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#AcademicTerm> <http://www.w3.org/2000/01/rdf-schema#label> "Akademski izraz"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/section> <http://www.w3.org/2000/01/rdf-schema#label> "section"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#CaseStudy> <http://www.w3.org/2000/01/rdf-schema#label> "Case Study"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#populationYear> <http://www.w3.org/2000/01/rdf-schema#label> "populationYear"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/IAO_0000136> <http://www.w3.org/2000/01/rdf-schema#label> "is about"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nationalityES> <http://www.w3.org/2000/01/rdf-schema#label> "nationalityES"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Category> <http://www.w3.org/2000/01/rdf-schema#label> "Category"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/interviewer> <http://www.w3.org/2000/01/rdf-schema#label> "interviewer"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#None> <http://www.w3.org/2000/01/rdf-schema#label> "None"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#codeUNDP> <http://www.w3.org/2000/01/rdf-schema#label> "codeUNDP"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/BFO_0000029> <http://www.w3.org/2000/01/rdf-schema#label> "Sajt"@sr-Latn-RS .
+<http://xmlns.com/foaf/0.1/> <http://www.w3.org/2000/01/rdf-schema#label> "FOAF (Friend of a Friend)"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Note> <http://www.w3.org/2000/01/rdf-schema#label> "Note"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#hasMaxLatitude> <http://www.w3.org/2000/01/rdf-schema#label> "has maximum latitude"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#DateTimeInterval> <http://www.w3.org/2000/01/rdf-schema#label> "Date/Time Interval"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#photo> <http://www.w3.org/2000/01/rdf-schema#label> "photo"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Patent> <http://www.w3.org/2000/01/rdf-schema#label> "Patent"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#hasPhoto> <http://www.w3.org/2000/01/rdf-schema#label> "has photo"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/OBI_0500000> <http://www.w3.org/2000/01/rdf-schema#label> "Study Design"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#OrganizingProcess> <http://www.w3.org/2000/01/rdf-schema#label> "Organizing Process"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Screenplay> <http://www.w3.org/2000/01/rdf-schema#label> "Screenplay"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameOfficialAR> <http://www.w3.org/2000/01/rdf-schema#label> "nameOfficialAR"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#validSince> <http://www.w3.org/2000/01/rdf-schema#label> "valid since"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#isInGroup> <http://www.w3.org/2000/01/rdf-schema#label> "unutar geografske grupacije"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#EditorialArticle> <http://www.w3.org/2000/01/rdf-schema#label> "Editorial Article"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Neighbor> <http://www.w3.org/2000/01/rdf-schema#label> "Neighbor"@sr-Latn-RS .
+<http://vivoweb.org/ontology/scientific-research#Phase4ClinicalTrial> <http://www.w3.org/2000/01/rdf-schema#label> "Phase 4 Clinical Trial"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#orcidId> <http://www.w3.org/2000/01/rdf-schema#label> "ORCID iD"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#hasFacility> <http://www.w3.org/2000/01/rdf-schema#label> "has facility"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Text> <http://www.w3.org/2000/01/rdf-schema#label> "Text"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/BFO_0000141> <http://www.w3.org/2000/01/rdf-schema#label> "Immaterial Entity"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameListFR> <http://www.w3.org/2000/01/rdf-schema#label> "nameListFR"@sr-Latn-RS .
+<http://vivoweb.org/ontology/scientific-research#nctId> <http://www.w3.org/2000/01/rdf-schema#label> "National Clinical Trials (NCT) number"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#organization> <http://www.w3.org/2000/01/rdf-schema#label> "Organizacija"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Slideshow> <http://www.w3.org/2000/01/rdf-schema#label> "Slideshow"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#equipmentFor> <http://www.w3.org/2000/01/rdf-schema#label> "equipment for"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#codeGAUL> <http://www.w3.org/2000/01/rdf-schema#label> "codeGAUL"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#geographicFocus> <http://www.w3.org/2000/01/rdf-schema#label> "geografski fokus"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/prefixName> <http://www.w3.org/2000/01/rdf-schema#label> "name prefix"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Met> <http://www.w3.org/2000/01/rdf-schema#label> "Met"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameShortAR> <http://www.w3.org/2000/01/rdf-schema#label> "nameShortAR"@sr-Latn-RS .
+<http://purl.org/spar/c4o/BibliographicInformationSource> <http://www.w3.org/2000/01/rdf-schema#label> "Bibliographic Information Source"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#AdviseeRole> <http://www.w3.org/2000/01/rdf-schema#label> "Advisee Role"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Spouse> <http://www.w3.org/2000/01/rdf-schema#label> "Spouse"@sr-Latn-RS .
+<http://www.obofoundry.org/ro/ro.owl#has_agent> <http://www.w3.org/2000/01/rdf-schema#label> "has agent"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/published> <http://www.w3.org/2000/01/rdf-schema#label> "published"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#AcademicDepartment> <http://www.w3.org/2000/01/rdf-schema#label> "Akademski departman"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#researcherId> <http://www.w3.org/2000/01/rdf-schema#label> "ResearcherID"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#hasPublicationVenue> <http://www.w3.org/2000/01/rdf-schema#label> "published in"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Excerpt> <http://www.w3.org/2000/01/rdf-schema#label> "Excerpt"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#NonFacultyAcademic> <http://www.w3.org/2000/01/rdf-schema#label> "Akademska pozicija van fakulteta"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/annotates> <http://www.w3.org/2000/01/rdf-schema#label> "annotates"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Score> <http://www.w3.org/2000/01/rdf-schema#label> "Score"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Grant> <http://www.w3.org/2000/01/rdf-schema#label> "Grant"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameOfficialZH> <http://www.w3.org/2000/01/rdf-schema#label> "nameOfficialZH"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/reversedBy> <http://www.w3.org/2000/01/rdf-schema#label> "reversed by"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#majorField> <http://www.w3.org/2000/01/rdf-schema#label> "major field of degree"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Editorship> <http://www.w3.org/2000/01/rdf-schema#label> "Editorship"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000377> <http://www.w3.org/2000/01/rdf-schema#label> "FOAF Profile"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#GDPNotes> <http://www.w3.org/2000/01/rdf-schema#label> "GDP notes"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameOfficialES> <http://www.w3.org/2000/01/rdf-schema#label> "nameOfficialES"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/upc> <http://www.w3.org/2000/01/rdf-schema#label> "Universal Product Code (UPC)"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#FacultyMember> <http://www.w3.org/2000/01/rdf-schema#label> "Osoblje Fakulteta"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#hideFromDisplay> <http://www.w3.org/2000/01/rdf-schema#label> "hide from display"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000481> <http://www.w3.org/2000/01/rdf-schema#label> "realizuje protokol"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000016> <http://www.w3.org/2000/01/rdf-schema#label> "Clinical Trial"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#sortAs> <http://www.w3.org/2000/01/rdf-schema#label> "sort as"@sr-Latn-RS .
+<http://vivoweb.org/ontology/scientific-research#irbNumber> <http://www.w3.org/2000/01/rdf-schema#label> "Institutional Review Board (IRB) number"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Competition> <http://www.w3.org/2000/01/rdf-schema#label> "Takmičenje"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000400> <http://www.w3.org/2000/01/rdf-schema#label> "count per year"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0001518> <http://www.w3.org/2000/01/rdf-schema#label> "has phase"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000376> <http://www.w3.org/2000/01/rdf-schema#label> "Contact Qualifier"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#AttendingProcess> <http://www.w3.org/2000/01/rdf-schema#label> "Attending Process"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#hasLanguage> <http://www.w3.org/2000/01/rdf-schema#label> "has language"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#hasURL> <http://www.w3.org/2000/01/rdf-schema#label> "has URL"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000482> <http://www.w3.org/2000/01/rdf-schema#label> "uses software"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#ResearchProposal> <http://www.w3.org/2000/01/rdf-schema#label> "Research Proposal"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/director> <http://www.w3.org/2000/01/rdf-schema#label> "director"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Course> <http://www.w3.org/2000/01/rdf-schema#label> "Kurs"@sr-Latn-RS .
+<http://vitro.mannlib.cornell.edu/ns/vitro/0.7> <http://www.w3.org/2000/01/rdf-schema#label> "Vitro internals"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Magazine> <http://www.w3.org/2000/01/rdf-schema#label> "Magazine"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#LibrarianPosition> <http://www.w3.org/2000/01/rdf-schema#label> "Pozicija bibliotekara"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameShortIT> <http://www.w3.org/2000/01/rdf-schema#label> "nameShortIT"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Internship> <http://www.w3.org/2000/01/rdf-schema#label> "Internship"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000379> <http://www.w3.org/2000/01/rdf-schema#label> "Contact"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#RelatedType> <http://www.w3.org/2000/01/rdf-schema#label> "Relation Type"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000460> <http://www.w3.org/2000/01/rdf-schema#label> "has documentation"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#EditorRole> <http://www.w3.org/2000/01/rdf-schema#label> "Editor Role"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/lccn> <http://www.w3.org/2000/01/rdf-schema#label> "Library of Congress Control Number (LCCN)"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#streetAddress> <http://www.w3.org/2000/01/rdf-schema#label> "street address"@sr-Latn-RS .
+<http://xmlns.com/foaf/0.1/Group> <http://www.w3.org/2000/01/rdf-schema#label> "Grupa"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Chapter> <http://www.w3.org/2000/01/rdf-schema#label> "Chapter"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns> <http://www.w3.org/2000/01/rdf-schema#label> "VCard"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Committee> <http://www.w3.org/2000/01/rdf-schema#label> "Komitet"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Standard> <http://www.w3.org/2000/01/rdf-schema#label> "Standard"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000786> <http://www.w3.org/2000/01/rdf-schema#label> "Uloga srednjoškolca"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#supportedBy> <http://www.w3.org/2000/01/rdf-schema#label> "supported by"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/LegalDocument> <http://www.w3.org/2000/01/rdf-schema#label> "Legal Document"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#CoreLaboratory> <http://www.w3.org/2000/01/rdf-schema#label> "Core Laboratory"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0001245> <http://www.w3.org/2000/01/rdf-schema#label> "Licensing"@sr-Latn-RS .
+<http://purl.org/dc/terms/relation> <http://www.w3.org/2000/01/rdf-schema#label> "relation"@sr-Latn-RS .
+<http://www.w3.org/2004/02/skos/core#broader> <http://www.w3.org/2000/01/rdf-schema#label> "broader concept"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#LeaderRole> <http://www.w3.org/2000/01/rdf-schema#label> "Leader Role"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#AdvisingProcess> <http://www.w3.org/2000/01/rdf-schema#label> "Advising Process"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Webpage> <http://www.w3.org/2000/01/rdf-schema#label> "Webpage"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#InvestigatorRole> <http://www.w3.org/2000/01/rdf-schema#label> "Investigator Role"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/BookSection> <http://www.w3.org/2000/01/rdf-schema#label> "Book Section"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#departmentOrSchool> <http://www.w3.org/2000/01/rdf-schema#label> "department or school name within institution"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000785> <http://www.w3.org/2000/01/rdf-schema#label> "Uloga postdiplomskog studenta"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/court> <http://www.w3.org/2000/01/rdf-schema#label> "Court"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#countryAreaNotes> <http://www.w3.org/2000/01/rdf-schema#label> "country area notes"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000012> <http://www.w3.org/2000/01/rdf-schema#label> "Uloga davaoca usluge"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Interview> <http://www.w3.org/2000/01/rdf-schema#label> "Intervju"@sr-Latn-RS .
+<http://purl.org/spar/c4o/hasGlobalCountDate> <http://www.w3.org/2000/01/rdf-schema#label> "has global count date"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Museum> <http://www.w3.org/2000/01/rdf-schema#label> "Museum"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#hasAssociatedConcept> <http://www.w3.org/2000/01/rdf-schema#label> "associated concept"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#role> <http://www.w3.org/2000/01/rdf-schema#label> "role"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/LegalCaseDocument> <http://www.w3.org/2000/01/rdf-schema#label> "Legal Case Document"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000784> <http://www.w3.org/2000/01/rdf-schema#label> "Undergraduate Student Role"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameCurrencyEN> <http://www.w3.org/2000/01/rdf-schema#label> "nameCurrencyEN"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#offers> <http://www.w3.org/2000/01/rdf-schema#label> "offers"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/translator> <http://www.w3.org/2000/01/rdf-schema#label> "translator"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000015> <http://www.w3.org/2000/01/rdf-schema#label> "Human Study"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#distributesFundingFrom> <http://www.w3.org/2000/01/rdf-schema#label> "distributes funding from"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/citedBy> <http://www.w3.org/2000/01/rdf-schema#label> "cited by"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Manual> <http://www.w3.org/2000/01/rdf-schema#label> "Manual"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000783> <http://www.w3.org/2000/01/rdf-schema#label> "Student Role"@sr-Latn-RS .
+<http://vivoweb.org/ontology/scientific-research#Phase3ClinicalTrial> <http://www.w3.org/2000/01/rdf-schema#label> "Phase 3 Clinical Trial"@sr-Latn-RS .
+<http://purl.org/spar/fabio/Comment> <http://www.w3.org/2000/01/rdf-schema#label> "Comment"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#termLabel> <http://www.w3.org/2000/01/rdf-schema#label> "term label"@sr-Latn-RS .
+<http://www.w3.org/2004/02/skos/core#related> <http://www.w3.org/2000/01/rdf-schema#label> "povezani koncepti"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/BFO_0000148> <http://www.w3.org/2000/01/rdf-schema#label> "Zero-Dimensional Temporal Region"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#hasValue> <http://www.w3.org/2000/01/rdf-schema#label> "has value"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#abbreviation> <http://www.w3.org/2000/01/rdf-schema#label> "abbreviation"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#postalCode> <http://www.w3.org/2000/01/rdf-schema#label> "postal code"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000014> <http://www.w3.org/2000/01/rdf-schema#label> "Istraživački projekat"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#UndergraduateAdvisingRelationship> <http://www.w3.org/2000/01/rdf-schema#label> "Undergraduate Advising Relationship"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#NonAcademic> <http://www.w3.org/2000/01/rdf-schema#label> "Ne-akademska pozicija"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#PostdocOrFellowAdvisingRelationship> <http://www.w3.org/2000/01/rdf-schema#label> "Postdoc or Fellow Advising Relationship"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#governingAuthorityFor> <http://www.w3.org/2000/01/rdf-schema#label> "governing authority for"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Telephone> <http://www.w3.org/2000/01/rdf-schema#label> "Telephone"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#agriculturalAreaYear> <http://www.w3.org/2000/01/rdf-schema#label> "agriculturalAreaYear"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Coworker> <http://www.w3.org/2000/01/rdf-schema#label> "Coworker"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Communication> <http://www.w3.org/2000/01/rdf-schema#label> "Communication"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/> <http://www.w3.org/2000/01/rdf-schema#label> "OBO Foundry"@sr-Latn-RS .
+<http://vivoweb.org/ontology/scientific-research> <http://www.w3.org/2000/01/rdf-schema#label> "VIVO Scientific Research Ontology"@sr-Latn-RS .
+<http://purl.org/spar/fabio/> <http://www.w3.org/2000/01/rdf-schema#label> "FaBiO (FRBR-Aligned Bibliographic Ontology)"@sr-Latn-RS .
+<http://purl.org/spar/c4o/> <http://www.w3.org/2000/01/rdf-schema#label> "Citation Counting and Context Characterization Ontology"@sr-Latn-RS .
+<http://purl.org/spar/cito/> <http://www.w3.org/2000/01/rdf-schema#label> "CiTO (Citation Typing Ontology)"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#providesFundingThrough> <http://www.w3.org/2000/01/rdf-schema#label> "provides funding through"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/OBI_0001554> <http://www.w3.org/2000/01/rdf-schema#label> "Rate Measurement Datum"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#GeographicLocation> <http://www.w3.org/2000/01/rdf-schema#label> "Geografksa lokacija"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000010> <http://www.w3.org/2000/01/rdf-schema#label> "Topic Weight Measurement Process"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameCurrencyAR> <http://www.w3.org/2000/01/rdf-schema#label> "nameCurrencyAR"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#end> <http://www.w3.org/2000/01/rdf-schema#label> "end"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/interviewee> <http://www.w3.org/2000/01/rdf-schema#label> "interviewee"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#assigns> <http://www.w3.org/2000/01/rdf-schema#label> "assigns"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Title> <http://www.w3.org/2000/01/rdf-schema#label> "Title"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#researchOverview> <http://www.w3.org/2000/01/rdf-schema#label> "research overview"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000390> <http://www.w3.org/2000/01/rdf-schema#label> "service provided by"@sr-Latn-RS .
+<http://www.w3.org/2004/02/skos/core#Concept> <http://www.w3.org/2000/01/rdf-schema#label> "Concept"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#ResearcherRole> <http://www.w3.org/2000/01/rdf-schema#label> "Researcher Role"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/transcriptOf> <http://www.w3.org/2000/01/rdf-schema#label> "transcript of"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/issuer> <http://www.w3.org/2000/01/rdf-schema#label> "issuer"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#start> <http://www.w3.org/2000/01/rdf-schema#label> "start"@sr-Latn-RS .
+<http://purl.org/net/OCRe/study_design.owl#Single_group_study> <http://www.w3.org/2000/01/rdf-schema#label> "Single Group Study"@sr-Latn-RS .
+<http://vitro.mannlib.cornell.edu/ns/vitro/public> <http://www.w3.org/2000/01/rdf-schema#label> "Vitro Public Ontology"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#group> <http://www.w3.org/2000/01/rdf-schema#label> "Grupa"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000595> <http://www.w3.org/2000/01/rdf-schema#label> "Research Opportunity"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/oclcnum> <http://www.w3.org/2000/01/rdf-schema#label> "Broj za onlaj centar za kompjutersku laboratorijur (OCLC)"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/isbn10> <http://www.w3.org/2000/01/rdf-schema#label> "International Standard Book Number (ISBN) 10"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#MedicalResidency> <http://www.w3.org/2000/01/rdf-schema#label> "Medical Residency"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/BFO_0000006> <http://www.w3.org/2000/01/rdf-schema#label> "Spatial Region"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameShortEN> <http://www.w3.org/2000/01/rdf-schema#label> "nameShortEN"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/RO_0003001> <http://www.w3.org/2000/01/rdf-schema#label> "produced by"@sr-Latn-RS .
+<http://purl.org/spar/c4o/hasGlobalCountSource> <http://www.w3.org/2000/01/rdf-schema#label> "has global count source"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameCurrencyIT> <http://www.w3.org/2000/01/rdf-schema#label> "nameCurrencyIT"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#TextPhone> <http://www.w3.org/2000/01/rdf-schema#label> "Text Phone"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000391> <http://www.w3.org/2000/01/rdf-schema#label> "Pristupna usluga"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Crush> <http://www.w3.org/2000/01/rdf-schema#label> "Crush"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#MemberRole> <http://www.w3.org/2000/01/rdf-schema#label> "Member Role"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Work> <http://www.w3.org/2000/01/rdf-schema#label> "Postao"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000012> <http://www.w3.org/2000/01/rdf-schema#label> "Measurement Label"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000780> <http://www.w3.org/2000/01/rdf-schema#label> "Non-Permanent Resident Role"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/> <http://www.w3.org/2000/01/rdf-schema#label> "Bibontology"@sr-Latn-RS .
+<http://purl.org/net/OCRe/research.owl> <http://www.w3.org/2000/01/rdf-schema#label> "OCRe research"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#special_group> <http://www.w3.org/2000/01/rdf-schema#label> "Special Group"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#countryAreaUnit> <http://www.w3.org/2000/01/rdf-schema#label> "country area unit"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#geo> <http://www.w3.org/2000/01/rdf-schema#label> "geo"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#hasSuccessorOrganization> <http://www.w3.org/2000/01/rdf-schema#label> "successor organization"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/RO_0003000> <http://www.w3.org/2000/01/rdf-schema#label> "produces"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#prerequisiteFor> <http://www.w3.org/2000/01/rdf-schema#label> "prerequisite for"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/isbn13> <http://www.w3.org/2000/01/rdf-schema#label> "International Standard Book Number (ISBN) 13"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#cclCode> <http://www.w3.org/2000/01/rdf-schema#label> "published US Classification Class/subclass (CCL) code"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#hasNationality> <http://www.w3.org/2000/01/rdf-schema#label> "has nationality"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#InvitedTalk> <http://www.w3.org/2000/01/rdf-schema#label> "Organizovan govor"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/uri> <http://www.w3.org/2000/01/rdf-schema#label> "URI"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Agent> <http://www.w3.org/2000/01/rdf-schema#label> "Agent"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000392> <http://www.w3.org/2000/01/rdf-schema#label> "Usluga skladištenja"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#translatorOf> <http://www.w3.org/2000/01/rdf-schema#label> "translator of"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Document> <http://www.w3.org/2000/01/rdf-schema#label> "Document"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000394> <http://www.w3.org/2000/01/rdf-schema#label> "Usluga procesiranja materijala"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000011> <http://www.w3.org/2000/01/rdf-schema#label> "Expertise Measurement Process"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameCurrencyES> <http://www.w3.org/2000/01/rdf-schema#label> "nameCurrencyES"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#countryAreaTotal> <http://www.w3.org/2000/01/rdf-schema#label> "total country area"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/ReferenceSource> <http://www.w3.org/2000/01/rdf-schema#label> "Reference Source"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#hasFundingVehicle> <http://www.w3.org/2000/01/rdf-schema#label> "funding provided via"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nationalityRU> <http://www.w3.org/2000/01/rdf-schema#label> "nationalityRU"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/eanucc13> <http://www.w3.org/2000/01/rdf-schema#label> "EAN International-Uniform Code Council (EAN-UCC) 13"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/EditedBook> <http://www.w3.org/2000/01/rdf-schema#label> "Edited Book"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Male> <http://www.w3.org/2000/01/rdf-schema#label> "Male"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#calendarLink> <http://www.w3.org/2000/01/rdf-schema#label> "calendar link"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/BFO_0000008> <http://www.w3.org/2000/01/rdf-schema#label> "Temporal Region"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#GeopoliticalEntity> <http://www.w3.org/2000/01/rdf-schema#label> "Geopolitical Entity"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000393> <http://www.w3.org/2000/01/rdf-schema#label> "Usluge obučavanja"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#sponsors> <http://www.w3.org/2000/01/rdf-schema#label> "sponsors award or honor"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000029> <http://www.w3.org/2000/01/rdf-schema#label> "kontakt informacije za"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Room> <http://www.w3.org/2000/01/rdf-schema#label> "Room"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#eRACommonsId> <http://www.w3.org/2000/01/rdf-schema#label> "eRA Commons ID"@sr-Latn-RS . 
+<http://www.w3.org/2006/vcard/ns#Muse> <http://www.w3.org/2000/01/rdf-schema#label> "Muse"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000034> <http://www.w3.org/2000/01/rdf-schema#label> "manufacturer"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#area> <http://www.w3.org/2000/01/rdf-schema#label> "Area"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#productId> <http://www.w3.org/2000/01/rdf-schema#label> "product ID"@sr-Latn-RS .
+<http://purl.org/net/OCRe/study_design.owl#Phase_2> <http://www.w3.org/2000/01/rdf-schema#label> "Phase 2"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#codeCurrency> <http://www.w3.org/2000/01/rdf-schema#label> "codeCurrency"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#hasTranslation> <http://www.w3.org/2000/01/rdf-schema#label> "has translation"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Coresident> <http://www.w3.org/2000/01/rdf-schema#label> "Coresident"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/BFO_0000054> <http://www.w3.org/2000/01/rdf-schema#label> "realizuje se u"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#College> <http://www.w3.org/2000/01/rdf-schema#label> "College"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameShortES> <http://www.w3.org/2000/01/rdf-schema#label> "nameShortES"@sr-Latn-RS .
+<http://purl.org/net/OCRe/study_design.owl#Phase_3> <http://www.w3.org/2000/01/rdf-schema#label> "Phase 3"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#dateIssued> <http://www.w3.org/2000/01/rdf-schema#label> "datum izdavanja"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#region> <http://www.w3.org/2000/01/rdf-schema#label> "region"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#GDP> <http://www.w3.org/2000/01/rdf-schema#label> "GDP"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_0000015> <http://www.w3.org/2000/01/rdf-schema#label> "user-defined tag"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Name> <http://www.w3.org/2000/01/rdf-schema#label> "Name"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/BFO_0000055> <http://www.w3.org/2000/01/rdf-schema#label> "realitzuje"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nationalityAR> <http://www.w3.org/2000/01/rdf-schema#label> "nationalityAR"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/CourtReporter> <http://www.w3.org/2000/01/rdf-schema#label> "Court Reporter"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/BFO_0000016> <http://www.w3.org/2000/01/rdf-schema#label> "Disposition"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#hasMember> <http://www.w3.org/2000/01/rdf-schema#label> "member"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#PresenterRole> <http://www.w3.org/2000/01/rdf-schema#label> "Uloga pokazivača"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#PrimaryPosition> <http://www.w3.org/2000/01/rdf-schema#label> "Primary Position"@sr-Latn-RS .
+<http://purl.org/net/OCRe/study_design.owl#Phase_4> <http://www.w3.org/2000/01/rdf-schema#label> "Phase 4"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000565> <http://www.w3.org/2000/01/rdf-schema#label> "Technology Transfer Office"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#hasOrganizationName> <http://www.w3.org/2000/01/rdf-schema#label> "has organization name"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Addressing> <http://www.w3.org/2000/01/rdf-schema#label> "Addressing"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/RO_0001018> <http://www.w3.org/2000/01/rdf-schema#label> "contained in"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000033> <http://www.w3.org/2000/01/rdf-schema#label> "has expertise in technique"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000397> <http://www.w3.org/2000/01/rdf-schema#label> "performs technique"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/peerReviewed> <http://www.w3.org/2000/01/rdf-schema#label> "peer reviewed"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#identifier> <http://www.w3.org/2000/01/rdf-schema#label> "identifier"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#populationNotes> <http://www.w3.org/2000/01/rdf-schema#label> "population notes"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Campus> <http://www.w3.org/2000/01/rdf-schema#label> "Campus"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/BFO_0000015> <http://www.w3.org/2000/01/rdf-schema#label> "Process"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/RO_0001019> <http://www.w3.org/2000/01/rdf-schema#label> "contains"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Slide> <http://www.w3.org/2000/01/rdf-schema#label> "Slide"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#totalAwardAmount> <http://www.w3.org/2000/01/rdf-schema#label> "total award amount"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Code> <http://www.w3.org/2000/01/rdf-schema#label> "Code"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/RO_0002353> <http://www.w3.org/2000/01/rdf-schema#label> "output of"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000038> <http://www.w3.org/2000/01/rdf-schema#label> "specifies the use of"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/OBI_0000833> <http://www.w3.org/2000/01/rdf-schema#label> "objective achieved by"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Library> <http://www.w3.org/2000/01/rdf-schema#label> "Library"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Performance> <http://www.w3.org/2000/01/rdf-schema#label> "Performans"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0001716> <http://www.w3.org/2000/01/rdf-schema#label> "Baza podataka"@sr-Latn-RS .
+<http://vivoweb.org/ontology/scientific-research#documentationFor> <http://www.w3.org/2000/01/rdf-schema#label> "documentation for project or resource"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#hasRelated> <http://www.w3.org/2000/01/rdf-schema#label> "sadrži povezane"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000424> <http://www.w3.org/2000/01/rdf-schema#label> "has study population"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000079> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Pathology"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000789> <http://www.w3.org/2000/01/rdf-schema#label> "Staff Role"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/BFO_0000050> <http://www.w3.org/2000/01/rdf-schema#label> "part of"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Letter> <http://www.w3.org/2000/01/rdf-schema#label> "Letter"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameCurrencyZH> <http://www.w3.org/2000/01/rdf-schema#label> "nameCurrencyZH"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#distributes> <http://www.w3.org/2000/01/rdf-schema#label> "distributes"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/OBI_0000304> <http://www.w3.org/2000/01/rdf-schema#label> "manufactured by"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#hasFormattedName> <http://www.w3.org/2000/01/rdf-schema#label> "has formatted name"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/IAO_0000027> <http://www.w3.org/2000/01/rdf-schema#label> "Stavka podatka"@sr-Latn-RS .
+<http://purl.org/spar/fabio/Erratum> <http://www.w3.org/2000/01/rdf-schema#label> "Erratum"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Individual> <http://www.w3.org/2000/01/rdf-schema#label> "Individual"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Friend> <http://www.w3.org/2000/01/rdf-schema#label> "Friend"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Acquaintance> <http://www.w3.org/2000/01/rdf-schema#label> "Acquaintance"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Nickname> <http://www.w3.org/2000/01/rdf-schema#label> "Nickname"@sr-Latn-RS .
+<http://xmlns.com/foaf/0.1/Agent> <http://www.w3.org/2000/01/rdf-schema#label> "Agent"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/RO_0002351> <http://www.w3.org/2000/01/rdf-schema#label> "has member"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/BFO_0000051> <http://www.w3.org/2000/01/rdf-schema#label> "sadrži deo"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000008> <http://www.w3.org/2000/01/rdf-schema#label> "Topic Weight Measurement"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#logo> <http://www.w3.org/2000/01/rdf-schema#label> "logo"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/BFO_0000031> <http://www.w3.org/2000/01/rdf-schema#label> "Generically Dependent Continuant"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#GraduateStudent> <http://www.w3.org/2000/01/rdf-schema#label> "Postdiplomski Student"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#relatedBy> <http://www.w3.org/2000/01/rdf-schema#label> "povezan po"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000077> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Orthopaedic Surgery"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000787> <http://www.w3.org/2000/01/rdf-schema#label> "Employee Role"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#publicationVenueFor> <http://www.w3.org/2000/01/rdf-schema#label> "publication venue for"@sr-Latn-RS .
+<http://purl.org/net/OCRe/study_design.owl#Phase_0> <http://www.w3.org/2000/01/rdf-schema#label> "Phase 0"@sr-Latn-RS .
+<http://vivoweb.org/ontology/scientific-research#Phase2ClinicalTrial> <http://www.w3.org/2000/01/rdf-schema#label> "Phase 2 Clinical Trial"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#codeAGROVOC> <http://www.w3.org/2000/01/rdf-schema#label> "codeAGROVOC"@sr-Latn-RS .
+<http://purl.org/dc/terms/contributor> <http://www.w3.org/2000/01/rdf-schema#label> "contributor"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/RO_0002350> <http://www.w3.org/2000/01/rdf-schema#label> "member of"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#telephone> <http://www.w3.org/2000/01/rdf-schema#label> "Telephone"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000009> <http://www.w3.org/2000/01/rdf-schema#label> "Expertise Measurement"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000037> <http://www.w3.org/2000/01/rdf-schema#label> "kontakt davaoca usluge"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000028> <http://www.w3.org/2000/01/rdf-schema#label> "ima kontakt informacije"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#ResearchOrganization> <http://www.w3.org/2000/01/rdf-schema#label> "Istraživačka organizacija"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/OBI_0000835> <http://www.w3.org/2000/01/rdf-schema#label> "Manufacturer"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#honorificPrefix> <http://www.w3.org/2000/01/rdf-schema#label> "honorific prefix"@sr-Latn-RS .
+<http://vivoweb.org/ontology/scientific-research#Phase0ClinicalTrial> <http://www.w3.org/2000/01/rdf-schema#label> "Phase 0 Clinical Trial"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Translation> <http://www.w3.org/2000/01/rdf-schema#label> "Translation"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000788> <http://www.w3.org/2000/01/rdf-schema#label> "Faculty Role"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000078> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Otolaryngology"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#landAreaTotal> <http://www.w3.org/2000/01/rdf-schema#label> "total land area"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#hrJobTitle> <http://www.w3.org/2000/01/rdf-schema#label> "HR job title"@sr-Latn-RS .
+<http://purl.org/net/OCRe/study_design.owl#Phase_1> <http://www.w3.org/2000/01/rdf-schema#label> "Phase 1"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#hasResearchArea> <http://www.w3.org/2000/01/rdf-schema#label> "research areas"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#hasCoordinate> <http://www.w3.org/2000/01/rdf-schema#label> "has coordinate"@sr-Latn-RS .
+<http://purl.org/vocab/vann/preferredNamespaceUri> <http://www.w3.org/2000/01/rdf-schema#label> "preferred namespace URI"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000914> <http://www.w3.org/2000/01/rdf-schema#label> "Post-Graduate Student Trainee Role"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Report> <http://www.w3.org/2000/01/rdf-schema#label> "Report"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000075> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Obstetrics and Gynecology"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#agriculturalAreaNotes> <http://www.w3.org/2000/01/rdf-schema#label> "agricultural area notes"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameListZH> <http://www.w3.org/2000/01/rdf-schema#label> "nameListZH"@sr-Latn-RS .
+<http://vivoweb.org/ontology/scientific-research#studyPopulationCount> <http://www.w3.org/2000/01/rdf-schema#label> "study population count"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#CalendarBusy> <http://www.w3.org/2000/01/rdf-schema#label> "Calendar Busy"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/IAO_0000003> <http://www.w3.org/2000/01/rdf-schema#label> "Measurement Unit Label"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameListAR> <http://www.w3.org/2000/01/rdf-schema#label> "nameListAR"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#dateTimeInterval> <http://www.w3.org/2000/01/rdf-schema#label> "vremenski intervan"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#formattedName> <http://www.w3.org/2000/01/rdf-schema#label> "has formatted name"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#economic_region> <http://www.w3.org/2000/01/rdf-schema#label> "Economic Region"@sr-Latn-RS .
+<http://www.w3.org/2000/01/rdf-schema#isDefinedBy> <http://www.w3.org/2000/01/rdf-schema#label> "is defined by"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#AdministratorRole> <http://www.w3.org/2000/01/rdf-schema#label> "Administrator Role"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000076> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Ophthalmology"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/BFO_0000034> <http://www.w3.org/2000/01/rdf-schema#label> "Function"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#EmeritusProfessor> <http://www.w3.org/2000/01/rdf-schema#label> "Profesor Emeritus"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#yearMonthPrecision> <http://www.w3.org/2000/01/rdf-schema#label> "year-month value"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#instantMessage> <http://www.w3.org/2000/01/rdf-schema#label> "instant message"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#subcontractsGrant> <http://www.w3.org/2000/01/rdf-schema#label> "subcontracts grant"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#ConferenceSeries> <http://www.w3.org/2000/01/rdf-schema#label> "Niz konferencija"@sr-Latn-RS .
+<http://vivoweb.org/ontology/scientific-research#protocolRealizedBy> <http://www.w3.org/2000/01/rdf-schema#label> "protokol realizovan od strane"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#UndergraduateStudent> <http://www.w3.org/2000/01/rdf-schema#label> "Student"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/IAO_0000104> <http://www.w3.org/2000/01/rdf-schema#label> "Plan Specification"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Quote> <http://www.w3.org/2000/01/rdf-schema#label> "Quote"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#NonFacultyAcademicPosition> <http://www.w3.org/2000/01/rdf-schema#label> "Non-Faculty Academic Position"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Colleague> <http://www.w3.org/2000/01/rdf-schema#label> "Colleague"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#landAreaUnit> <http://www.w3.org/2000/01/rdf-schema#label> "land area unit"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#hasSound> <http://www.w3.org/2000/01/rdf-schema#label> "has sound"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#dateFiled> <http://www.w3.org/2000/01/rdf-schema#label> "date filed"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#givenName> <http://www.w3.org/2000/01/rdf-schema#label> "first name"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#OutreachProviderRole> <http://www.w3.org/2000/01/rdf-schema#label> "Outreach Provider Role"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000073> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Neurological Surgery"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/IAO_0000005> <http://www.w3.org/2000/01/rdf-schema#label> "Objective Specification"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Organization> <http://www.w3.org/2000/01/rdf-schema#label> "Organizacija"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#country> <http://www.w3.org/2000/01/rdf-schema#label> "country"@sr-Latn-RS .
+<http://purl.org/net/OCRe/study_design.owl#OCRE100038> <http://www.w3.org/2000/01/rdf-schema#label> "Phase"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Series> <http://www.w3.org/2000/01/rdf-schema#label> "Series"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Foundation> <http://www.w3.org/2000/01/rdf-schema#label> "Foundation"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/subsequentLegalDecision> <http://www.w3.org/2000/01/rdf-schema#label> "subsequent legal decision"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/coden> <http://www.w3.org/2000/01/rdf-schema#label> "coden"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#revision> <http://www.w3.org/2000/01/rdf-schema#label> "revision"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Language> <http://www.w3.org/2000/01/rdf-schema#label> "Language"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Me> <http://www.w3.org/2000/01/rdf-schema#label> "Me"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#OrganizerRole> <http://www.w3.org/2000/01/rdf-schema#label> "Organizer Role"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000074> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Nuclear Medicine"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Gender> <http://www.w3.org/2000/01/rdf-schema#label> "Gender"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Exhibit> <http://www.w3.org/2000/01/rdf-schema#label> "Izložba"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#hasMinLatitude> <http://www.w3.org/2000/01/rdf-schema#label> "has minimum latitude"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#County> <http://www.w3.org/2000/01/rdf-schema#label> "County"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Certificate> <http://www.w3.org/2000/01/rdf-schema#label> "Certificate"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Sound> <http://www.w3.org/2000/01/rdf-schema#label> "Sound"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#category> <http://www.w3.org/2000/01/rdf-schema#label> "category"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#scopusId> <http://www.w3.org/2000/01/rdf-schema#label> "Scopus ID"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Statute> <http://www.w3.org/2000/01/rdf-schema#label> "Statute"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#fundingVehicleFor> <http://www.w3.org/2000/01/rdf-schema#label> "provides funding for"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000071> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Internal Medicine"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#nickName> <http://www.w3.org/2000/01/rdf-schema#label> "nickname"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/RO_0002220> <http://www.w3.org/2000/01/rdf-schema#label> "adjacent to"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Key> <http://www.w3.org/2000/01/rdf-schema#label> "Key"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/DocumentPart> <http://www.w3.org/2000/01/rdf-schema#label> "Document Part"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/Book> <http://www.w3.org/2000/01/rdf-schema#label> "Book"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Related> <http://www.w3.org/2000/01/rdf-schema#label> "Povezano"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Project> <http://www.w3.org/2000/01/rdf-schema#label> "Projekat"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#PostdoctoralTraining> <http://www.w3.org/2000/01/rdf-schema#label> "Postodoktorsko usavršavanje"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000918> <http://www.w3.org/2000/01/rdf-schema#label> "povezani istraživački projekti"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/OBI_0000417> <http://www.w3.org/2000/01/rdf-schema#label> "achieves planned objective"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#preferredDisplayOrder> <http://www.w3.org/2000/01/rdf-schema#label> "preferred display order"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#hasNote> <http://www.w3.org/2000/01/rdf-schema#label> "has note"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000072> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Medical Genetics"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#hasName> <http://www.w3.org/2000/01/rdf-schema#label> "has name"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#sponsorAwardId> <http://www.w3.org/2000/01/rdf-schema#label> "sponsor award ID"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/IAO_0000109> <http://www.w3.org/2000/01/rdf-schema#label> "Measurement Datum"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#CalendarRequest> <http://www.w3.org/2000/01/rdf-schema#label> "Calendar Request"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#sound> <http://www.w3.org/2000/01/rdf-schema#label> "sound"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000543> <http://www.w3.org/2000/01/rdf-schema#label> "povezane tehnike"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/numPages> <http://www.w3.org/2000/01/rdf-schema#label> "number of pages"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#familyName> <http://www.w3.org/2000/01/rdf-schema#label> "has last name"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Association> <http://www.w3.org/2000/01/rdf-schema#label> "Asocijacija"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#PostdocPosition> <http://www.w3.org/2000/01/rdf-schema#label> "Postdoktorska pozicija"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#title> <http://www.w3.org/2000/01/rdf-schema#label> "title"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/OBI_0000017> <http://www.w3.org/2000/01/rdf-schema#label> "Regulatory Role"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/BFO_0000038> <http://www.w3.org/2000/01/rdf-schema#label> "One-Dimensional Temporal Region"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#degreeCandidacy> <http://www.w3.org/2000/01/rdf-schema#label> "degree candidacy"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#landAreaNotes> <http://www.w3.org/2000/01/rdf-schema#label> "land area notes"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#email> <http://www.w3.org/2000/01/rdf-schema#label> "email"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#CalendarLink> <http://www.w3.org/2000/01/rdf-schema#label> "Calendar Link"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Group> <http://www.w3.org/2000/01/rdf-schema#label> "Group"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#hasOfficialName> <http://www.w3.org/2000/01/rdf-schema#label> "has official name"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#codeDBPediaID> <http://www.w3.org/2000/01/rdf-schema#label> "codeDBPediaID"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Contact> <http://www.w3.org/2000/01/rdf-schema#label> "Contact"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#hasProceedings> <http://www.w3.org/2000/01/rdf-schema#label> "proceedings"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#GDPUnit> <http://www.w3.org/2000/01/rdf-schema#label> "GDP unit"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/edition> <http://www.w3.org/2000/01/rdf-schema#label> "edition"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#nameShortZH> <http://www.w3.org/2000/01/rdf-schema#label> "nameShortZH"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ARG_2000070> <http://www.w3.org/2000/01/rdf-schema#label> "American Board of Family Medicine"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#Location> <http://www.w3.org/2000/01/rdf-schema#label> "Location"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/RO_0001015> <http://www.w3.org/2000/01/rdf-schema#label> "location of"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#OrganizationUnitName> <http://www.w3.org/2000/01/rdf-schema#label> "Naziv organizacione jedinice"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core> <http://www.w3.org/2000/01/rdf-schema#label> "VIVO Core"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#dateTime> <http://www.w3.org/2000/01/rdf-schema#label> "date/time"@sr-Latn-RS .
+<http://aims.fao.org/aos/geopolitical.owl#codeUN> <http://www.w3.org/2000/01/rdf-schema#label> "codeUN"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/OBI_0000011> <http://www.w3.org/2000/01/rdf-schema#label> "Planned Process"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/ERO_0000919> <http://www.w3.org/2000/01/rdf-schema#label> "related biological specimen"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/status> <http://www.w3.org/2000/01/rdf-schema#label> "status"@sr-Latn-RS .
+<http://www.w3.org/2006/vcard/ns#hasInstantMessage> <http://www.w3.org/2000/01/rdf-schema#label> "has messaging"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#Catalog> <http://www.w3.org/2000/01/rdf-schema#label> "Catalog"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core#hasEquipment> <http://www.w3.org/2000/01/rdf-schema#label> "has equipment"@sr-Latn-RS .
+<http://purl.org/spar/cito/isCitedAsDataSourceBy> <http://www.w3.org/2000/01/rdf-schema#label> "is cited as data source by"@sr-Latn-RS .
+<http://purl.org/spar/cito/citesAsDataSource> <http://www.w3.org/2000/01/rdf-schema#label> "cites as data source"@sr-Latn-RS .
+<http://purl.obolibrary.org/obo/OBI_0100026> <http://www.w3.org/2000/01/rdf-schema#label> "Organism"@sr-Latn-RS .
+<http://purl.org/ontology/bibo/> <http://www.w3.org/2000/01/rdf-schema#label> "Bibliographic Ontology"@sr-Latn-RS .
+<http://vivoweb.org/ontology/core> <http://www.w3.org/2000/01/rdf-schema#label> "VIVO Core Ontology"@sr-Latn-RS .
+<http://purl.org/net/OCRe/study_protocol.owl> <http://www.w3.org/2000/01/rdf-schema#label> "OCRe Study Protocol"@sr-Latn-RS .
+<http://purl.org/net/OCRe/statistics.owl> <http://www.w3.org/2000/01/rdf-schema#label> "OCRe Statistics"@sr-Latn-RS .
+<http://purl.org/dc/terms/> <http://www.w3.org/2000/01/rdf-schema#label> "Dublin Core Terms"@sr-Latn-RS .
+<http://purl.org/vocab/vann/> <http://www.w3.org/2000/01/rdf-schema#label> "Vocabulary for Annotating Vocabulary Descriptions"@sr-Latn-RS . 
+<http://purl.obolibrary.org/obo/ro.owl> <http://www.w3.org/2000/01/rdf-schema#label> "Relations Ontology"@sr-Latn-RS .
+<http://www.ebi.ac.uk/efo/swo/> <http://www.w3.org/2000/01/rdf-schema#label> "Software Ontology"@sr-Latn-RS .
