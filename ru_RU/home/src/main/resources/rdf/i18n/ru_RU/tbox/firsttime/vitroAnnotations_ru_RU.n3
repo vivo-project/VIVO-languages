@@ -53,7 +53,7 @@ skos:narrower
 
 bibo:pageStart
       vitro:publicDescriptionAnnot
-              "Starting page number within a continuous page range."@ru-RU .
+              "Номер начальной страницы в непрерывном диапазоне страниц."@ru-RU .
 
 
 vivo:reportId
@@ -336,7 +336,7 @@ vivo:equipmentFor
 
 bibo:prefixName
       vitro:publicDescriptionAnnot
-              "A title placed before a person's name."@ru-RU .
+              "Титул, указываемый перед именем человека"@ru-RU .
 
 vivo:researcherId
       vitro:publicDescriptionAnnot
