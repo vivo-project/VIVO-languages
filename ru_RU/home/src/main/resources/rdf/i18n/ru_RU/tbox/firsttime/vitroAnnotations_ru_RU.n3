@@ -340,7 +340,7 @@ bibo:prefixName
 
 vivo:researcherId
       vitro:publicDescriptionAnnot
-              "The identification number given to the profile created by a researcher in ResearcherID (https://researcherid.com/)."@ru-RU .
+              "Идентификационный номер, присвоенный профилю, созданному исследователем в ResearcherID (https://researcherid.com/)."@ru-RU .
 bibo:annotates
       vitro:fullPropertyNameAnnot
               "отмечает"@ru-RU ;
