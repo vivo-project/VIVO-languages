@@ -1,5 +1,4 @@
-#TODO affiliation=pripadnost
-<http://vivoweb.org/ontology#vitroPropertyGroupaffiliation> <http://www.w3.org/2000/01/rdf-schema#label> "pripadnost"@sr-Latn-RS .
+<http://vivoweb.org/ontology#vitroPropertyGroupaffiliation> <http://www.w3.org/2000/01/rdf-schema#label> "afilijacija"@sr-Latn-RS .
 <http://vivoweb.org/ontology#vitroPropertyGroupidentifiers> <http://www.w3.org/2000/01/rdf-schema#label> "identitet"@sr-Latn-RS .
 <http://vivoweb.org/ontology#vitroPropertyGroupaddress> <http://www.w3.org/2000/01/rdf-schema#label> "kontakt"@sr-Latn-RS .
 <http://vivoweb.org/ontology#vitroPropertyGrouplinks> <http://www.w3.org/2000/01/rdf-schema#label> "veze"@sr-Latn-RS .
