@@ -64,7 +64,7 @@ owl:sameAs
       vitro:fullPropertyNameAnnot
               "istoKao"@sr-Latn-RS ;
       vitro:publicDescriptionAnnot
-              "Ovo je OWL svojstvo koje vezuje dve individue sa istim 'identitetom'. pogledati http://www.w3.org/TR/owl-ref/#sameAs-def"@sr-Latn-RS .
+              "Ovo je OWL svojstvo koje vezuje dve osobe sa istim 'identitetom'. pogledati http://www.w3.org/TR/owl-ref/#sameAs-def"@sr-Latn-RS .
 
 vitro:moniker
       vitro:descriptionAnnot
@@ -109,7 +109,7 @@ bibo:affirmedBy
 
 vivo:assignee
       vitro:publicDescriptionAnnot
-              "individua ili entitet kome je dodeljeno vlasništvo nad objavljenom prijavom u trenutku objavljivanja."@sr-Latn-RS .
+              "osoba ili entitet kome je dodeljeno vlasništvo nad objavljenom prijavom u trenutku objavljivanja."@sr-Latn-RS .
 
 bibo:presents
       vitro:displayRankAnnot
@@ -520,7 +520,7 @@ vivo:subcontractsGrant
       vitro:fullPropertyNameAnnot
               "podugovaraGrant"@sr-Latn-RS ;
       vitro:publicDescriptionAnnot
-              "Ovo povezuje agenciju, individuu ili entitet koji dodeljuje pod-ugovore za grant sa grant-om koji dodeljuje."@sr-Latn-RS .
+              "Ovo povezuje agenciju, osobu ili entitet koji dodeljuje pod-ugovore za grant sa grant-om koji dodeljuje."@sr-Latn-RS .
 
 vivo:dateFiled
       vitro:publicDescriptionAnnot
