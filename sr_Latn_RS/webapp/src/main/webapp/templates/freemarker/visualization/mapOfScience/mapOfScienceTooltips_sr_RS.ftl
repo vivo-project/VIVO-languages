@@ -3,68 +3,69 @@
 <#-- START TOOLTIP TEXT -->
 
 <div id="toolTipOne" style="display:none;">
-VIVO's Map of Science visualization depicts the topical expertise a university, organization, or person has 
-based on past publications loaded into VIVO. The ${entityLabel} expertise profile is shown here--larger 
-circle sizes denote more publications per topic area.<br /><br />
+VIVO vizuelizacija 'Map of Science' predstavlja ekspertize određenog univerziteta, organizacije ili osobe,
+zasnovano na publikacijama koje se nalaze u VIVO sistemu. Ovde je prikazan profil ekspertiza za ${entityLabel} 
+-- veći krugovi predstavljaju više publikacija u datoj oblasti<br /><br />
 
-<a href='${subEntityMapOfScienceCommonURL}about'>Learn more about VIVO's Map of Science visualization?</a>
+<a href='${subEntityMapOfScienceCommonURL}about'>Pročitajte više o 'Map of Science' vizuelizaciji?</a>
 </div>
 
 <div id="toolTipTwo" style="display:none;">
-The table below summarizes the publications plotted on the Map of Science. Each row corresponds to a 
-(sub)discipline on the map<br /><br />
+Tabela ispod prikazuje publikacije predstavljene na 'Map of Science' grafu. Svaki red odgovara jednoj
+(pod)disciplini na mapi <br /><br />
 
-The <b># of pubs.</b> column shows how many of the publications were mapped to each (sub)discipline. This count can be 
-fractional because some publication venues are associated with more than one (sub)discipline. Each publication 
-in such a venue contributes fractionally to all associated (sub)disciplines according to a weighting scheme.<br /><br />
+<b>'Broj publikacija'</b> kolona prikazuje koliko publikacija je mapirano na svako od (pod)disciplina. Ovj broj
+ne mora biti ceo, s obzirom da su neke publikacije povezane sa više (pod)disciplina. Takve publikacije
+ne doprinose ceo broj ukupnom broju publikacija date discipline, već samo razlomak na osnovu težinske šeme.<br /><br />
 
-The <b>% of activity</b> column shows what proportion of the publications were mapped to each (sub)discipline.
+Kolona <b>% aktivnosti</b> prikazuje koji procenat publikacija je mapirano na svaku od (pod)disciplina.
 
 </div>
 
 <div id="toolTipThree" style="display:none;">
-This visualization is based on the publications we were able to 'science locate' for ${entityLabel}, and 
-therefore it may not be fully representative of the overall publication activity for ${entityLabel}.<br /><br />
+Ova vizuelizacija je zasnovana na publikacijama koje smo mogli da nađemo za ${entityLabel}, i
+zbog toga možda ne predstavlja u potpunosti sve publikacije za ${entityLabel}.<br /><br />
 
-The publication coverage of this visualization can be improved by including more publication data in the VIVO 
-system, and by ensuring that each publication in the VIVO system is associated with a journal that the Map of 
-Science recognizes (based on the holdings of Clarivate Analytics' Web of Science database and Elsevier's Scopus database). Journal 
-names containing typos or other idiosyncrasies may need to be cleaned up before they are recognized. You may 
-contact a VIVO system administrator if publication coverage is a concern.</div>
+Procenat ukupnih publikacija koji je uključen u  ovu vizuelizaciju se može poboljšati tako što će se uneti veći
+broj publikacija u VIVO sistem, i tako što će svaka publikacija biti povezana sa naučnim časopisom koji
+je prepoznat od strane 'Map of Science' vizuelizacije (zasnovano na podacima iz 'Clarivate Analytics' Web of Science' i
+'Elsevier's Scopus' bazama podataka). Nazivi časopisa koji imaju slovnu ili bilo koju drugu grešku treba da se preprave
+pre nego što mogu da budu prepoznati tokom vizuelizacije. Ako smatrate da broj publikacija koji se nalaze na grafu ne odgovara
+broju publikacija unutar VIVO sistema, kontaktirajte vašeg administratora.</div>
 
 <div id="exploreTooltipText" style="display:none;">
-	Overlay and examine expertise profiles for a organization. Color coding by discipline.
+     Istražite profile ekspertiza za jednu ili više organizacija. Boje su podeljene po disciplinama.
 </div>
 
 <div id="compareTooltipText" style="display:none;">
-	Overlay and examine expertise profiles for one or more organizations. Color coding by organization.
+    Istražite profile ekspertiza za jednu ili više organizacija. Boje su podeljene po disciplinama.
 </div>
 
 <div id="searchInfoTooltipText" style="display:none;">
-	List only (sub)disciplines whose names contain this text.
+    Prikažite samo one (pod)discipline čiji naziv sadrži sledeći tekst.
 </div>
 
 
 <#-- COMPARISON TOOLTIP TEXT -->
 
 <div id="comparisonToolTipTwo" style="display:none;">
-The listed organizations are children of the ${entityLabel} node in the organizational hierarchy. 
-You may 'drill down' to see the organizations below a given sub-organization by selecting the chart icon 
-next to a selected sub-organization's name below the graph on the right.
+Prikazane organizacije su pod-čvorovi ${entityLabel} čvora unutar organizacione hijerarhije.
+Možeze prikazati više informacija o organizacijama koje se nalaze ispod neke druge pod-organizacije 
+tako što ćete kliknuti na ikonicu pored imane odabrane pod-discipline, što se nalaze ispod grafa, sa
+desne strane.
 <br /><br />
 
-The <b># of pubs.</b> column shows how many of the publications were mapped to each subdiscipline. This 
-count can be fractional because some publication venues are associated with more than one subdiscipline. 
-Each publication in such a venue contributes fractionally to all associated subdisciplines according to 
-a weighting scheme. 
+<b>'Broj publikacija'</b> kolona prikazuje koliko publikacija je mapirano na svako od (pod)disciplina. Ovj broj
+ne mora biti ceo, s obzirom da su neke publikacije povezane sa više (pod)disciplina. Takve publikacije
+ne doprinose ceo broj ukupnom broju publikacija date discipline, već samo razlomak na osnovu težinske šeme.
 
 <br /><br />
-The <b>% of activity</b> column shows what proportion of the publications were mapped to each subdiscipline.
+Kolona sa nazivom <b>% aktivnosti</b> prikazuje koji deo publikacija je mapiran na svaku od pod-disciplina.
 
 </div>
 
 <div id="comparisonSearchInfoTooltipText" style="display:none;">
-	<!-- Search for specific subdiscipline (or discipline) label in the first column of the table. -->
-	List only organizations <!--(or people) -->whose name contains this text.
+    <!-- Uradite pretragu na osnovu naziva određene pod-discipline (ili discipline) u prvoj koloni tabele -->
+	Prikažite samo organizacije <!--(ili osobe) --> čije ime sadrži ovaj tekst.
 </div>
 <#-- END TOOLTIP TEXT -->
