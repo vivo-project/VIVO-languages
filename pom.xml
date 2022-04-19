@@ -4,7 +4,7 @@
 
     <groupId>org.vivoweb</groupId>
     <artifactId>vivo-languages</artifactId>
-    <version>1.12.1-SNAPSHOT</version>
+    <version>1.12.3-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>VIVO Languages</name>
@@ -230,5 +230,6 @@
     	<module>de_DE</module>
     	<module>pt_BR</module>
     	<module>sr_Latn_RS</module>
+    	<module>ru_RU</module>
     </modules>
 </project>
