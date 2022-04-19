@@ -4,13 +4,13 @@
 
     <groupId>org.vivoweb</groupId>
     <artifactId>vivo-languages-home-core</artifactId>
-    <version>1.12.1-SNAPSHOT</version>
+    <version>1.12.3-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <parent>
         <groupId>org.vivoweb</groupId>
         <artifactId>vivo-languages-core</artifactId>
-        <version>1.12.1-SNAPSHOT</version>
+        <version>1.12.3-SNAPSHOT</version>
         <relativePath>..</relativePath>
     </parent>
 
@@ -56,6 +56,12 @@
          <dependency>
             <groupId>org.vivoweb</groupId>
             <artifactId>vivo-languages-home-sr_Latn_RS</artifactId>
+            <version>${project.version}</version>
+            <type>tar.gz</type>
+        </dependency>
+        <dependency>
+            <groupId>org.vivoweb</groupId>
+            <artifactId>vivo-languages-home-ru_RU</artifactId>
             <version>${project.version}</version>
             <type>tar.gz</type>
         </dependency>
