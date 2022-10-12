@@ -18,8 +18,6 @@ about:about_qr_codes_dg
 
 		<p>Si hace clic en el c&oacute;digo QR de una persona en VIVO, se le llevar&aacute; a la p&aacute;gina "Exportar QR" para esa persona. Esta p&aacute;gina contiene el c&oacute;digo QR vCard visto en la p&aacute;gina principal, as&iacute; como un c&oacute;digo QR que contiene un simple hiperv&iacute;nculo al perfil VIVO del usuario. Tambi&eacute;n contiene una etiqueta HTML para cada c&oacute;digo, que puede ser embebido en una p&aacute;gina web para mostrar ese c&oacute;digo en otros sitios.</p>
 
-		<#-- todo: trabajar el API de VIVO? Actualmente pagar el c&oacute;digo del API de google en el area de exportaci&oacute;n, esto va a ser est&Aacute;tico y no cambia si se actualizan los datos en VIVO. -->
-
 		<h3>C&oacute;mo se lee un c&oacute;digo QR?</h3>
 
 		<p>Hay aplicaciones que puede descargar para el Iphone y los tel&eacute;fonos Android que le permite utilizar la c&aacute;mara del tel&eacute;fono para interactuar con los c&oacute;digos QR colocados en objetos del mundo real.</p>

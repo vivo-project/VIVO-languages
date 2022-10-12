@@ -17,7 +17,6 @@ about:about_qr_codes_dg
 		<p>QR-Codes können viele verschiedene Arten von Daten enthalten. Der QR-Code auf der Profilseite einer Person in VIVO kodiert Informationen über diese Person im Format <i>vCard</i>.  Dies ist eine Art digitale Visitenkarte, die Informationen über den Namen, die Adresse, die Telefonnummer, die E-Mail-Adresse und mehr enthält.</p>
 
 		<p>Wenn Sie in VIVO auf den QR-Code einer Person klicken, gelangen Sie zur Seite <i>QR-Export</i> für diese Person. Diese Seite enthält den vCard QR-Code auf der Startseite sowie einen QR-Code, der einen einfachen Hyperlink zum VIVO-Profil des Benutzers enthält. Ebenfalls enthalen ist ein HTML-Tag für jeden Code, der in eine Webseite eingebettet werden kann, um diesen QR-Code in andere Seiten einzubinden.</p>
-		<#-- todo: make VIVO API?  Currently pasting Google API code into export area, this will be static and not change if VIVO data is updated. -->
 
 		<h3>Wie lese ich einen QR-Code?</h3>
 

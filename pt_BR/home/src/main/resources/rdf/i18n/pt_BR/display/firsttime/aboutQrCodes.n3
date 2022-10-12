@@ -17,7 +17,6 @@ about:about_qr_codes_dg
 		<P> QR Code pode codificar muitos tipos diferentes de dados. O QR Code na página do perfil de uma pessoa em VIVO codifica a informação sobre essa pessoa em <i>vCard</i> formato. Esta é uma espécie de cartão de visitas digital, que contém informações sobre o nome da pessoa, endereço, número de telefone, endereço de e-mail, e muito mais.</p>
 
 		<P> Se você clicar no QR Code de uma pessoa na VIVO, você será levado para o <i>QR Export</i> página para essa pessoa. Esta página contém o QR Code vCard visto na primeira página, bem como um código QR contendo um hiperlink simples de perfil VIVO do usuário. Ele também contém uma tag HTML para cada código, que pode ser incorporado em uma página web para mostrar que o código em outros sites. </p>
-		<#-- todo: make VIVO API?  Currently pasting Google API code into export area, this will be static and not change if VIVO data is updated. -->
 
 		<h3> Como faço para ler um QR Code? </h3>
 
